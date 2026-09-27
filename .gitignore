@@ -1,0 +1,10 @@
+raw/
+prices_daily.csv
+food_prices.duckdb
+model/
+__pycache__/
+*.pyc
+Belajar_*.md
+~*
+scrape.log
+*.pbix

@@ -1,0 +1,52 @@
+// DAX measures for the Food Price Monitor report (table: fact_price).
+// Relationships: fact_price[com_id] -> dim_commodity[com_id], fact_price[region] -> dim_region[region],
+//                fact_price[date] -> dim_date[date]. dim_date is marked as the date table.
+
+Avg Price = AVERAGE ( fact_price[price] )
+
+// the latest date that has data inside the current filter context
+Last Data Date = CALCULATE ( MAX ( fact_price[date] ), ALL ( dim_date ) )
+
+Latest Price =
+VAR d = [Last Data Date]
+RETURN CALCULATE ( [Avg Price], dim_date[date] = d )
+
+Price 7D Ago =
+VAR d = [Last Data Date]
+VAR prev = CALCULATE ( MAX ( fact_price[date] ), ALL ( dim_date ), fact_price[date] <= d - 7 )
+RETURN CALCULATE ( [Avg Price], dim_date[date] = prev )
+
+Price 30D Ago =
+VAR d = [Last Data Date]
+VAR prev = CALCULATE ( MAX ( fact_price[date] ), ALL ( dim_date ), fact_price[date] <= d - 30 )
+RETURN CALCULATE ( [Avg Price], dim_date[date] = prev )
+
+Price 1Y Ago =
+VAR d = [Last Data Date]
+VAR prev = CALCULATE ( MAX ( fact_price[date] ), ALL ( dim_date ), fact_price[date] <= d - 365 )
+RETURN CALCULATE ( [Avg Price], dim_date[date] = prev )
+
+WoW % = DIVIDE ( [Latest Price], [Price 7D Ago] ) - 1
+MoM % = DIVIDE ( [Latest Price], [Price 30D Ago] ) - 1
+YoY % = DIVIDE ( [Latest Price], [Price 1Y Ago] ) - 1
+
+// province gap versus the national average, for the map
+National Price =
+CALCULATE ( [Latest Price], dim_region[region] = "Semua Provinsi" )
+
+Gap vs National % = DIVIDE ( [Latest Price], [National Price] ) - 1
+
+Price Alert = IF ( ABS ( [WoW %] ) > 0.10, "Alert", "Normal" )
+
+// text versions for cards, so the card shows "Rp 96,450" instead of "96K"
+Latest Price Label = FORMAT ( [Latest Price], "Rp #,0" )
+National Price Label = FORMAT ( [National Price], "Rp #,0" )
+
+// Lebaran effect (table: kpi_lebaran). Computed from the prices, because the
+// change_30d_before column was imported as a whole number.
+Lebaran Change % =
+AVERAGEX ( kpi_lebaran, DIVIDE ( kpi_lebaran[price_d1], kpi_lebaran[price_d30] ) - 1 )
+
+// dynamic titles
+Title Selected Commodity =
+"Price trend: " & SELECTEDVALUE ( dim_commodity[commodity], "all commodities (average)" )
