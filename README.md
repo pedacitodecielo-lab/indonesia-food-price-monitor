@@ -22,6 +22,8 @@ An automated pipeline and Power BI dashboard that tracks the daily prices of 21 
 
 ## How it works
 
+![A real scraper run: request, raw JSON and log](images/00_scraping_run.png)
+
 ```
 bi.go.id PIHPS JSON  ->  scrape_pihps.py  ->  prices_daily.csv (864k rows)
                                                    |
