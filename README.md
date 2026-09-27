@@ -1,4 +1,4 @@
-# Indonesia Food Price Monitor
+﻿# Indonesia Food Price Monitor
 
 An automated pipeline and Power BI dashboard that tracks the daily prices of 21 staple foods across Indonesia's 34 provinces. The data comes from Bank Indonesia's PIHPS Nasional.
 
@@ -57,7 +57,8 @@ bi.go.id PIHPS JSON  ->  scrape_pihps.py  ->  prices_daily.csv (864k rows)
 **Power BI report** (3 pages, shown in the screenshots)
 - The data is loaded as a star schema.
 - The DAX measures are in `powerbi/measures.dax`. They include Latest Price, WoW / MoM / YoY %, Gap vs National % and Lebaran Change %.
-- The Executive Summary and Regional Disparity pages share a synced commodity slicer.
+- All three pages share a synced commodity slicer and page-navigation buttons.
+- A custom theme (`powerbi/food_price_theme.json`), colour-coded price changes and monthly sparklines highlight where prices are rising.
 
 **`.github/workflows/daily-refresh.yml`** re-runs the pipeline every weekday afternoon. Past quarters are cached, so each run downloads only the current quarter.
 
@@ -74,7 +75,7 @@ Then build the Power BI report on `model/*.csv` with a Python data source and th
 
 ## Data and limitations
 
-- **Source:** PIHPS Nasional, Bank Indonesia (https://www.bi.go.id/hargapangan). Data © PIHPS Nasional.
+- **Source:** PIHPS Nasional, Bank Indonesia (https://www.bi.go.id/hargapangan). Data Â© PIHPS Nasional.
   - This repository publishes only derived aggregates (`public/`). The raw daily responses are not redistributed.
   - The scraper follows bi.go.id/robots.txt.
 - **Prices:**
