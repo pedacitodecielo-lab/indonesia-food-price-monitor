@@ -92,10 +92,13 @@ FROM latest l JOIN nat n USING (com_id)
 WHERE l.region <> 'Semua Provinsi';
 
 -- KPIs: Lebaran effect (national) ----------------------------------------
+-- Compare 7-day averages, not single days: on the last working day before the
+-- holiday few markets report, and the national average can jump for one day
+-- (rice on 29 Apr 2022: 10,450 -> 12,750 -> back to normal).
 CREATE OR REPLACE TABLE kpi_lebaran AS
 SELECT f.com_id, year(l.lebaran_date) AS year, l.lebaran_date,
-       arg_max(f.price, f.date) FILTER (WHERE f.date <= l.lebaran_date - INTERVAL 30 DAY) AS price_d30,
-       arg_max(f.price, f.date) FILTER (WHERE f.date <  l.lebaran_date)                   AS price_d1,
+       avg(f.price) FILTER (WHERE f.date BETWEEN l.lebaran_date - INTERVAL 37 DAY AND l.lebaran_date - INTERVAL 31 DAY) AS price_d30,
+       avg(f.price) FILTER (WHERE f.date BETWEEN l.lebaran_date - INTERVAL 7 DAY AND l.lebaran_date - INTERVAL 1 DAY)   AS price_d1,
        price_d1 / price_d30 - 1 AS change_30d_before
 FROM fact_price f JOIN lebaran l ON f.date BETWEEN l.lebaran_date - INTERVAL 45 DAY AND l.lebaran_date
 WHERE f.region = 'Semua Provinsi'

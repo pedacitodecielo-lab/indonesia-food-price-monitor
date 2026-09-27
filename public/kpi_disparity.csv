@@ -11,9 +11,9 @@ Bawang Merah Ukuran Sedang,Maluku,41900.0,37450.0,0.1188
 Bawang Merah Ukuran Sedang,Sulawesi Tengah,41750.0,37450.0,0.1148
 Bawang Merah Ukuran Sedang,Gorontalo,39150.0,37450.0,0.0454
 Bawang Merah Ukuran Sedang,Kepulauan Riau,39100.0,37450.0,0.0441
-Bawang Merah Ukuran Sedang,Kalimantan Tengah,37500.0,37450.0,0.0013
 Bawang Merah Ukuran Sedang,Kepulauan Bangka Belitung,37500.0,37450.0,0.0013
 Bawang Merah Ukuran Sedang,DI Yogyakarta,37500.0,37450.0,0.0013
+Bawang Merah Ukuran Sedang,Kalimantan Tengah,37500.0,37450.0,0.0013
 Bawang Merah Ukuran Sedang,DKI Jakarta,36950.0,37450.0,-0.0134
 Bawang Merah Ukuran Sedang,Bengkulu,36750.0,37450.0,-0.0187
 Bawang Merah Ukuran Sedang,Kalimantan Timur,36600.0,37450.0,-0.0227
@@ -22,8 +22,8 @@ Bawang Merah Ukuran Sedang,Sulawesi Selatan,35250.0,37450.0,-0.0587
 Bawang Merah Ukuran Sedang,Jawa Barat,33850.0,37450.0,-0.0961
 Bawang Merah Ukuran Sedang,Kalimantan Selatan,33600.0,37450.0,-0.1028
 Bawang Merah Ukuran Sedang,Sumatera Selatan,32750.0,37450.0,-0.1255
-Bawang Merah Ukuran Sedang,Sumatera Utara,32400.0,37450.0,-0.1348
 Bawang Merah Ukuran Sedang,Aceh,32400.0,37450.0,-0.1348
+Bawang Merah Ukuran Sedang,Sumatera Utara,32400.0,37450.0,-0.1348
 Bawang Merah Ukuran Sedang,Riau,31250.0,37450.0,-0.1656
 Bawang Merah Ukuran Sedang,Sumatera Barat,31150.0,37450.0,-0.1682
 Bawang Merah Ukuran Sedang,Nusa Tenggara Timur,30400.0,37450.0,-0.1883
@@ -57,9 +57,9 @@ Bawang Putih Ukuran Sedang,Sulawesi Selatan,36700.0,39000.0,-0.059
 Bawang Putih Ukuran Sedang,Riau,36150.0,39000.0,-0.0731
 Bawang Putih Ukuran Sedang,Kepulauan Bangka Belitung,35650.0,39000.0,-0.0859
 Bawang Putih Ukuran Sedang,Lampung,35250.0,39000.0,-0.0962
+Bawang Putih Ukuran Sedang,Sumatera Utara,34850.0,39000.0,-0.1064
 Bawang Putih Ukuran Sedang,Kalimantan Selatan,34850.0,39000.0,-0.1064
 Bawang Putih Ukuran Sedang,Aceh,34850.0,39000.0,-0.1064
-Bawang Putih Ukuran Sedang,Sumatera Utara,34850.0,39000.0,-0.1064
 Bawang Putih Ukuran Sedang,Sumatera Barat,33750.0,39000.0,-0.1346
 Bawang Putih Ukuran Sedang,Nusa Tenggara Barat,33650.0,39000.0,-0.1372
 Bawang Putih Ukuran Sedang,Jambi,33650.0,39000.0,-0.1372
@@ -112,20 +112,20 @@ Beras Kualitas Bawah II,Kepulauan Bangka Belitung,15300.0,14700.0,0.0408
 Beras Kualitas Bawah II,Kalimantan Tengah,15250.0,14700.0,0.0374
 Beras Kualitas Bawah II,Aceh,15050.0,14700.0,0.0238
 Beras Kualitas Bawah II,Sumatera Selatan,14950.0,14700.0,0.017
-Beras Kualitas Bawah II,Banten,14850.0,14700.0,0.0102
 Beras Kualitas Bawah II,Lampung,14850.0,14700.0,0.0102
+Beras Kualitas Bawah II,Banten,14850.0,14700.0,0.0102
 Beras Kualitas Bawah II,Kalimantan Barat,14750.0,14700.0,0.0034
 Beras Kualitas Bawah II,Sulawesi Tenggara,14650.0,14700.0,-0.0034
 Beras Kualitas Bawah II,Kalimantan Timur,14650.0,14700.0,-0.0034
 Beras Kualitas Bawah II,DKI Jakarta,14300.0,14700.0,-0.0272
 Beras Kualitas Bawah II,Jawa Timur,14250.0,14700.0,-0.0306
-Beras Kualitas Bawah II,Sulawesi Utara,14150.0,14700.0,-0.0374
 Beras Kualitas Bawah II,Sumatera Utara,14150.0,14700.0,-0.0374
+Beras Kualitas Bawah II,Sulawesi Utara,14150.0,14700.0,-0.0374
 Beras Kualitas Bawah II,Jawa Barat,14100.0,14700.0,-0.0408
 Beras Kualitas Bawah II,Jawa Tengah,14050.0,14700.0,-0.0442
 Beras Kualitas Bawah II,Riau,13800.0,14700.0,-0.0612
-Beras Kualitas Bawah II,Kepulauan Riau,13700.0,14700.0,-0.068
 Beras Kualitas Bawah II,Sulawesi Barat,13700.0,14700.0,-0.068
+Beras Kualitas Bawah II,Kepulauan Riau,13700.0,14700.0,-0.068
 Beras Kualitas Bawah II,Maluku,13450.0,14700.0,-0.085
 Beras Kualitas Bawah II,Sulawesi Selatan,13350.0,14700.0,-0.0918
 Beras Kualitas Bawah II,Nusa Tenggara Timur,13250.0,14700.0,-0.0986
@@ -154,8 +154,8 @@ Beras Kualitas Medium I,Bengkulu,16300.0,16600.0,-0.0181
 Beras Kualitas Medium I,Gorontalo,16250.0,16600.0,-0.0211
 Beras Kualitas Medium I,Lampung,16050.0,16600.0,-0.0331
 Beras Kualitas Medium I,Jawa Tengah,16050.0,16600.0,-0.0331
-Beras Kualitas Medium I,Sulawesi Tenggara,16000.0,16600.0,-0.0361
 Beras Kualitas Medium I,Sulawesi Tengah,16000.0,16600.0,-0.0361
+Beras Kualitas Medium I,Sulawesi Tenggara,16000.0,16600.0,-0.0361
 Beras Kualitas Medium I,Jawa Barat,15850.0,16600.0,-0.0452
 Beras Kualitas Medium I,Aceh,15800.0,16600.0,-0.0482
 Beras Kualitas Medium I,Bali,15750.0,16600.0,-0.0512
@@ -163,8 +163,8 @@ Beras Kualitas Medium I,Sumatera Utara,15650.0,16600.0,-0.0572
 Beras Kualitas Medium I,Kepulauan Riau,15400.0,16600.0,-0.0723
 Beras Kualitas Medium I,DI Yogyakarta,15400.0,16600.0,-0.0723
 Beras Kualitas Medium I,Jawa Timur,15150.0,16600.0,-0.0873
-Beras Kualitas Medium I,Sulawesi Selatan,14850.0,16600.0,-0.1054
 Beras Kualitas Medium I,Nusa Tenggara Timur,14850.0,16600.0,-0.1054
+Beras Kualitas Medium I,Sulawesi Selatan,14850.0,16600.0,-0.1054
 Beras Kualitas Medium I,Sulawesi Barat,14650.0,16600.0,-0.1175
 Beras Kualitas Medium I,Nusa Tenggara Barat,13650.0,16600.0,-0.1777
 Beras Kualitas Medium II,Kalimantan Selatan,22850.0,16400.0,0.3933
@@ -174,26 +174,26 @@ Beras Kualitas Medium II,Sumatera Barat,18450.0,16400.0,0.125
 Beras Kualitas Medium II,Kalimantan Utara,18150.0,16400.0,0.1067
 Beras Kualitas Medium II,Papua Barat,17300.0,16400.0,0.0549
 Beras Kualitas Medium II,Kalimantan Barat,17000.0,16400.0,0.0366
-Beras Kualitas Medium II,Riau,16950.0,16400.0,0.0335
 Beras Kualitas Medium II,Sulawesi Utara,16950.0,16400.0,0.0335
+Beras Kualitas Medium II,Riau,16950.0,16400.0,0.0335
 Beras Kualitas Medium II,Sumatera Selatan,16900.0,16400.0,0.0305
-Beras Kualitas Medium II,Maluku,16750.0,16400.0,0.0213
 Beras Kualitas Medium II,Maluku Utara,16750.0,16400.0,0.0213
+Beras Kualitas Medium II,Maluku,16750.0,16400.0,0.0213
 Beras Kualitas Medium II,Kalimantan Timur,16500.0,16400.0,0.0061
-Beras Kualitas Medium II,Jambi,16400.0,16400.0,0.0
 Beras Kualitas Medium II,Bengkulu,16400.0,16400.0,0.0
+Beras Kualitas Medium II,Jambi,16400.0,16400.0,0.0
 Beras Kualitas Medium II,Sulawesi Tengah,16250.0,16400.0,-0.0091
 Beras Kualitas Medium II,Bali,16200.0,16400.0,-0.0122
 Beras Kualitas Medium II,DKI Jakarta,16200.0,16400.0,-0.0122
 Beras Kualitas Medium II,Sumatera Utara,16000.0,16400.0,-0.0244
-Beras Kualitas Medium II,Kepulauan Riau,15850.0,16400.0,-0.0335
 Beras Kualitas Medium II,Banten,15850.0,16400.0,-0.0335
-Beras Kualitas Medium II,Lampung,15800.0,16400.0,-0.0366
+Beras Kualitas Medium II,Kepulauan Riau,15850.0,16400.0,-0.0335
 Beras Kualitas Medium II,Sulawesi Tenggara,15800.0,16400.0,-0.0366
+Beras Kualitas Medium II,Lampung,15800.0,16400.0,-0.0366
 Beras Kualitas Medium II,Kepulauan Bangka Belitung,15750.0,16400.0,-0.0396
 Beras Kualitas Medium II,Aceh,15250.0,16400.0,-0.0701
-Beras Kualitas Medium II,Jawa Tengah,15200.0,16400.0,-0.0732
 Beras Kualitas Medium II,Jawa Barat,15200.0,16400.0,-0.0732
+Beras Kualitas Medium II,Jawa Tengah,15200.0,16400.0,-0.0732
 Beras Kualitas Medium II,Nusa Tenggara Timur,15000.0,16400.0,-0.0854
 Beras Kualitas Medium II,Jawa Timur,14700.0,16400.0,-0.1037
 Beras Kualitas Medium II,Sulawesi Barat,14550.0,16400.0,-0.1128
@@ -212,8 +212,8 @@ Beras Kualitas Super I,Kalimantan Barat,18700.0,17950.0,0.0418
 Beras Kualitas Super I,Riau,18400.0,17950.0,0.0251
 Beras Kualitas Super I,Banten,18150.0,17950.0,0.0111
 Beras Kualitas Super I,Jambi,18050.0,17950.0,0.0056
-Beras Kualitas Super I,Kalimantan Utara,18000.0,17950.0,0.0028
 Beras Kualitas Super I,Sumatera Selatan,18000.0,17950.0,0.0028
+Beras Kualitas Super I,Kalimantan Utara,18000.0,17950.0,0.0028
 Beras Kualitas Super I,Bengkulu,17750.0,17950.0,-0.0111
 Beras Kualitas Super I,Jawa Tengah,17650.0,17950.0,-0.0167
 Beras Kualitas Super I,Sulawesi Utara,17650.0,17950.0,-0.0167
@@ -243,8 +243,8 @@ Beras Kualitas Super II,Maluku Utara,18750.0,17350.0,0.0807
 Beras Kualitas Super II,Papua Barat,18600.0,17350.0,0.072
 Beras Kualitas Super II,Kalimantan Barat,18350.0,17350.0,0.0576
 Beras Kualitas Super II,DKI Jakarta,17800.0,17350.0,0.0259
-Beras Kualitas Super II,Kalimantan Utara,17650.0,17350.0,0.0173
 Beras Kualitas Super II,Riau,17650.0,17350.0,0.0173
+Beras Kualitas Super II,Kalimantan Utara,17650.0,17350.0,0.0173
 Beras Kualitas Super II,Jambi,17550.0,17350.0,0.0115
 Beras Kualitas Super II,Banten,17350.0,17350.0,0.0
 Beras Kualitas Super II,Sulawesi Utara,17300.0,17350.0,-0.0029
@@ -255,9 +255,9 @@ Beras Kualitas Super II,Bengkulu,17000.0,17350.0,-0.0202
 Beras Kualitas Super II,Sumatera Utara,16950.0,17350.0,-0.0231
 Beras Kualitas Super II,Sumatera Selatan,16900.0,17350.0,-0.0259
 Beras Kualitas Super II,Sulawesi Tenggara,16550.0,17350.0,-0.0461
-Beras Kualitas Super II,Bali,16500.0,17350.0,-0.049
-Beras Kualitas Super II,Kepulauan Riau,16500.0,17350.0,-0.049
 Beras Kualitas Super II,Jawa Tengah,16500.0,17350.0,-0.049
+Beras Kualitas Super II,Kepulauan Riau,16500.0,17350.0,-0.049
+Beras Kualitas Super II,Bali,16500.0,17350.0,-0.049
 Beras Kualitas Super II,Jawa Barat,16450.0,17350.0,-0.0519
 Beras Kualitas Super II,Lampung,16400.0,17350.0,-0.0548
 Beras Kualitas Super II,Nusa Tenggara Timur,16000.0,17350.0,-0.0778
@@ -278,8 +278,8 @@ Cabai Merah Besar,Sulawesi Tengah,59250.0,57400.0,0.0322
 Cabai Merah Besar,Jambi,58500.0,57400.0,0.0192
 Cabai Merah Besar,Riau,58250.0,57400.0,0.0148
 Cabai Merah Besar,Sulawesi Tenggara,57500.0,57400.0,0.0017
-Cabai Merah Besar,Sumatera Selatan,55650.0,57400.0,-0.0305
 Cabai Merah Besar,Lampung,55650.0,57400.0,-0.0305
+Cabai Merah Besar,Sumatera Selatan,55650.0,57400.0,-0.0305
 Cabai Merah Besar,Bengkulu,53750.0,57400.0,-0.0636
 Cabai Merah Besar,Kalimantan Timur,53350.0,57400.0,-0.0706
 Cabai Merah Besar,Sulawesi Barat,50400.0,57400.0,-0.122
@@ -316,8 +316,8 @@ Cabai Merah Keriting,Jawa Barat,61150.0,69250.0,-0.117
 Cabai Merah Keriting,Sulawesi Tengah,60400.0,69250.0,-0.1278
 Cabai Merah Keriting,Bengkulu,60000.0,69250.0,-0.1336
 Cabai Merah Keriting,Sumatera Utara,58900.0,69250.0,-0.1495
-Cabai Merah Keriting,DKI Jakarta,56650.0,69250.0,-0.1819
 Cabai Merah Keriting,Sulawesi Barat,56650.0,69250.0,-0.1819
+Cabai Merah Keriting,DKI Jakarta,56650.0,69250.0,-0.1819
 Cabai Merah Keriting,Jambi,56500.0,69250.0,-0.1841
 Cabai Merah Keriting,Banten,55250.0,69250.0,-0.2022
 Cabai Merah Keriting,DI Yogyakarta,54000.0,69250.0,-0.2202
@@ -404,8 +404,8 @@ Daging Ayam Ras Segar,Kepulauan Bangka Belitung,45150.0,42050.0,0.0737
 Daging Ayam Ras Segar,Bengkulu,45000.0,42050.0,0.0702
 Daging Ayam Ras Segar,Bali,44750.0,42050.0,0.0642
 Daging Ayam Ras Segar,Maluku Utara,43750.0,42050.0,0.0404
-Daging Ayam Ras Segar,Banten,41750.0,42050.0,-0.0071
 Daging Ayam Ras Segar,Jambi,41750.0,42050.0,-0.0071
+Daging Ayam Ras Segar,Banten,41750.0,42050.0,-0.0071
 Daging Ayam Ras Segar,DKI Jakarta,41700.0,42050.0,-0.0083
 Daging Ayam Ras Segar,Kalimantan Selatan,41650.0,42050.0,-0.0095
 Daging Ayam Ras Segar,Sumatera Selatan,41250.0,42050.0,-0.019
@@ -434,9 +434,9 @@ Daging Sapi Kualitas 1,DI Yogyakarta,162500.0,152550.0,0.0652
 Daging Sapi Kualitas 1,Kepulauan Bangka Belitung,162500.0,152550.0,0.0652
 Daging Sapi Kualitas 1,Papua,161900.0,152550.0,0.0613
 Daging Sapi Kualitas 1,Kalimantan Barat,161250.0,152550.0,0.057
+Daging Sapi Kualitas 1,Sumatera Barat,160000.0,152550.0,0.0488
 Daging Sapi Kualitas 1,Bengkulu,160000.0,152550.0,0.0488
 Daging Sapi Kualitas 1,Kalimantan Tengah,160000.0,152550.0,0.0488
-Daging Sapi Kualitas 1,Sumatera Barat,160000.0,152550.0,0.0488
 Daging Sapi Kualitas 1,Kalimantan Utara,159150.0,152550.0,0.0433
 Daging Sapi Kualitas 1,Jawa Barat,157650.0,152550.0,0.0334
 Daging Sapi Kualitas 1,Jambi,155000.0,152550.0,0.0161
@@ -447,8 +447,8 @@ Daging Sapi Kualitas 1,Jawa Tengah,151900.0,152550.0,-0.0043
 Daging Sapi Kualitas 1,Banten,151650.0,152550.0,-0.0059
 Daging Sapi Kualitas 1,Sumatera Selatan,151250.0,152550.0,-0.0085
 Daging Sapi Kualitas 1,Sumatera Utara,150950.0,152550.0,-0.0105
-Daging Sapi Kualitas 1,Maluku Utara,150000.0,152550.0,-0.0167
 Daging Sapi Kualitas 1,Riau,150000.0,152550.0,-0.0167
+Daging Sapi Kualitas 1,Maluku Utara,150000.0,152550.0,-0.0167
 Daging Sapi Kualitas 1,Sulawesi Tengah,149400.0,152550.0,-0.0206
 Daging Sapi Kualitas 1,Jawa Timur,145150.0,152550.0,-0.0485
 Daging Sapi Kualitas 1,Lampung,144400.0,152550.0,-0.0534
@@ -463,9 +463,9 @@ Daging Sapi Kualitas 1,Nusa Tenggara Timur,121650.0,152550.0,-0.2026
 Daging Sapi Kualitas 2,Kalimantan Selatan,165400.0,143250.0,0.1546
 Daging Sapi Kualitas 2,Papua Barat,165000.0,143250.0,0.1518
 Daging Sapi Kualitas 2,Kalimantan Timur,165000.0,143250.0,0.1518
+Daging Sapi Kualitas 2,Sumatera Barat,156250.0,143250.0,0.0908
 Daging Sapi Kualitas 2,Papua,156250.0,143250.0,0.0908
 Daging Sapi Kualitas 2,DI Yogyakarta,156250.0,143250.0,0.0908
-Daging Sapi Kualitas 2,Sumatera Barat,156250.0,143250.0,0.0908
 Daging Sapi Kualitas 2,Kalimantan Tengah,155650.0,143250.0,0.0866
 Daging Sapi Kualitas 2,Sulawesi Utara,155000.0,143250.0,0.082
 Daging Sapi Kualitas 2,Gorontalo,150000.0,143250.0,0.0471
@@ -480,8 +480,8 @@ Daging Sapi Kualitas 2,Banten,143350.0,143250.0,0.0007
 Daging Sapi Kualitas 2,Maluku,142500.0,143250.0,-0.0052
 Daging Sapi Kualitas 2,Sulawesi Barat,140000.0,143250.0,-0.0227
 Daging Sapi Kualitas 2,Kepulauan Bangka Belitung,139400.0,143250.0,-0.0269
-Daging Sapi Kualitas 2,Sulawesi Tenggara,137500.0,143250.0,-0.0401
 Daging Sapi Kualitas 2,Lampung,137500.0,143250.0,-0.0401
+Daging Sapi Kualitas 2,Sulawesi Tenggara,137500.0,143250.0,-0.0401
 Daging Sapi Kualitas 2,Sulawesi Selatan,137250.0,143250.0,-0.0419
 Daging Sapi Kualitas 2,Aceh,135000.0,143250.0,-0.0576
 Daging Sapi Kualitas 2,Kalimantan Utara,133350.0,143250.0,-0.0691
@@ -501,8 +501,8 @@ Gula Pasir Kualitas Premium,Kalimantan Tengah,22900.0,20350.0,0.1253
 Gula Pasir Kualitas Premium,Sulawesi Tengah,21650.0,20350.0,0.0639
 Gula Pasir Kualitas Premium,Kalimantan Barat,21100.0,20350.0,0.0369
 Gula Pasir Kualitas Premium,Gorontalo,20500.0,20350.0,0.0074
-Gula Pasir Kualitas Premium,Aceh,20500.0,20350.0,0.0074
 Gula Pasir Kualitas Premium,Kalimantan Timur,20500.0,20350.0,0.0074
+Gula Pasir Kualitas Premium,Aceh,20500.0,20350.0,0.0074
 Gula Pasir Kualitas Premium,DKI Jakarta,20400.0,20350.0,0.0025
 Gula Pasir Kualitas Premium,Nusa Tenggara Timur,20250.0,20350.0,-0.0049
 Gula Pasir Kualitas Premium,Sumatera Utara,20200.0,20350.0,-0.0074
@@ -511,12 +511,12 @@ Gula Pasir Kualitas Premium,Bali,19950.0,20350.0,-0.0197
 Gula Pasir Kualitas Premium,Banten,19850.0,20350.0,-0.0246
 Gula Pasir Kualitas Premium,Bengkulu,19750.0,20350.0,-0.0295
 Gula Pasir Kualitas Premium,Kalimantan Utara,19600.0,20350.0,-0.0369
-Gula Pasir Kualitas Premium,Sumatera Barat,19450.0,20350.0,-0.0442
 Gula Pasir Kualitas Premium,Jambi,19450.0,20350.0,-0.0442
+Gula Pasir Kualitas Premium,Sumatera Barat,19450.0,20350.0,-0.0442
 Gula Pasir Kualitas Premium,Jawa Barat,19350.0,20350.0,-0.0491
-Gula Pasir Kualitas Premium,Jawa Tengah,19250.0,20350.0,-0.0541
-Gula Pasir Kualitas Premium,Sumatera Selatan,19250.0,20350.0,-0.0541
 Gula Pasir Kualitas Premium,Kepulauan Bangka Belitung,19250.0,20350.0,-0.0541
+Gula Pasir Kualitas Premium,Sumatera Selatan,19250.0,20350.0,-0.0541
+Gula Pasir Kualitas Premium,Jawa Tengah,19250.0,20350.0,-0.0541
 Gula Pasir Kualitas Premium,Lampung,19200.0,20350.0,-0.0565
 Gula Pasir Kualitas Premium,Kepulauan Riau,19150.0,20350.0,-0.059
 Gula Pasir Kualitas Premium,Nusa Tenggara Barat,19000.0,20350.0,-0.0663
@@ -530,12 +530,12 @@ Gula Pasir Lokal,Maluku Utara,21000.0,19150.0,0.0966
 Gula Pasir Lokal,Gorontalo,20650.0,19150.0,0.0783
 Gula Pasir Lokal,Papua Barat,20250.0,19150.0,0.0574
 Gula Pasir Lokal,Kalimantan Utara,20000.0,19150.0,0.0444
+Gula Pasir Lokal,Sulawesi Tengah,19900.0,19150.0,0.0392
 Gula Pasir Lokal,Sulawesi Utara,19900.0,19150.0,0.0392
 Gula Pasir Lokal,Maluku,19900.0,19150.0,0.0392
-Gula Pasir Lokal,Sulawesi Tengah,19900.0,19150.0,0.0392
 Gula Pasir Lokal,Kalimantan Timur,19700.0,19150.0,0.0287
-Gula Pasir Lokal,Kalimantan Barat,19600.0,19150.0,0.0235
 Gula Pasir Lokal,Nusa Tenggara Timur,19600.0,19150.0,0.0235
+Gula Pasir Lokal,Kalimantan Barat,19600.0,19150.0,0.0235
 Gula Pasir Lokal,DKI Jakarta,19550.0,19150.0,0.0209
 Gula Pasir Lokal,Kalimantan Tengah,19500.0,19150.0,0.0183
 Gula Pasir Lokal,Aceh,19450.0,19150.0,0.0157
@@ -544,12 +544,12 @@ Gula Pasir Lokal,Sumatera Utara,19100.0,19150.0,-0.0026
 Gula Pasir Lokal,Riau,19000.0,19150.0,-0.0078
 Gula Pasir Lokal,Bengkulu,19000.0,19150.0,-0.0078
 Gula Pasir Lokal,Nusa Tenggara Barat,18900.0,19150.0,-0.0131
-Gula Pasir Lokal,Kalimantan Selatan,18900.0,19150.0,-0.0131
 Gula Pasir Lokal,Jambi,18900.0,19150.0,-0.0131
+Gula Pasir Lokal,Kalimantan Selatan,18900.0,19150.0,-0.0131
 Gula Pasir Lokal,Sumatera Barat,18850.0,19150.0,-0.0157
-Gula Pasir Lokal,Sumatera Selatan,18650.0,19150.0,-0.0261
 Gula Pasir Lokal,Banten,18650.0,19150.0,-0.0261
 Gula Pasir Lokal,Sulawesi Selatan,18650.0,19150.0,-0.0261
+Gula Pasir Lokal,Sumatera Selatan,18650.0,19150.0,-0.0261
 Gula Pasir Lokal,Jawa Barat,18600.0,19150.0,-0.0287
 Gula Pasir Lokal,Sulawesi Barat,18600.0,19150.0,-0.0287
 Gula Pasir Lokal,Lampung,18500.0,19150.0,-0.0339
@@ -574,16 +574,16 @@ Minyak Goreng Curah,Sumatera Utara,20900.0,20400.0,0.0245
 Minyak Goreng Curah,DI Yogyakarta,20750.0,20400.0,0.0172
 Minyak Goreng Curah,Sumatera Selatan,20650.0,20400.0,0.0123
 Minyak Goreng Curah,Jawa Tengah,20600.0,20400.0,0.0098
-Minyak Goreng Curah,Jambi,20500.0,20400.0,0.0049
 Minyak Goreng Curah,Sumatera Barat,20500.0,20400.0,0.0049
+Minyak Goreng Curah,Jambi,20500.0,20400.0,0.0049
 Minyak Goreng Curah,Aceh,20100.0,20400.0,-0.0147
 Minyak Goreng Curah,Kalimantan Utara,20000.0,20400.0,-0.0196
 Minyak Goreng Curah,Bengkulu,20000.0,20400.0,-0.0196
 Minyak Goreng Curah,Sulawesi Barat,19850.0,20400.0,-0.027
 Minyak Goreng Curah,Kepulauan Riau,19700.0,20400.0,-0.0343
 Minyak Goreng Curah,Sulawesi Selatan,19350.0,20400.0,-0.0515
-Minyak Goreng Curah,Kalimantan Selatan,19000.0,20400.0,-0.0686
 Minyak Goreng Curah,Sulawesi Tenggara,19000.0,20400.0,-0.0686
+Minyak Goreng Curah,Kalimantan Selatan,19000.0,20400.0,-0.0686
 Minyak Goreng Curah,Kalimantan Barat,18800.0,20400.0,-0.0784
 Minyak Goreng Curah,Kalimantan Tengah,18550.0,20400.0,-0.0907
 Minyak Goreng Curah,Sulawesi Tengah,18250.0,20400.0,-0.1054
@@ -606,9 +606,9 @@ Minyak Goreng Kemasan Bermerk 1,Jambi,24400.0,24350.0,0.0021
 Minyak Goreng Kemasan Bermerk 1,Kalimantan Utara,24350.0,24350.0,0.0
 Minyak Goreng Kemasan Bermerk 1,Nusa Tenggara Timur,24150.0,24350.0,-0.0082
 Minyak Goreng Kemasan Bermerk 1,Aceh,24150.0,24350.0,-0.0082
-Minyak Goreng Kemasan Bermerk 1,Bengkulu,24000.0,24350.0,-0.0144
 Minyak Goreng Kemasan Bermerk 1,DI Yogyakarta,24000.0,24350.0,-0.0144
 Minyak Goreng Kemasan Bermerk 1,Kalimantan Barat,24000.0,24350.0,-0.0144
+Minyak Goreng Kemasan Bermerk 1,Bengkulu,24000.0,24350.0,-0.0144
 Minyak Goreng Kemasan Bermerk 1,Sulawesi Utara,23750.0,24350.0,-0.0246
 Minyak Goreng Kemasan Bermerk 1,Sulawesi Tengah,23750.0,24350.0,-0.0246
 Minyak Goreng Kemasan Bermerk 1,Jawa Barat,23350.0,24350.0,-0.0411
@@ -617,8 +617,8 @@ Minyak Goreng Kemasan Bermerk 1,Sumatera Utara,23150.0,24350.0,-0.0493
 Minyak Goreng Kemasan Bermerk 1,Riau,23100.0,24350.0,-0.0513
 Minyak Goreng Kemasan Bermerk 1,DKI Jakarta,22950.0,24350.0,-0.0575
 Minyak Goreng Kemasan Bermerk 1,Bali,22950.0,24350.0,-0.0575
-Minyak Goreng Kemasan Bermerk 1,Jawa Timur,22850.0,24350.0,-0.0616
 Minyak Goreng Kemasan Bermerk 1,Lampung,22850.0,24350.0,-0.0616
+Minyak Goreng Kemasan Bermerk 1,Jawa Timur,22850.0,24350.0,-0.0616
 Minyak Goreng Kemasan Bermerk 1,Jawa Tengah,22700.0,24350.0,-0.0678
 Minyak Goreng Kemasan Bermerk 1,Kepulauan Bangka Belitung,21900.0,24350.0,-0.1006
 Minyak Goreng Kemasan Bermerk 1,Sumatera Selatan,21400.0,24350.0,-0.1211
@@ -630,20 +630,20 @@ Minyak Goreng Kemasan Bermerk 2,Papua,26450.0,23500.0,0.1255
 Minyak Goreng Kemasan Bermerk 2,Sulawesi Barat,25100.0,23500.0,0.0681
 Minyak Goreng Kemasan Bermerk 2,Sulawesi Tenggara,24900.0,23500.0,0.0596
 Minyak Goreng Kemasan Bermerk 2,Sulawesi Tengah,24650.0,23500.0,0.0489
-Minyak Goreng Kemasan Bermerk 2,Aceh,24400.0,23500.0,0.0383
 Minyak Goreng Kemasan Bermerk 2,Kalimantan Tengah,24400.0,23500.0,0.0383
-Minyak Goreng Kemasan Bermerk 2,Kalimantan Selatan,24350.0,23500.0,0.0362
+Minyak Goreng Kemasan Bermerk 2,Aceh,24400.0,23500.0,0.0383
 Minyak Goreng Kemasan Bermerk 2,Bali,24350.0,23500.0,0.0362
+Minyak Goreng Kemasan Bermerk 2,Kalimantan Selatan,24350.0,23500.0,0.0362
 Minyak Goreng Kemasan Bermerk 2,Kalimantan Timur,24050.0,23500.0,0.0234
-Minyak Goreng Kemasan Bermerk 2,DI Yogyakarta,23750.0,23500.0,0.0106
 Minyak Goreng Kemasan Bermerk 2,Papua Barat,23750.0,23500.0,0.0106
+Minyak Goreng Kemasan Bermerk 2,DI Yogyakarta,23750.0,23500.0,0.0106
 Minyak Goreng Kemasan Bermerk 2,Banten,23650.0,23500.0,0.0064
 Minyak Goreng Kemasan Bermerk 2,Kalimantan Utara,23300.0,23500.0,-0.0085
-Minyak Goreng Kemasan Bermerk 2,Sumatera Utara,23250.0,23500.0,-0.0106
 Minyak Goreng Kemasan Bermerk 2,Kalimantan Barat,23250.0,23500.0,-0.0106
 Minyak Goreng Kemasan Bermerk 2,Bengkulu,23250.0,23500.0,-0.0106
-Minyak Goreng Kemasan Bermerk 2,Nusa Tenggara Timur,23200.0,23500.0,-0.0128
+Minyak Goreng Kemasan Bermerk 2,Sumatera Utara,23250.0,23500.0,-0.0106
 Minyak Goreng Kemasan Bermerk 2,DKI Jakarta,23200.0,23500.0,-0.0128
+Minyak Goreng Kemasan Bermerk 2,Nusa Tenggara Timur,23200.0,23500.0,-0.0128
 Minyak Goreng Kemasan Bermerk 2,Sumatera Barat,23100.0,23500.0,-0.017
 Minyak Goreng Kemasan Bermerk 2,Sulawesi Utara,23000.0,23500.0,-0.0213
 Minyak Goreng Kemasan Bermerk 2,Jambi,23000.0,23500.0,-0.0213
@@ -652,8 +652,8 @@ Minyak Goreng Kemasan Bermerk 2,Maluku Utara,22500.0,23500.0,-0.0426
 Minyak Goreng Kemasan Bermerk 2,Nusa Tenggara Barat,22450.0,23500.0,-0.0447
 Minyak Goreng Kemasan Bermerk 2,Sulawesi Selatan,22250.0,23500.0,-0.0532
 Minyak Goreng Kemasan Bermerk 2,Jawa Timur,22200.0,23500.0,-0.0553
-Minyak Goreng Kemasan Bermerk 2,Riau,22150.0,23500.0,-0.0574
 Minyak Goreng Kemasan Bermerk 2,Jawa Tengah,22150.0,23500.0,-0.0574
+Minyak Goreng Kemasan Bermerk 2,Riau,22150.0,23500.0,-0.0574
 Minyak Goreng Kemasan Bermerk 2,Sumatera Selatan,21500.0,23500.0,-0.0851
 Minyak Goreng Kemasan Bermerk 2,Lampung,21100.0,23500.0,-0.1021
 Minyak Goreng Kemasan Bermerk 2,Kepulauan Riau,20200.0,23500.0,-0.1404
@@ -678,8 +678,8 @@ Telur Ayam Ras Segar,Kalimantan Selatan,29600.0,29950.0,-0.0117
 Telur Ayam Ras Segar,Kepulauan Riau,29600.0,29950.0,-0.0117
 Telur Ayam Ras Segar,Sulawesi Barat,29300.0,29950.0,-0.0217
 Telur Ayam Ras Segar,Aceh,29300.0,29950.0,-0.0217
-Telur Ayam Ras Segar,Bali,29150.0,29950.0,-0.0267
 Telur Ayam Ras Segar,Nusa Tenggara Barat,29150.0,29950.0,-0.0267
+Telur Ayam Ras Segar,Bali,29150.0,29950.0,-0.0267
 Telur Ayam Ras Segar,Sumatera Barat,28800.0,29950.0,-0.0384
 Telur Ayam Ras Segar,Bengkulu,28800.0,29950.0,-0.0384
 Telur Ayam Ras Segar,Sumatera Selatan,28400.0,29950.0,-0.0518
@@ -687,8 +687,8 @@ Telur Ayam Ras Segar,DKI Jakarta,27000.0,29950.0,-0.0985
 Telur Ayam Ras Segar,Jawa Barat,26500.0,29950.0,-0.1152
 Telur Ayam Ras Segar,Banten,26350.0,29950.0,-0.1202
 Telur Ayam Ras Segar,Lampung,26100.0,29950.0,-0.1285
-Telur Ayam Ras Segar,DI Yogyakarta,25900.0,29950.0,-0.1352
 Telur Ayam Ras Segar,Jambi,25900.0,29950.0,-0.1352
+Telur Ayam Ras Segar,DI Yogyakarta,25900.0,29950.0,-0.1352
 Telur Ayam Ras Segar,Sulawesi Selatan,25550.0,29950.0,-0.1469
 Telur Ayam Ras Segar,Jawa Tengah,25350.0,29950.0,-0.1536
 Telur Ayam Ras Segar,Jawa Timur,24900.0,29950.0,-0.1686

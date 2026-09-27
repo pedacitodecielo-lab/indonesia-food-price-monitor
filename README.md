@@ -10,13 +10,12 @@ An automated pipeline and Power BI dashboard that tracks the daily prices of 21 
 
 1. **Chillies are the main price risk.** The national price of cabai rawit merah is Rp 96,450/kg. That is 30.3% higher than a month ago and 91.7% higher than a year ago. Every staple other than chillies moved less than 10% year on year.
 2. **Chillies cost much more in eastern Indonesia.** In Maluku Utara, cabai merah besar costs 2.3 times the national average. Cabai rawit hijau costs 2.2 times the national average there. For cabai rawit merah, Maluku Utara and Gorontalo are about 60% above the national price.
-3. **Some foods rise before Lebaran every year.** Over the five Lebarans from 2022 to 2026, the national price rose in the 30 days before Lebaran by these averages:
-   - shallots: +10.2%
-   - broiler chicken: +7.7%
-   - beef: about +6%
-
-   Chillies showed no consistent pre-Lebaran rise.
-4. **20 province-level alerts** are active. An alert means the price moved more than 10% in one week.
+3. **Shallots jump before Lebaran; chillies have no pattern.** The measure compares the national price in the last week before Lebaran with the price a month earlier, over the five Lebarans from 2022 to 2026:
+   - **Shallots:** +7.9% on average. They rose in 3 of the 5 years: +8%, +12% and +21%.
+   - **Beef:** about +3%. The rise is small, but it happened every year.
+   - **Chicken:** +3.5% on average. Most of that comes from 2022; the other years were close to 0.
+   - **Chillies:** anywhere from -38% to +19%, so there is no pre-Lebaran pattern.
+4. **All 20 active price alerts are chillies.** An alert is a province where a price moved more than 10% in one week.
 
 ![Regional disparity](images/02_regional_disparity.png)
 ![Seasonality and Lebaran](images/03_seasonality_lebaran.png)
@@ -47,12 +46,14 @@ bi.go.id PIHPS JSON  ->  scrape_pihps.py  ->  prices_daily.csv (864k rows)
   - 90-day volatility
   - weekly alert flag
   - gap from the national price in each province
-  - price change in the 30 days before each Lebaran
+  - Lebaran effect: the average price in the last 7 days before Lebaran vs the 7 days around a month earlier
 
 **Data-quality checks** (in `public/dq_checks.csv`):
 - 0 duplicate commodity-region-day rows
 - 0 non-positive prices
 - 130 daily jumps above 50%, kept and flagged for review
+
+**Lesson from the checks.** The first version compared single days (the day before Lebaran vs 30 days earlier). On the last working day before the 2022 holiday, few markets reported. On that day the national rice price jumped from Rp 10,450 to Rp 12,750, and it returned to normal after the holiday. That one day inflated the 2022 figures: chicken showed +7.7% on average, driven by a single +38.6% reading in 2022. The final measure compares 7-day averages, which absorbs one-day spikes.
 
 **Power BI report** (3 pages, shown in the screenshots)
 - The data is loaded as a star schema.
