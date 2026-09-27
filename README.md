@@ -82,7 +82,7 @@ Then build the Power BI report on `model/*.csv` with a Python data source and th
   - This repository publishes only derived aggregates (`public/`). The raw daily responses are not redistributed.
   - The scraper follows bi.go.id/robots.txt.
 - **Prices:**
-  - All prices are traditional-market prices in Rp per kg (or per litre for cooking oil).
+  - All prices are traditional-market prices in Rp per kg, as PIHPS labels every commodity, including cooking oil.
   - The province figure is PIHPS's own province average.
 - **Lebaran effect:** it is an average of only five holidays. Read it as a pattern, not as a forecast.
 - **Price movements:** chilli prices move with weather and harvest cycles. This project does not model those drivers.
