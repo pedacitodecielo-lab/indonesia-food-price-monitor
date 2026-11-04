@@ -1,8 +1,8 @@
 check_name,result
-rows,883365
+rows,884018
 duplicate commodity-region-day rows,0
 non-positive prices,0
 daily jumps above 50% (possible entry errors),131
-date range,2022-01-03 to 2026-11-03
+date range,2022-01-03 to 2026-11-04
 regions,35
 commodities,21
