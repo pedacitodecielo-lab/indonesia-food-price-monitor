@@ -1,723 +1,723 @@
 commodity,region,as_of,price_now,wow,mom,yoy,vol_90d,alert_wow
-Bawang Merah Ukuran Sedang,Aceh,2026-11-25,33250.0,-0.0075,0.1606,-0.1227,0.0144,false
-Bawang Merah Ukuran Sedang,Bali,2026-11-25,32200.0,0.0142,0.1046,-0.2333,0.0096,false
-Bawang Merah Ukuran Sedang,Banten,2026-11-25,39500.0,-0.0162,0.1158,-0.1023,0.0109,false
-Bawang Merah Ukuran Sedang,Bengkulu,2026-11-25,43750.0,0.0294,0.0606,-0.0202,0.013,false
-Bawang Merah Ukuran Sedang,DI Yogyakarta,2026-11-25,40000.0,0.0191,0.0667,-0.0476,0.0053,false
-Bawang Merah Ukuran Sedang,DKI Jakarta,2026-11-25,43450.0,0.1042,0.1271,-0.0814,0.0148,true
-Bawang Merah Ukuran Sedang,Gorontalo,2026-11-25,43000.0,0.0142,0.0,-0.087,0.0205,false
-Bawang Merah Ukuran Sedang,Jambi,2026-11-25,35650.0,0.0186,0.2336,-0.0468,0.0158,false
-Bawang Merah Ukuran Sedang,Jawa Barat,2026-11-25,37500.0,-0.0092,0.1211,-0.1554,0.0135,false
-Bawang Merah Ukuran Sedang,Jawa Tengah,2026-11-25,34500.0,0.0132,0.1367,-0.1863,0.007,false
-Bawang Merah Ukuran Sedang,Jawa Timur,2026-11-25,31800.0,0.0095,0.0582,-0.2374,0.0077,false
-Bawang Merah Ukuran Sedang,Kalimantan Barat,2026-11-25,42400.0,-0.0117,0.0534,-0.023,0.0142,false
-Bawang Merah Ukuran Sedang,Kalimantan Selatan,2026-11-25,33750.0,-0.0103,-0.0044,-0.1456,0.0084,false
-Bawang Merah Ukuran Sedang,Kalimantan Tengah,2026-11-25,40500.0,0.0125,0.1096,-0.0559,0.0091,false
-Bawang Merah Ukuran Sedang,Kalimantan Timur,2026-11-25,38250.0,-0.0437,0.0,-0.0968,0.0261,false
-Bawang Merah Ukuran Sedang,Kalimantan Utara,2026-11-25,44250.0,0.0149,0.0599,-0.0585,0.0159,false
-Bawang Merah Ukuran Sedang,Kepulauan Bangka Belitung,2026-11-25,41000.0,0.0581,0.038,-0.1503,0.013,false
-Bawang Merah Ukuran Sedang,Kepulauan Riau,2026-11-25,46000.0,-0.0076,0.1616,0.2416,0.028,false
-Bawang Merah Ukuran Sedang,Lampung,2026-11-25,32400.0,0.0078,0.0318,-0.1849,0.0107,false
-Bawang Merah Ukuran Sedang,Maluku,2026-11-25,40650.0,0.0163,0.0,-0.0634,0.0066,false
-Bawang Merah Ukuran Sedang,Maluku Utara,2026-11-25,57500.0,0.0,0.0,-0.0417,0.0378,false
-Bawang Merah Ukuran Sedang,Nusa Tenggara Barat,2026-11-25,27400.0,0.0243,0.0641,-0.242,0.0224,false
-Bawang Merah Ukuran Sedang,Nusa Tenggara Timur,2026-11-25,30000.0,-0.0521,-0.0276,-0.1724,0.0168,false
-Bawang Merah Ukuran Sedang,Papua,2026-11-25,62250.0,0.0163,0.0197,0.0,0.0045,false
-Bawang Merah Ukuran Sedang,Papua Barat,2026-11-25,52500.0,0.0,0.0,-0.0455,0.0085,false
-Bawang Merah Ukuran Sedang,Riau,2026-11-25,34700.0,0.0221,0.1176,-0.0634,0.0175,false
-Bawang Merah Ukuran Sedang,Semua Provinsi,2026-11-25,39150.0,0.0051,0.061,-0.0948,0.0043,false
-Bawang Merah Ukuran Sedang,Sulawesi Barat,2026-11-25,37500.0,0.0,-0.082,-0.0718,0.0086,false
-Bawang Merah Ukuran Sedang,Sulawesi Selatan,2026-11-25,34250.0,0.0224,-0.0144,-0.1138,0.011,false
-Bawang Merah Ukuran Sedang,Sulawesi Tengah,2026-11-25,40400.0,0.0,0.0293,-0.0766,0.0262,false
-Bawang Merah Ukuran Sedang,Sulawesi Tenggara,2026-11-25,39400.0,0.0,0.0,-0.1076,0.0109,false
-Bawang Merah Ukuran Sedang,Sulawesi Utara,2026-11-25,39400.0,-0.015,-0.015,-0.1481,0.0134,false
-Bawang Merah Ukuran Sedang,Sumatera Barat,2026-11-25,34750.0,0.0102,0.2024,-0.1124,0.0182,false
-Bawang Merah Ukuran Sedang,Sumatera Selatan,2026-11-25,35000.0,0.037,0.1024,-0.125,0.0124,false
-Bawang Merah Ukuran Sedang,Sumatera Utara,2026-11-25,36000.0,0.0028,0.118,-0.0451,0.0091,false
-Bawang Putih Ukuran Sedang,Aceh,2026-11-25,34250.0,-0.0072,0.0074,-0.0325,0.0251,false
-Bawang Putih Ukuran Sedang,Bali,2026-11-25,31500.0,0.0064,0.0161,-0.0352,0.0047,false
-Bawang Putih Ukuran Sedang,Banten,2026-11-25,35150.0,-0.0057,-0.0652,-0.0538,0.0078,false
-Bawang Putih Ukuran Sedang,Bengkulu,2026-11-25,37500.0,0.0204,-0.0323,-0.0775,0.0067,false
-Bawang Putih Ukuran Sedang,DI Yogyakarta,2026-11-25,43250.0,0.0,0.0,0.0949,0.0015,false
-Bawang Putih Ukuran Sedang,DKI Jakarta,2026-11-25,43950.0,0.0,0.0,0.0138,0.0,false
-Bawang Putih Ukuran Sedang,Gorontalo,2026-11-25,38500.0,-0.0065,-0.0228,-0.0723,0.0083,false
-Bawang Putih Ukuran Sedang,Jambi,2026-11-25,33150.0,0.0,-0.0075,0.0441,0.0032,false
-Bawang Putih Ukuran Sedang,Jawa Barat,2026-11-25,37600.0,0.0,-0.0118,-0.0284,0.0137,false
-Bawang Putih Ukuran Sedang,Jawa Tengah,2026-11-25,36850.0,0.0,-0.0041,0.0514,0.0029,false
-Bawang Putih Ukuran Sedang,Jawa Timur,2026-11-25,28300.0,-0.007,-0.0225,-0.0736,0.0075,false
-Bawang Putih Ukuran Sedang,Kalimantan Barat,2026-11-25,35800.0,-0.0232,-0.0097,0.0545,0.0096,false
-Bawang Putih Ukuran Sedang,Kalimantan Selatan,2026-11-25,34150.0,0.0,0.0044,-0.0407,0.0066,false
-Bawang Putih Ukuran Sedang,Kalimantan Tengah,2026-11-25,38750.0,0.0091,0.0646,0.0224,0.0072,false
-Bawang Putih Ukuran Sedang,Kalimantan Timur,2026-11-25,36900.0,-0.0775,-0.0658,-0.0623,0.0378,false
-Bawang Putih Ukuran Sedang,Kalimantan Utara,2026-11-25,42000.0,0.0207,0.0282,-0.021,0.0038,false
-Bawang Putih Ukuran Sedang,Kepulauan Bangka Belitung,2026-11-25,35500.0,-0.0042,-0.0042,-0.0444,0.0088,false
-Bawang Putih Ukuran Sedang,Kepulauan Riau,2026-11-25,29250.0,-0.0085,0.0,-0.0595,0.0229,false
-Bawang Putih Ukuran Sedang,Lampung,2026-11-25,34650.0,-0.0212,-0.0212,0.0221,0.0053,false
-Bawang Putih Ukuran Sedang,Maluku,2026-11-25,41250.0,0.0,0.0,-0.0294,0.0057,false
-Bawang Putih Ukuran Sedang,Maluku Utara,2026-11-25,56250.0,0.0,0.0,0.0465,0.0429,false
-Bawang Putih Ukuran Sedang,Nusa Tenggara Barat,2026-11-25,33250.0,0.0,-0.0075,-0.0581,0.0052,false
-Bawang Putih Ukuran Sedang,Nusa Tenggara Timur,2026-11-25,41250.0,-0.0294,-0.0385,-0.0484,0.0084,false
-Bawang Putih Ukuran Sedang,Papua,2026-11-25,54750.0,0.0139,0.0,0.033,0.0048,false
-Bawang Putih Ukuran Sedang,Papua Barat,2026-11-25,50000.0,0.0,0.0,0.0,0.0087,false
-Bawang Putih Ukuran Sedang,Riau,2026-11-25,32650.0,-0.0151,-0.0829,-0.0842,0.0081,false
-Bawang Putih Ukuran Sedang,Semua Provinsi,2026-11-25,38100.0,-0.0039,-0.0142,-0.018,0.0052,false
-Bawang Putih Ukuran Sedang,Sulawesi Barat,2026-11-25,38400.0,-0.009,-0.0192,-0.0364,0.0031,false
-Bawang Putih Ukuran Sedang,Sulawesi Selatan,2026-11-25,34250.0,-0.0473,-0.0629,-0.042,0.0101,false
-Bawang Putih Ukuran Sedang,Sulawesi Tengah,2026-11-25,40150.0,0.0,0.0,-0.0207,0.0253,false
-Bawang Putih Ukuran Sedang,Sulawesi Tenggara,2026-11-25,45400.0,0.0,-0.0055,0.0225,0.0062,false
-Bawang Putih Ukuran Sedang,Sulawesi Utara,2026-11-25,37500.0,-0.017,-0.017,-0.0964,0.0074,false
-Bawang Putih Ukuran Sedang,Sumatera Barat,2026-11-25,33150.0,0.0,0.0076,0.02,0.0063,false
-Bawang Putih Ukuran Sedang,Sumatera Selatan,2026-11-25,33250.0,0.0,0.0472,-0.0764,0.0094,false
-Bawang Putih Ukuran Sedang,Sumatera Utara,2026-11-25,34250.0,0.0103,0.0118,-0.0499,0.0048,false
-Beras Kualitas Bawah I,Aceh,2026-11-25,15100.0,-0.0033,0.0033,0.0559,0.0012,false
-Beras Kualitas Bawah I,Bali,2026-11-25,13150.0,0.0,0.0,0.0958,0.0014,false
-Beras Kualitas Bawah I,Banten,2026-11-25,15350.0,0.0,0.0,0.1083,0.0,false
-Beras Kualitas Bawah I,Bengkulu,2026-11-25,15750.0,0.0,0.0064,0.1092,0.0014,false
-Beras Kualitas Bawah I,DI Yogyakarta,2026-11-25,13750.0,0.0,0.0,0.0456,0.0017,false
-Beras Kualitas Bawah I,DKI Jakarta,2026-11-25,15050.0,0.0,0.0033,0.0203,0.0004,false
-Beras Kualitas Bawah I,Jambi,2026-11-25,13350.0,0.0,0.0191,0.0191,0.0024,false
-Beras Kualitas Bawah I,Jawa Barat,2026-11-25,14700.0,0.0,0.0034,0.0652,0.0013,false
-Beras Kualitas Bawah I,Jawa Tengah,2026-11-25,14800.0,0.0207,0.0137,0.0609,0.006,false
-Beras Kualitas Bawah I,Jawa Timur,2026-11-25,14450.0,0.0,0.0,0.0586,0.0053,false
-Beras Kualitas Bawah I,Kalimantan Barat,2026-11-25,15550.0,0.0,0.0032,0.0367,0.0012,false
-Beras Kualitas Bawah I,Kalimantan Selatan,2026-11-25,16750.0,0.0,0.0,0.1167,0.0113,false
-Beras Kualitas Bawah I,Kalimantan Tengah,2026-11-25,18750.0,0.0,0.0274,0.1194,0.0034,false
-Beras Kualitas Bawah I,Kalimantan Timur,2026-11-25,15550.0,0.0989,-0.0576,-0.0064,0.0317,false
-Beras Kualitas Bawah I,Kalimantan Utara,2026-11-25,16550.0,-0.009,0.0,-0.0207,0.0151,false
-Beras Kualitas Bawah I,Kepulauan Bangka Belitung,2026-11-25,12550.0,0.0,0.0,-0.004,0.0012,false
-Beras Kualitas Bawah I,Kepulauan Riau,2026-11-25,13850.0,0.0,-0.0281,0.0297,0.0075,false
-Beras Kualitas Bawah I,Lampung,2026-11-25,15400.0,0.0,0.0098,0.0883,0.0013,false
-Beras Kualitas Bawah I,Maluku,2026-11-25,15750.0,0.0,0.0,0.0227,0.0017,false
-Beras Kualitas Bawah I,Maluku Utara,2026-11-25,17500.0,0.0,0.1111,0.129,0.0466,false
-Beras Kualitas Bawah I,Nusa Tenggara Barat,2026-11-25,13250.0,-0.0185,0.0,-0.0364,0.0047,false
-Beras Kualitas Bawah I,Nusa Tenggara Timur,2026-11-25,13000.0,0.0,0.0,-0.0189,0.0,false
-Beras Kualitas Bawah I,Papua,2026-11-25,17800.0,0.0,0.0,0.023,0.0004,false
-Beras Kualitas Bawah I,Papua Barat,2026-11-25,12950.0,0.0,0.0039,-0.0443,0.0007,false
-Beras Kualitas Bawah I,Riau,2026-11-25,16850.0,0.0,0.0433,0.0942,0.0037,false
-Beras Kualitas Bawah I,Semua Provinsi,2026-11-25,14950.0,0.0,0.0,0.0455,0.0023,false
-Beras Kualitas Bawah I,Sulawesi Barat,2026-11-25,13700.0,0.0,0.0,0.0186,0.0,false
-Beras Kualitas Bawah I,Sulawesi Selatan,2026-11-25,13450.0,0.0,-0.0147,0.0386,0.0033,false
-Beras Kualitas Bawah I,Sulawesi Tengah,2026-11-25,15500.0,0.0,-0.0064,0.0544,0.0066,false
-Beras Kualitas Bawah I,Sulawesi Tenggara,2026-11-25,15150.0,-0.0033,0.0066,0.0306,0.0017,false
-Beras Kualitas Bawah I,Sulawesi Utara,2026-11-25,14650.0,0.0,-0.0034,0.0655,0.0017,false
-Beras Kualitas Bawah I,Sumatera Barat,2026-11-25,16700.0,0.0,0.003,0.0536,0.0005,false
-Beras Kualitas Bawah I,Sumatera Selatan,2026-11-25,14450.0,0.0,0.007,0.0509,0.0011,false
-Beras Kualitas Bawah I,Sumatera Utara,2026-11-25,13500.0,0.0037,0.0037,0.0465,0.002,false
-Beras Kualitas Bawah II,Aceh,2026-11-25,15100.0,0.0033,0.0067,0.0671,0.0028,false
-Beras Kualitas Bawah II,Bali,2026-11-25,15500.0,0.0,0.0,0.0333,0.0,false
-Beras Kualitas Bawah II,Banten,2026-11-25,14850.0,0.0,0.0,0.1124,0.0,false
-Beras Kualitas Bawah II,Bengkulu,2026-11-25,13250.0,0.0,-0.0112,-0.134,0.0057,false
-Beras Kualitas Bawah II,DI Yogyakarta,2026-11-25,12400.0,0.0,0.0,0.0206,0.0018,false
-Beras Kualitas Bawah II,DKI Jakarta,2026-11-25,14350.0,0.0,0.0035,0.0324,0.0004,false
-Beras Kualitas Bawah II,Jambi,2026-11-25,12450.0,0.0,0.0,0.0289,0.0026,false
-Beras Kualitas Bawah II,Jawa Barat,2026-11-25,14150.0,0.0,0.0035,0.0679,0.0021,false
-Beras Kualitas Bawah II,Jawa Tengah,2026-11-25,14000.0,-0.0071,-0.0071,0.0294,0.0027,false
-Beras Kualitas Bawah II,Jawa Timur,2026-11-25,14200.0,-0.0035,-0.0035,0.0597,0.0088,false
-Beras Kualitas Bawah II,Kalimantan Barat,2026-11-25,14850.0,0.0,0.0068,0.0206,0.0019,false
-Beras Kualitas Bawah II,Kalimantan Selatan,2026-11-25,18100.0,0.0,0.0,0.1456,0.0165,false
-Beras Kualitas Bawah II,Kalimantan Tengah,2026-11-25,15650.0,0.0,0.0262,0.0433,0.0027,false
-Beras Kualitas Bawah II,Kalimantan Timur,2026-11-25,14800.0,0.0034,0.0102,0.0,0.0054,false
-Beras Kualitas Bawah II,Kalimantan Utara,2026-11-25,16150.0,0.0062,0.0,-0.0212,0.0068,false
-Beras Kualitas Bawah II,Kepulauan Bangka Belitung,2026-11-25,15300.0,0.0,0.0,-0.0033,0.0041,false
-Beras Kualitas Bawah II,Kepulauan Riau,2026-11-25,13450.0,0.0,-0.0182,0.0075,0.0059,false
-Beras Kualitas Bawah II,Lampung,2026-11-25,15100.0,0.0134,0.0168,0.0982,0.002,false
-Beras Kualitas Bawah II,Maluku,2026-11-25,13350.0,0.0,-0.0074,-0.0037,0.0019,false
-Beras Kualitas Bawah II,Maluku Utara,2026-11-25,17500.0,0.0,0.0,0.0,0.0,false
-Beras Kualitas Bawah II,Nusa Tenggara Barat,2026-11-25,12750.0,0.02,0.0408,0.0,0.008,false
-Beras Kualitas Bawah II,Nusa Tenggara Timur,2026-11-25,13500.0,0.0189,0.0189,0.0189,0.0024,false
-Beras Kualitas Bawah II,Papua,2026-11-25,17200.0,-0.0199,-0.0227,0.0058,0.0025,false
-Beras Kualitas Bawah II,Papua Barat,2026-11-25,17350.0,0.0,0.0,0.0547,0.0023,false
-Beras Kualitas Bawah II,Riau,2026-11-25,16100.0,0.0255,0.1667,0.2015,0.0352,false
-Beras Kualitas Bawah II,Semua Provinsi,2026-11-25,14800.0,0.0,0.0034,0.035,0.002,false
-Beras Kualitas Bawah II,Sulawesi Barat,2026-11-25,13700.0,0.0,0.0,0.0148,0.0,false
-Beras Kualitas Bawah II,Sulawesi Selatan,2026-11-25,13450.0,0.0,-0.0147,0.0632,0.0032,false
-Beras Kualitas Bawah II,Sulawesi Tengah,2026-11-25,15800.0,0.0,0.0,0.0604,0.003,false
-Beras Kualitas Bawah II,Sulawesi Tenggara,2026-11-25,14900.0,-0.0033,0.0068,0.0311,0.0015,false
-Beras Kualitas Bawah II,Sulawesi Utara,2026-11-25,14000.0,0.0,0.0,0.0487,0.0019,false
-Beras Kualitas Bawah II,Sumatera Barat,2026-11-25,16650.0,0.0,0.003,0.0605,0.0008,false
-Beras Kualitas Bawah II,Sumatera Selatan,2026-11-25,15000.0,0.0,0.0033,0.0417,0.003,false
-Beras Kualitas Bawah II,Sumatera Utara,2026-11-25,14150.0,0.0035,0.0035,0.0639,0.002,false
-Beras Kualitas Medium I,Aceh,2026-11-25,15750.0,0.0,0.0,0.1053,0.0012,false
-Beras Kualitas Medium I,Bali,2026-11-25,15750.0,0.0,0.0,0.0396,0.0024,false
-Beras Kualitas Medium I,Banten,2026-11-25,16400.0,0.0,0.0031,0.1044,0.0004,false
-Beras Kualitas Medium I,Bengkulu,2026-11-25,16750.0,0.006,0.0245,0.0877,0.0016,false
-Beras Kualitas Medium I,DI Yogyakarta,2026-11-25,15400.0,0.0,0.0,0.0336,0.0015,false
-Beras Kualitas Medium I,DKI Jakarta,2026-11-25,17050.0,0.0,0.0,0.0271,0.0,false
-Beras Kualitas Medium I,Gorontalo,2026-11-25,16250.0,0.0,-0.0091,0.0621,0.002,false
-Beras Kualitas Medium I,Jambi,2026-11-25,17750.0,0.0201,0.0503,0.0823,0.004,false
-Beras Kualitas Medium I,Jawa Barat,2026-11-25,15850.0,0.0,0.0,0.0497,0.0015,false
-Beras Kualitas Medium I,Jawa Tengah,2026-11-25,16100.0,0.0,0.0031,0.0387,0.0014,false
-Beras Kualitas Medium I,Jawa Timur,2026-11-25,15250.0,0.0,0.0,0.0517,0.0012,false
-Beras Kualitas Medium I,Kalimantan Barat,2026-11-25,17400.0,0.0,0.0029,0.0265,0.0064,false
-Beras Kualitas Medium I,Kalimantan Selatan,2026-11-25,20450.0,0.0,0.0,0.2781,0.0115,false
-Beras Kualitas Medium I,Kalimantan Tengah,2026-11-25,20200.0,0.0,0.0151,0.0831,0.0011,false
-Beras Kualitas Medium I,Kalimantan Timur,2026-11-25,17400.0,0.0235,0.0,0.0146,0.0148,false
-Beras Kualitas Medium I,Kalimantan Utara,2026-11-25,17300.0,0.0,0.0,0.0176,0.0064,false
-Beras Kualitas Medium I,Kepulauan Bangka Belitung,2026-11-25,16700.0,0.0,0.0091,0.0603,0.0028,false
-Beras Kualitas Medium I,Kepulauan Riau,2026-11-25,15200.0,0.0,-0.013,-0.0033,0.0085,false
-Beras Kualitas Medium I,Lampung,2026-11-25,16350.0,0.0,0.0093,0.0973,0.0014,false
-Beras Kualitas Medium I,Maluku,2026-11-25,17500.0,0.0,0.0,0.0145,0.0,false
-Beras Kualitas Medium I,Maluku Utara,2026-11-25,18000.0,0.0,0.0,0.0141,0.0136,false
-Beras Kualitas Medium I,Nusa Tenggara Barat,2026-11-25,14150.0,0.0,0.0366,0.0366,0.0079,false
-Beras Kualitas Medium I,Nusa Tenggara Timur,2026-11-25,15150.0,0.0168,0.0168,0.0271,0.0031,false
-Beras Kualitas Medium I,Papua,2026-11-25,19750.0,0.0,0.0,0.0313,0.0018,false
-Beras Kualitas Medium I,Papua Barat,2026-11-25,17850.0,0.0,-0.0083,0.0113,0.0015,false
-Beras Kualitas Medium I,Riau,2026-11-25,17750.0,0.0057,0.0441,0.0693,0.0032,false
-Beras Kualitas Medium I,Semua Provinsi,2026-11-25,16700.0,0.0,0.0,0.0536,0.0018,false
-Beras Kualitas Medium I,Sulawesi Barat,2026-11-25,14650.0,0.0,0.0,0.0353,0.0,false
-Beras Kualitas Medium I,Sulawesi Selatan,2026-11-25,14950.0,0.0,-0.0033,0.024,0.0024,false
-Beras Kualitas Medium I,Sulawesi Tengah,2026-11-25,16000.0,0.0,0.0,0.0561,0.001,false
-Beras Kualitas Medium I,Sulawesi Tenggara,2026-11-25,16050.0,0.0,0.0,0.0158,0.0017,false
-Beras Kualitas Medium I,Sulawesi Utara,2026-11-25,16900.0,0.0,0.0,0.1342,0.0013,false
-Beras Kualitas Medium I,Sumatera Barat,2026-11-25,18600.0,0.0,-0.0027,0.0629,0.0013,false
-Beras Kualitas Medium I,Sumatera Selatan,2026-11-25,16650.0,0.0,0.0,0.0639,0.0039,false
-Beras Kualitas Medium I,Sumatera Utara,2026-11-25,15600.0,0.0,0.0032,0.0759,0.0013,false
-Beras Kualitas Medium II,Aceh,2026-11-25,15150.0,0.0,0.0,0.0557,0.0127,false
-Beras Kualitas Medium II,Bali,2026-11-25,16150.0,0.0,0.0,0.0319,0.0032,false
-Beras Kualitas Medium II,Banten,2026-11-25,15850.0,0.0,0.0,0.1045,0.0,false
-Beras Kualitas Medium II,Bengkulu,2026-11-25,16850.0,0.006,0.0181,0.0597,0.0015,false
-Beras Kualitas Medium II,DI Yogyakarta,2026-11-25,14500.0,0.0,0.0,0.0247,0.002,false
-Beras Kualitas Medium II,DKI Jakarta,2026-11-25,16200.0,0.0,0.0,0.0385,0.0,false
-Beras Kualitas Medium II,Jambi,2026-11-25,17000.0,0.021,0.0303,0.0794,0.0029,false
-Beras Kualitas Medium II,Jawa Barat,2026-11-25,15250.0,0.0,0.0033,0.0554,0.0012,false
-Beras Kualitas Medium II,Jawa Tengah,2026-11-25,15350.0,0.0099,0.0066,0.055,0.0031,false
-Beras Kualitas Medium II,Jawa Timur,2026-11-25,14750.0,0.0,0.0,0.0573,0.0021,false
-Beras Kualitas Medium II,Kalimantan Barat,2026-11-25,17100.0,0.0,0.0059,0.0209,0.0026,false
-Beras Kualitas Medium II,Kalimantan Selatan,2026-11-25,23350.0,0.0,0.0,0.283,0.0081,false
-Beras Kualitas Medium II,Kalimantan Tengah,2026-11-25,19200.0,0.0,0.0,0.0756,0.0007,false
-Beras Kualitas Medium II,Kalimantan Timur,2026-11-25,16700.0,-0.0176,0.003,0.0309,0.0111,false
-Beras Kualitas Medium II,Kalimantan Utara,2026-11-25,18150.0,0.0,0.0,0.0371,0.0067,false
-Beras Kualitas Medium II,Kepulauan Bangka Belitung,2026-11-25,15900.0,0.0032,0.0095,-0.0031,0.0014,false
-Beras Kualitas Medium II,Kepulauan Riau,2026-11-25,15850.0,0.0,0.0,0.0532,0.0055,false
-Beras Kualitas Medium II,Lampung,2026-11-25,16150.0,0.0094,0.0222,0.0875,0.0023,false
-Beras Kualitas Medium II,Maluku,2026-11-25,16750.0,0.0,0.0,0.003,0.0004,false
-Beras Kualitas Medium II,Maluku Utara,2026-11-25,17500.0,0.0,0.0448,0.0294,0.0094,false
-Beras Kualitas Medium II,Nusa Tenggara Barat,2026-11-25,13000.0,0.0,0.04,0.0484,0.005,false
-Beras Kualitas Medium II,Nusa Tenggara Timur,2026-11-25,15250.0,0.0066,0.0066,0.0167,0.0015,false
-Beras Kualitas Medium II,Papua,2026-11-25,19450.0,0.0,0.0,0.0291,0.0014,false
-Beras Kualitas Medium II,Papua Barat,2026-11-25,17300.0,0.0,0.0,0.0298,0.0,false
-Beras Kualitas Medium II,Riau,2026-11-25,17600.0,0.0,0.0323,0.0667,0.0083,false
-Beras Kualitas Medium II,Semua Provinsi,2026-11-25,16550.0,0.0,0.0061,0.0541,0.0017,false
-Beras Kualitas Medium II,Sulawesi Barat,2026-11-25,14600.0,0.0,0.0,0.0318,0.0004,false
-Beras Kualitas Medium II,Sulawesi Selatan,2026-11-25,14700.0,0.0,-0.0034,0.028,0.0026,false
-Beras Kualitas Medium II,Sulawesi Tengah,2026-11-25,16250.0,0.0,0.0,0.0383,0.0109,false
-Beras Kualitas Medium II,Sulawesi Tenggara,2026-11-25,15850.0,0.0,0.0,0.0193,0.0012,false
-Beras Kualitas Medium II,Sulawesi Utara,2026-11-25,17150.0,0.0029,0.0029,0.132,0.0014,false
-Beras Kualitas Medium II,Sumatera Barat,2026-11-25,18450.0,0.0,0.0,0.0634,0.0015,false
-Beras Kualitas Medium II,Sumatera Selatan,2026-11-25,16900.0,0.0,0.0,0.0464,0.0048,false
-Beras Kualitas Medium II,Sumatera Utara,2026-11-25,15900.0,0.0,0.0,0.0671,0.0008,false
-Beras Kualitas Super I,Aceh,2026-11-25,16400.0,0.0,0.0,0.0754,0.0102,false
-Beras Kualitas Super I,Bali,2026-11-25,16650.0,0.0,-0.003,0.0538,0.0018,false
-Beras Kualitas Super I,Banten,2026-11-25,18350.0,0.0,0.0027,0.0731,0.0013,false
-Beras Kualitas Super I,Bengkulu,2026-11-25,18100.0,0.0056,0.0112,0.1384,0.0012,false
-Beras Kualitas Super I,DI Yogyakarta,2026-11-25,16900.0,0.0,0.0,0.0562,0.0013,false
-Beras Kualitas Super I,DKI Jakarta,2026-11-25,21500.0,0.0,0.007,0.1054,0.0009,false
-Beras Kualitas Super I,Gorontalo,2026-11-25,17150.0,0.0,-0.0058,0.0752,0.0033,false
-Beras Kualitas Super I,Jambi,2026-11-25,18650.0,0.0027,0.0136,0.0537,0.0023,false
-Beras Kualitas Super I,Jawa Barat,2026-11-25,17450.0,0.0,0.0,0.0544,0.0022,false
-Beras Kualitas Super I,Jawa Tengah,2026-11-25,17800.0,0.0085,0.0056,0.0564,0.0032,false
-Beras Kualitas Super I,Jawa Timur,2026-11-25,16450.0,0.0,0.003,0.0511,0.0014,false
-Beras Kualitas Super I,Kalimantan Barat,2026-11-25,18700.0,0.0,0.0,0.0247,0.0014,false
-Beras Kualitas Super I,Kalimantan Selatan,2026-11-25,19700.0,0.0,0.0,0.0,0.0037,false
-Beras Kualitas Super I,Kalimantan Tengah,2026-11-25,27150.0,0.0,0.0382,0.3575,0.005,false
-Beras Kualitas Super I,Kalimantan Timur,2026-11-25,18000.0,-0.04,0.0,0.0435,0.0243,false
-Beras Kualitas Super I,Kalimantan Utara,2026-11-25,17500.0,0.0,-0.0278,-0.0223,0.0054,false
-Beras Kualitas Super I,Kepulauan Bangka Belitung,2026-11-25,17300.0,0.0,0.0,0.0813,0.0031,false
-Beras Kualitas Super I,Kepulauan Riau,2026-11-25,16650.0,0.0,-0.006,-0.0177,0.0111,false
-Beras Kualitas Super I,Lampung,2026-11-25,16850.0,0.0,0.0151,0.1049,0.0027,false
-Beras Kualitas Super I,Maluku,2026-11-25,19000.0,0.0,0.0026,0.0326,0.0033,false
-Beras Kualitas Super I,Maluku Utara,2026-11-25,19750.0,0.0,0.0,0.0533,0.0045,false
-Beras Kualitas Super I,Nusa Tenggara Barat,2026-11-25,15950.0,0.0,0.0159,0.0459,0.0024,false
-Beras Kualitas Super I,Nusa Tenggara Timur,2026-11-25,17000.0,0.0429,0.0429,0.0494,0.0043,false
-Beras Kualitas Super I,Papua,2026-11-25,20950.0,0.0,-0.0024,0.0096,0.0011,false
-Beras Kualitas Super I,Papua Barat,2026-11-25,19200.0,0.0105,0.0159,0.0186,0.0015,false
-Beras Kualitas Super I,Riau,2026-11-25,18800.0,0.0,0.0245,0.0416,0.0042,false
-Beras Kualitas Super I,Semua Provinsi,2026-11-25,18050.0,0.0,0.0,0.0587,0.0019,false
-Beras Kualitas Super I,Sulawesi Barat,2026-11-25,15550.0,0.0,0.0,0.013,0.0,false
-Beras Kualitas Super I,Sulawesi Selatan,2026-11-25,15500.0,0.0,0.0032,0.0231,0.0034,false
-Beras Kualitas Super I,Sulawesi Tengah,2026-11-25,17000.0,0.0,-0.0029,0.0303,0.004,false
-Beras Kualitas Super I,Sulawesi Tenggara,2026-11-25,16750.0,0.0,0.0,0.009,0.0005,false
-Beras Kualitas Super I,Sulawesi Utara,2026-11-25,17900.0,0.0,0.0,0.1293,0.002,false
-Beras Kualitas Super I,Sumatera Barat,2026-11-25,19150.0,0.0,-0.0026,0.058,0.0005,false
-Beras Kualitas Super I,Sumatera Selatan,2026-11-25,18000.0,0.0,0.0,0.0778,0.004,false
-Beras Kualitas Super I,Sumatera Utara,2026-11-25,16600.0,0.003,0.003,0.0641,0.001,false
-Beras Kualitas Super II,Aceh,2026-11-25,15950.0,0.0,0.0,0.0669,0.0021,false
-Beras Kualitas Super II,Bali,2026-11-25,16500.0,0.0,-0.003,0.0714,0.0113,false
-Beras Kualitas Super II,Banten,2026-11-25,17650.0,0.0,0.0086,0.0862,0.0013,false
-Beras Kualitas Super II,Bengkulu,2026-11-25,17650.0,0.0144,0.0232,0.0963,0.0019,false
-Beras Kualitas Super II,DI Yogyakarta,2026-11-25,15750.0,0.0,0.0,0.05,0.0014,false
-Beras Kualitas Super II,DKI Jakarta,2026-11-25,17850.0,0.0,0.0028,0.02,0.0004,false
-Beras Kualitas Super II,Jambi,2026-11-25,18500.0,0.0165,0.0249,0.0725,0.0033,false
-Beras Kualitas Super II,Jawa Barat,2026-11-25,16450.0,0.0,0.0,0.0478,0.0019,false
-Beras Kualitas Super II,Jawa Tengah,2026-11-25,16600.0,0.003,0.003,0.0573,0.0019,false
-Beras Kualitas Super II,Jawa Timur,2026-11-25,16100.0,0.0,0.0031,0.0455,0.0014,false
-Beras Kualitas Super II,Kalimantan Barat,2026-11-25,18400.0,0.0,0.0,0.0308,0.0018,false
-Beras Kualitas Super II,Kalimantan Selatan,2026-11-25,20050.0,0.0,0.0,0.0,0.005,false
-Beras Kualitas Super II,Kalimantan Tengah,2026-11-25,22500.0,0.0,0.0112,0.312,0.0015,false
-Beras Kualitas Super II,Kalimantan Timur,2026-11-25,17400.0,-0.0333,0.0,0.0545,0.0158,false
-Beras Kualitas Super II,Kalimantan Utara,2026-11-25,17650.0,0.0,0.0,0.0086,0.0044,false
-Beras Kualitas Super II,Kepulauan Bangka Belitung,2026-11-25,17200.0,0.0,0.0,0.0683,0.0021,false
-Beras Kualitas Super II,Kepulauan Riau,2026-11-25,16400.0,0.0,-0.0061,0.0446,0.0061,false
-Beras Kualitas Super II,Lampung,2026-11-25,16900.0,0.006,0.015,0.0974,0.0017,false
-Beras Kualitas Super II,Maluku,2026-11-25,19950.0,0.0,-0.0075,0.0556,0.0031,false
-Beras Kualitas Super II,Maluku Utara,2026-11-25,18750.0,0.0,0.0,0.0274,0.0041,false
-Beras Kualitas Super II,Nusa Tenggara Barat,2026-11-25,14650.0,0.0,0.0281,0.0502,0.0027,false
-Beras Kualitas Super II,Nusa Tenggara Timur,2026-11-25,16400.0,0.0218,0.0218,0.0282,0.0027,false
-Beras Kualitas Super II,Papua,2026-11-25,20450.0,0.0025,0.0025,0.0302,0.0013,false
-Beras Kualitas Super II,Papua Barat,2026-11-25,18750.0,0.0,0.0054,0.0504,0.0007,false
-Beras Kualitas Super II,Riau,2026-11-25,18500.0,0.0054,0.0423,0.0787,0.0134,false
-Beras Kualitas Super II,Semua Provinsi,2026-11-25,17500.0,0.0,0.0029,0.0574,0.0016,false
-Beras Kualitas Super II,Sulawesi Barat,2026-11-25,15600.0,0.0,0.0,0.013,0.0,false
-Beras Kualitas Super II,Sulawesi Selatan,2026-11-25,15450.0,0.0,0.0,0.0334,0.0013,false
-Beras Kualitas Super II,Sulawesi Tengah,2026-11-25,17150.0,0.0,0.0,0.0239,0.0066,false
-Beras Kualitas Super II,Sulawesi Tenggara,2026-11-25,16500.0,0.0,0.0,0.0154,0.0012,false
-Beras Kualitas Super II,Sulawesi Utara,2026-11-25,17600.0,0.0,0.0028,0.1104,0.002,false
-Beras Kualitas Super II,Sumatera Barat,2026-11-25,18850.0,0.0027,-0.0026,0.0531,0.0007,false
-Beras Kualitas Super II,Sumatera Selatan,2026-11-25,16900.0,0.0,0.0,0.0464,0.0042,false
-Beras Kualitas Super II,Sumatera Utara,2026-11-25,16900.0,0.0,0.0,0.0596,0.0012,false
-Cabai Merah Besar,Aceh,2026-11-25,42000.0,0.0,0.0,0.05,0.0,false
-Cabai Merah Besar,Bali,2026-11-25,36800.0,-0.0695,-0.212,-0.1636,0.0403,false
-Cabai Merah Besar,Banten,2026-11-25,52350.0,-0.0029,-0.084,-0.2616,0.023,false
-Cabai Merah Besar,Bengkulu,2026-11-25,68750.0,-0.0582,0.1,0.07,0.052,false
-Cabai Merah Besar,DI Yogyakarta,2026-11-25,50500.0,0.01,-0.1583,-0.2231,0.042,false
-Cabai Merah Besar,DKI Jakarta,2026-11-25,60400.0,-0.0139,-0.1246,-0.232,0.0333,false
-Cabai Merah Besar,Jambi,2026-11-25,66650.0,0.0638,0.0496,0.0309,0.0602,false
-Cabai Merah Besar,Jawa Barat,2026-11-25,51600.0,0.0467,-0.0728,-0.1623,0.0317,false
-Cabai Merah Besar,Jawa Tengah,2026-11-25,45600.0,-0.0236,-0.0943,-0.1965,0.0219,false
-Cabai Merah Besar,Jawa Timur,2026-11-25,34300.0,-0.0256,-0.0616,-0.3215,0.0378,false
-Cabai Merah Besar,Kalimantan Barat,2026-11-25,65850.0,-0.0758,-0.3705,0.1951,0.0376,false
-Cabai Merah Besar,Kalimantan Selatan,2026-11-25,62900.0,-0.0681,-0.1065,-0.1172,0.0329,false
-Cabai Merah Besar,Kalimantan Tengah,2026-11-25,88750.0,-0.0897,-0.1071,-0.1548,0.0239,false
-Cabai Merah Besar,Kalimantan Timur,2026-11-25,70000.0,0.0,-0.1726,0.063,0.0671,false
-Cabai Merah Besar,Kalimantan Utara,2026-11-25,80850.0,-0.0849,-0.1635,0.2936,0.0323,false
-Cabai Merah Besar,Kepulauan Bangka Belitung,2026-11-25,50000.0,0.0,0.0,0.0,,false
-Cabai Merah Besar,Lampung,2026-11-25,66000.0,0.0053,-0.0315,-0.0658,0.0301,false
-Cabai Merah Besar,Maluku,2026-11-25,45000.0,0.0,0.0,0.125,,false
-Cabai Merah Besar,Maluku Utara,2026-11-25,135000.0,-0.069,-0.1563,3.1538,0.0336,false
-Cabai Merah Besar,Nusa Tenggara Barat,2026-11-25,39700.0,-0.0063,-0.0713,-0.0884,0.0319,false
-Cabai Merah Besar,Nusa Tenggara Timur,2026-11-25,47900.0,-0.0806,-0.1022,0.074,0.0317,false
-Cabai Merah Besar,Papua,2026-11-25,107250.0,0.0438,0.0888,0.2783,0.0199,false
-Cabai Merah Besar,Papua Barat,2026-11-25,75000.0,-0.0909,-0.2857,0.1321,0.071,false
-Cabai Merah Besar,Riau,2026-11-25,82250.0,0.0142,0.0887,0.2212,0.0587,false
-Cabai Merah Besar,Semua Provinsi,2026-11-25,63050.0,-0.0476,-0.1439,0.0852,0.0161,false
-Cabai Merah Besar,Sulawesi Barat,2026-11-25,50400.0,-0.1135,-0.2926,0.3494,0.0343,true
-Cabai Merah Besar,Sulawesi Selatan,2026-11-25,38700.0,-0.1853,-0.3818,0.0184,0.044,true
-Cabai Merah Besar,Sulawesi Tengah,2026-11-25,67450.0,-0.1548,-0.2616,1.1481,0.0689,true
-Cabai Merah Besar,Sulawesi Tenggara,2026-11-25,51250.0,-0.0579,-0.4225,-0.0357,0.0341,false
-Cabai Merah Besar,Sulawesi Utara,2026-11-25,30000.0,0.0,0.0,0.0,,false
-Cabai Merah Besar,Sumatera Selatan,2026-11-25,67250.0,-0.0869,-0.0679,0.0847,0.0444,false
-Cabai Merah Keriting,Aceh,2026-11-25,74650.0,0.0604,0.0842,0.2849,0.0401,false
-Cabai Merah Keriting,Bali,2026-11-25,48950.0,-0.0249,-0.122,-0.0773,0.0255,false
-Cabai Merah Keriting,Banten,2026-11-25,62350.0,-0.0258,-0.12,-0.0408,0.0264,false
-Cabai Merah Keriting,Bengkulu,2026-11-25,76250.0,-0.0469,0.0777,0.1131,0.046,false
-Cabai Merah Keriting,DI Yogyakarta,2026-11-25,51750.0,-0.1154,-0.1191,-0.0591,0.054,true
-Cabai Merah Keriting,DKI Jakarta,2026-11-25,64150.0,-0.0703,-0.0926,-0.1047,0.0399,false
-Cabai Merah Keriting,Gorontalo,2026-11-25,102500.0,-0.1368,-0.1881,1.5092,0.0423,true
-Cabai Merah Keriting,Jambi,2026-11-25,64500.0,0.0591,0.0462,0.0198,0.0582,false
-Cabai Merah Keriting,Jawa Barat,2026-11-25,67400.0,-0.0274,-0.0606,0.0581,0.029,false
-Cabai Merah Keriting,Jawa Tengah,2026-11-25,54650.0,-0.0327,-0.0729,-0.0046,0.0333,false
-Cabai Merah Keriting,Jawa Timur,2026-11-25,50600.0,-0.0165,0.001,-0.0156,0.0327,false
-Cabai Merah Keriting,Kalimantan Barat,2026-11-25,98150.0,-0.1988,-0.2226,0.7976,0.0786,true
-Cabai Merah Keriting,Kalimantan Selatan,2026-11-25,87900.0,-0.019,-0.0233,0.3523,0.0314,false
-Cabai Merah Keriting,Kalimantan Tengah,2026-11-25,95000.0,-0.0196,-0.0443,-0.013,0.0298,false
-Cabai Merah Keriting,Kalimantan Timur,2026-11-25,87500.0,0.0606,-0.0871,0.8657,0.0674,false
-Cabai Merah Keriting,Kalimantan Utara,2026-11-25,93750.0,-0.0468,-0.0889,0.5625,0.0265,false
-Cabai Merah Keriting,Kepulauan Bangka Belitung,2026-11-25,86000.0,-0.0058,-0.0364,0.207,0.0416,false
-Cabai Merah Keriting,Kepulauan Riau,2026-11-25,92950.0,0.0293,-0.0021,0.2158,0.0372,false
-Cabai Merah Keriting,Lampung,2026-11-25,63500.0,-0.0379,0.012,0.0217,0.0454,false
-Cabai Merah Keriting,Maluku,2026-11-25,113750.0,0.0581,-0.1078,0.8958,0.0336,false
-Cabai Merah Keriting,Maluku Utara,2026-11-25,170000.0,0.0,0.7,1.2667,0.1035,false
-Cabai Merah Keriting,Nusa Tenggara Barat,2026-11-25,50800.0,0.0,0.003,0.1008,0.0305,false
-Cabai Merah Keriting,Nusa Tenggara Timur,2026-11-25,57500.0,0.015,0.1036,0.2665,0.0296,false
-Cabai Merah Keriting,Papua,2026-11-25,125000.0,-0.063,-0.0246,0.4535,0.0199,false
-Cabai Merah Keriting,Papua Barat,2026-11-25,75000.0,-0.0323,-0.4828,0.3953,0.0496,false
-Cabai Merah Keriting,Riau,2026-11-25,92750.0,0.0087,0.041,0.0829,0.0442,false
-Cabai Merah Keriting,Semua Provinsi,2026-11-25,79950.0,-0.0437,-0.0493,0.3471,0.021,false
-Cabai Merah Keriting,Sulawesi Barat,2026-11-25,76250.0,-0.0212,-0.0992,1.0805,0.0306,false
-Cabai Merah Keriting,Sulawesi Selatan,2026-11-25,69000.0,-0.0282,-0.1238,0.8254,0.0389,false
-Cabai Merah Keriting,Sulawesi Tengah,2026-11-25,78150.0,-0.1664,-0.2086,1.521,0.0422,true
-Cabai Merah Keriting,Sulawesi Tenggara,2026-11-25,75000.0,-0.0476,-0.1726,0.5385,0.0328,false
-Cabai Merah Keriting,Sulawesi Utara,2026-11-25,105000.0,-0.087,-0.0667,2.6522,0.0341,false
-Cabai Merah Keriting,Sumatera Barat,2026-11-25,81650.0,-0.0012,0.0368,0.0401,0.0354,false
-Cabai Merah Keriting,Sumatera Selatan,2026-11-25,69750.0,-0.1075,-0.1143,-0.0366,0.0445,true
-Cabai Merah Keriting,Sumatera Utara,2026-11-25,75100.0,-0.0138,0.0489,0.3972,0.0496,false
-Cabai Rawit Hijau,Aceh,2026-11-25,61100.0,-0.0636,-0.1532,0.6121,0.0282,false
-Cabai Rawit Hijau,Bali,2026-11-25,53250.0,0.0143,0.024,0.4372,0.0168,false
-Cabai Rawit Hijau,Banten,2026-11-25,54150.0,-0.0475,-0.1072,0.1875,0.0147,false
-Cabai Rawit Hijau,Bengkulu,2026-11-25,64500.0,0.032,-0.0947,0.7018,0.0345,false
-Cabai Rawit Hijau,DI Yogyakarta,2026-11-25,57250.0,0.0088,-0.0129,0.4224,0.0276,false
-Cabai Rawit Hijau,DKI Jakarta,2026-11-25,55300.0,-0.0433,-0.1728,0.0822,0.0245,false
-Cabai Rawit Hijau,Gorontalo,2026-11-25,35000.0,0.0,0.0,0.0,,false
-Cabai Rawit Hijau,Jambi,2026-11-25,50000.0,-0.0476,-0.2498,0.3333,0.0463,false
-Cabai Rawit Hijau,Jawa Barat,2026-11-25,52600.0,-0.0232,-0.1475,0.1767,0.0151,false
-Cabai Rawit Hijau,Jawa Tengah,2026-11-25,53250.0,-0.0345,-0.0111,0.6309,0.012,false
-Cabai Rawit Hijau,Jawa Timur,2026-11-25,42400.0,-0.0515,-0.0342,0.597,0.0204,false
-Cabai Rawit Hijau,Kalimantan Barat,2026-11-25,80650.0,-0.0809,-0.3159,0.7251,0.0373,false
-Cabai Rawit Hijau,Kalimantan Selatan,2026-11-25,48350.0,-0.0163,-0.0566,0.7055,0.0467,false
-Cabai Rawit Hijau,Kalimantan Tengah,2026-11-25,75000.0,-0.0164,-0.0323,0.9036,0.026,false
-Cabai Rawit Hijau,Kalimantan Timur,2026-11-25,78350.0,0.011,-0.1826,0.6996,0.0398,false
-Cabai Rawit Hijau,Kalimantan Utara,2026-11-25,76650.0,-0.0519,-0.2728,-0.0192,0.0396,false
-Cabai Rawit Hijau,Kepulauan Bangka Belitung,2026-11-25,68900.0,-0.0036,-0.0108,0.2359,0.0138,false
-Cabai Rawit Hijau,Kepulauan Riau,2026-11-25,72850.0,0.0125,0.0175,0.3429,0.0241,false
-Cabai Rawit Hijau,Lampung,2026-11-25,59000.0,-0.0167,-0.0909,0.4303,0.0265,false
-Cabai Rawit Hijau,Maluku,2026-11-25,85000.0,-0.0556,0.0,1.0,0.0454,false
-Cabai Rawit Hijau,Maluku Utara,2026-11-25,135000.0,-0.069,-0.129,1.4545,0.0293,false
-Cabai Rawit Hijau,Nusa Tenggara Barat,2026-11-25,34600.0,-0.0184,-0.0455,0.6168,0.0215,false
-Cabai Rawit Hijau,Nusa Tenggara Timur,2026-11-25,55000.0,0.0,0.2941,0.4667,0.0267,false
-Cabai Rawit Hijau,Papua,2026-11-25,85250.0,-0.0658,0.0,0.4598,0.0289,false
-Cabai Rawit Hijau,Papua Barat,2026-11-25,50000.0,0.0,0.0,0.1111,,false
-Cabai Rawit Hijau,Riau,2026-11-25,61650.0,-0.1396,-0.2161,0.5808,0.0262,true
-Cabai Rawit Hijau,Semua Provinsi,2026-11-25,71450.0,-0.0371,-0.1135,0.6911,0.0111,false
-Cabai Rawit Hijau,Sulawesi Barat,2026-11-25,78350.0,0.011,-0.1451,1.5072,0.0412,false
-Cabai Rawit Hijau,Sulawesi Selatan,2026-11-25,48150.0,-0.0072,-0.0855,1.1886,0.0242,false
-Cabai Rawit Hijau,Sulawesi Tengah,2026-11-25,155650.0,-0.0386,-0.046,2.3188,0.0372,false
-Cabai Rawit Hijau,Sulawesi Tenggara,2026-11-25,117500.0,-0.0309,-0.0159,0.9184,0.0288,false
-Cabai Rawit Hijau,Sulawesi Utara,2026-11-25,150000.0,0.0,-0.1429,2.2432,0.0582,false
-Cabai Rawit Hijau,Sumatera Barat,2026-11-25,59400.0,-0.0631,-0.175,0.76,0.0266,false
-Cabai Rawit Hijau,Sumatera Selatan,2026-11-25,69400.0,-0.0513,-0.1526,0.6329,0.0431,false
-Cabai Rawit Hijau,Sumatera Utara,2026-11-25,56400.0,-0.0569,-0.2051,0.6912,0.0293,false
-Cabai Rawit Merah,Aceh,2026-11-25,45000.0,0.0,0.0,0.0,,false
-Cabai Rawit Merah,Bali,2026-11-25,60500.0,-0.0656,-0.0155,0.4756,0.0319,false
-Cabai Rawit Merah,Banten,2026-11-25,73850.0,-0.061,-0.0283,0.3342,0.0216,false
-Cabai Rawit Merah,Bengkulu,2026-11-25,72500.0,-0.0794,-0.1131,1.2377,0.027,false
-Cabai Rawit Merah,DI Yogyakarta,2026-11-25,65000.0,-0.0299,-0.037,0.4444,0.02,false
-Cabai Rawit Merah,DKI Jakarta,2026-11-25,72400.0,-0.0759,-0.0759,0.151,0.0273,false
-Cabai Rawit Merah,Gorontalo,2026-11-25,130000.0,-0.0839,-0.1613,2.3163,0.0609,false
-Cabai Rawit Merah,Jambi,2026-11-25,65750.0,-0.1847,-0.2006,0.1762,0.036,true
-Cabai Rawit Merah,Jawa Barat,2026-11-25,73350.0,-0.0252,-0.0412,0.3483,0.0174,false
-Cabai Rawit Merah,Jawa Tengah,2026-11-25,61600.0,-0.1014,-0.0688,0.3205,0.0245,true
-Cabai Rawit Merah,Jawa Timur,2026-11-25,57450.0,-0.1155,-0.0009,0.4064,0.0349,true
-Cabai Rawit Merah,Kalimantan Barat,2026-11-25,90650.0,-0.0921,-0.3202,0.6664,0.0352,false
-Cabai Rawit Merah,Kalimantan Selatan,2026-11-25,95850.0,-0.0571,0.0318,1.0547,0.0326,false
-Cabai Rawit Merah,Kalimantan Tengah,2026-11-25,102500.0,-0.0238,-0.1277,0.5185,0.0507,false
-Cabai Rawit Merah,Kalimantan Timur,2026-11-25,85600.0,-0.0989,-0.1069,0.9724,0.0357,false
-Cabai Rawit Merah,Kalimantan Utara,2026-11-25,104150.0,-0.0312,-0.2647,0.3887,0.029,false
-Cabai Rawit Merah,Kepulauan Bangka Belitung,2026-11-25,90000.0,0.0112,-0.1379,0.6822,0.0372,false
-Cabai Rawit Merah,Kepulauan Riau,2026-11-25,83350.0,0.0183,-0.0566,,0.0278,false
-Cabai Rawit Merah,Lampung,2026-11-25,66650.0,-0.0162,-0.0362,0.6158,0.0232,false
-Cabai Rawit Merah,Maluku,2026-11-25,111250.0,-0.1909,-0.2764,0.5085,0.0472,true
-Cabai Rawit Merah,Maluku Utara,2026-11-25,200000.0,0.0,0.2903,1.6667,0.0784,false
-Cabai Rawit Merah,Nusa Tenggara Barat,2026-11-25,51050.0,-0.1004,-0.0965,0.8135,0.0253,true
-Cabai Rawit Merah,Nusa Tenggara Timur,2026-11-25,69100.0,0.1056,-0.0774,0.4812,0.0205,true
-Cabai Rawit Merah,Papua,2026-11-25,144150.0,-0.0827,-0.012,0.48,0.0323,false
-Cabai Rawit Merah,Papua Barat,2026-11-25,97500.0,-0.1793,-0.4,0.1304,0.073,true
-Cabai Rawit Merah,Riau,2026-11-25,67050.0,-0.116,-0.1941,0.4529,0.0224,true
-Cabai Rawit Merah,Semua Provinsi,2026-11-25,89600.0,-0.0691,-0.1089,0.7517,0.0196,false
-Cabai Rawit Merah,Sulawesi Barat,2026-11-25,91650.0,0.0229,-0.1132,1.9951,0.0346,false
-Cabai Rawit Merah,Sulawesi Selatan,2026-11-25,79500.0,-0.0536,-0.1587,2.0994,0.037,false
-Cabai Rawit Merah,Sulawesi Tengah,2026-11-25,143150.0,-0.0255,-0.0765,2.0522,0.0382,false
-Cabai Rawit Merah,Sulawesi Tenggara,2026-11-25,133750.0,-0.0273,-0.0855,1.5165,0.0286,false
-Cabai Rawit Merah,Sulawesi Utara,2026-11-25,113750.0,-0.1294,-0.1333,2.125,0.1172,true
-Cabai Rawit Merah,Sumatera Selatan,2026-11-25,69500.0,-0.1667,-0.1107,0.4946,0.0327,true
-Cabai Rawit Merah,Sumatera Utara,2026-11-25,45150.0,-0.1545,-0.3849,0.2203,0.0619,true
-Daging Ayam Ras Segar,Aceh,2026-11-25,34700.0,0.0405,-0.0532,-0.0832,0.0144,false
-Daging Ayam Ras Segar,Bali,2026-11-25,40250.0,-0.0098,-0.0574,-0.0348,0.005,false
-Daging Ayam Ras Segar,Banten,2026-11-25,37750.0,-0.0233,-0.0527,-0.0713,0.01,false
-Daging Ayam Ras Segar,Bengkulu,2026-11-25,33000.0,-0.0294,-0.0571,-0.1801,0.0103,false
-Daging Ayam Ras Segar,DI Yogyakarta,2026-11-25,33750.0,-0.0625,-0.0753,-0.0753,0.0158,false
-Daging Ayam Ras Segar,DKI Jakarta,2026-11-25,37700.0,-0.0169,-0.0333,-0.0419,0.0067,false
-Daging Ayam Ras Segar,Gorontalo,2026-11-25,33550.0,-0.0732,-0.0576,-0.0796,0.0218,false
-Daging Ayam Ras Segar,Jambi,2026-11-25,34650.0,-0.0057,-0.0128,-0.159,0.0125,false
-Daging Ayam Ras Segar,Jawa Barat,2026-11-25,35200.0,-0.0249,-0.0675,-0.1055,0.0091,false
-Daging Ayam Ras Segar,Jawa Tengah,2026-11-25,34850.0,-0.0439,-0.0805,-0.0841,0.0109,false
-Daging Ayam Ras Segar,Jawa Timur,2026-11-25,31850.0,-0.0926,-0.1153,-0.1438,0.015,false
-Daging Ayam Ras Segar,Kalimantan Barat,2026-11-25,35650.0,-0.0152,-0.068,-0.0404,0.008,false
-Daging Ayam Ras Segar,Kalimantan Selatan,2026-11-25,44100.0,0.0115,-0.0254,0.0717,0.0106,false
-Daging Ayam Ras Segar,Kalimantan Tengah,2026-11-25,38750.0,-0.0064,-0.0467,0.0794,0.0154,false
-Daging Ayam Ras Segar,Kalimantan Timur,2026-11-25,36750.0,-0.0187,0.0683,0.0,0.0388,false
-Daging Ayam Ras Segar,Kalimantan Utara,2026-11-25,46400.0,0.0032,0.0462,0.0277,0.0076,false
-Daging Ayam Ras Segar,Kepulauan Bangka Belitung,2026-11-25,42500.0,0.0585,0.0897,0.0559,0.0195,false
-Daging Ayam Ras Segar,Kepulauan Riau,2026-11-25,41400.0,-0.0131,0.0725,0.0135,0.0152,false
-Daging Ayam Ras Segar,Lampung,2026-11-25,32200.0,-0.0557,-0.0904,-0.0904,0.0096,false
-Daging Ayam Ras Segar,Maluku,2026-11-25,47650.0,-0.0135,-0.0135,0.1305,0.0068,false
-Daging Ayam Ras Segar,Maluku Utara,2026-11-25,45000.0,0.0,0.0,0.0112,0.0029,false
-Daging Ayam Ras Segar,Nusa Tenggara Barat,2026-11-25,37650.0,-0.0346,-0.0408,-0.096,0.0116,false
-Daging Ayam Ras Segar,Nusa Tenggara Timur,2026-11-25,47800.0,-0.0516,-0.0421,-0.0535,0.0195,false
-Daging Ayam Ras Segar,Papua,2026-11-25,50400.0,-0.0185,-0.0242,0.1163,0.0028,false
-Daging Ayam Ras Segar,Papua Barat,2026-11-25,50950.0,0.0149,0.0571,0.0231,0.0274,false
-Daging Ayam Ras Segar,Riau,2026-11-25,27900.0,-0.0106,-0.0927,-0.1622,0.0162,false
-Daging Ayam Ras Segar,Semua Provinsi,2026-11-25,38300.0,-0.0142,-0.0377,-0.0401,0.0038,false
-Daging Ayam Ras Segar,Sulawesi Barat,2026-11-25,30200.0,-0.0397,-0.0876,0.0709,0.011,false
-Daging Ayam Ras Segar,Sulawesi Selatan,2026-11-25,27850.0,-0.0262,-0.1201,-0.1159,0.0146,false
-Daging Ayam Ras Segar,Sulawesi Tengah,2026-11-25,32300.0,-0.0031,-0.085,-0.1621,0.0226,false
-Daging Ayam Ras Segar,Sulawesi Tenggara,2026-11-25,34500.0,0.036,-0.0713,-0.0417,0.0197,false
-Daging Ayam Ras Segar,Sulawesi Utara,2026-11-25,40650.0,-0.0061,-0.0252,-0.0557,0.0074,false
-Daging Ayam Ras Segar,Sumatera Barat,2026-11-25,49050.0,0.0,-0.018,-0.0457,0.0064,false
-Daging Ayam Ras Segar,Sumatera Selatan,2026-11-25,31900.0,-0.059,-0.1014,-0.1583,0.0203,false
-Daging Ayam Ras Segar,Sumatera Utara,2026-11-25,41000.0,0.0237,-0.0215,-0.0012,0.0085,false
-Daging Sapi Kualitas 1,Aceh,2026-11-25,119000.0,-0.3,-0.3035,-0.224,0.0376,true
-Daging Sapi Kualitas 1,Bali,2026-11-25,147950.0,0.0172,0.0172,0.0568,0.0041,false
-Daging Sapi Kualitas 1,Banten,2026-11-25,151650.0,0.0,0.011,0.1163,0.0044,false
-Daging Sapi Kualitas 1,Bengkulu,2026-11-25,160000.0,0.0,0.0,0.1852,0.0,false
-Daging Sapi Kualitas 1,DI Yogyakarta,2026-11-25,162500.0,0.0,0.0,0.1207,0.0,false
-Daging Sapi Kualitas 1,DKI Jakarta,2026-11-25,155950.0,0.0,0.0107,0.1207,0.0013,false
-Daging Sapi Kualitas 1,Gorontalo,2026-11-25,152500.0,0.0167,-0.0161,0.1091,0.0084,false
-Daging Sapi Kualitas 1,Jambi,2026-11-25,156250.0,0.0,0.0081,0.1364,0.001,false
-Daging Sapi Kualitas 1,Jawa Barat,2026-11-25,157650.0,0.0,0.0,0.1021,0.0046,false
-Daging Sapi Kualitas 1,Jawa Tengah,2026-11-25,151250.0,-0.0056,-0.0049,0.1398,0.002,false
-Daging Sapi Kualitas 1,Jawa Timur,2026-11-25,147000.0,0.0,-0.0003,0.1356,0.0032,false
-Daging Sapi Kualitas 1,Kalimantan Barat,2026-11-25,161250.0,0.0025,0.0025,0.0238,0.0005,false
-Daging Sapi Kualitas 1,Kalimantan Selatan,2026-11-25,172900.0,0.0,0.0,0.0375,0.0029,false
-Daging Sapi Kualitas 1,Kalimantan Tengah,2026-11-25,160000.0,0.0,0.0,0.0159,0.001,false
-Daging Sapi Kualitas 1,Kalimantan Timur,2026-11-25,167900.0,-0.0124,0.0,0.0387,0.007,false
-Daging Sapi Kualitas 1,Kalimantan Utara,2026-11-25,159150.0,0.0,0.0025,0.061,0.0289,false
-Daging Sapi Kualitas 1,Kepulauan Bangka Belitung,2026-11-25,160000.0,0.0,0.0,0.1327,0.0019,false
-Daging Sapi Kualitas 1,Kepulauan Riau,2026-11-25,130650.0,0.0,0.0,0.1297,0.0099,false
-Daging Sapi Kualitas 1,Lampung,2026-11-25,144400.0,0.0,0.0,0.1002,0.0,false
-Daging Sapi Kualitas 1,Maluku,2026-11-25,142500.0,0.0,-0.0172,0.0088,0.0086,false
-Daging Sapi Kualitas 1,Maluku Utara,2026-11-25,150000.0,0.0,0.0,0.0345,0.0,false
-Daging Sapi Kualitas 1,Nusa Tenggara Barat,2026-11-25,136250.0,0.0,-0.0091,0.0792,0.0024,false
-Daging Sapi Kualitas 1,Nusa Tenggara Timur,2026-11-25,121650.0,0.0,0.0,0.0353,0.0,false
-Daging Sapi Kualitas 1,Papua,2026-11-25,163650.0,0.0046,0.0031,0.0531,0.0009,false
-Daging Sapi Kualitas 1,Papua Barat,2026-11-25,175000.0,0.0294,0.0294,0.1667,0.0052,false
-Daging Sapi Kualitas 1,Riau,2026-11-25,151650.0,0.0,0.0222,0.0736,0.0064,false
-Daging Sapi Kualitas 1,Semua Provinsi,2026-11-25,151100.0,-0.0098,-0.0137,0.0735,0.003,false
-Daging Sapi Kualitas 1,Sulawesi Barat,2026-11-25,141650.0,0.0,0.0,0.1036,0.0015,false
-Daging Sapi Kualitas 1,Sulawesi Selatan,2026-11-25,139250.0,0.0146,0.0146,0.0922,0.0031,false
-Daging Sapi Kualitas 1,Sulawesi Tengah,2026-11-25,149400.0,0.0,0.0,0.0393,0.0173,false
-Daging Sapi Kualitas 1,Sulawesi Tenggara,2026-11-25,141250.0,0.0,0.0,0.018,0.0016,false
-Daging Sapi Kualitas 1,Sulawesi Utara,2026-11-25,155000.0,0.0,0.0,0.1376,0.001,false
-Daging Sapi Kualitas 1,Sumatera Barat,2026-11-25,160000.0,0.0,0.0,0.0847,0.0,false
-Daging Sapi Kualitas 1,Sumatera Selatan,2026-11-25,151250.0,0.0,0.0,0.0614,0.0015,false
-Daging Sapi Kualitas 1,Sumatera Utara,2026-11-25,150950.0,0.0,0.0,0.1181,0.0024,false
-Daging Sapi Kualitas 2,Aceh,2026-11-25,135000.0,0.0,0.0,0.125,0.0075,false
-Daging Sapi Kualitas 2,Bali,2026-11-25,135750.0,0.0188,0.0188,0.0466,0.0044,false
-Daging Sapi Kualitas 2,Banten,2026-11-25,145000.0,0.0,0.0115,0.1188,0.0032,false
-Daging Sapi Kualitas 2,Bengkulu,2026-11-25,150000.0,0.0,0.0,0.1161,0.0,false
-Daging Sapi Kualitas 2,DI Yogyakarta,2026-11-25,156250.0,0.0,0.0,0.1364,0.0,false
-Daging Sapi Kualitas 2,DKI Jakarta,2026-11-25,146800.0,0.0,0.0058,0.1151,0.0007,false
-Daging Sapi Kualitas 2,Gorontalo,2026-11-25,150000.0,0.0,0.0,0.1111,0.0175,false
-Daging Sapi Kualitas 2,Jawa Barat,2026-11-25,148450.0,0.0,0.0,0.1066,0.0044,false
-Daging Sapi Kualitas 2,Jawa Tengah,2026-11-25,143050.0,-0.0076,-0.0076,0.163,0.0024,false
-Daging Sapi Kualitas 2,Jawa Timur,2026-11-25,134100.0,0.0,0.0,0.1437,0.0022,false
-Daging Sapi Kualitas 2,Kalimantan Barat,2026-11-25,147900.0,0.0027,0.0027,0.0441,0.0006,false
-Daging Sapi Kualitas 2,Kalimantan Selatan,2026-11-25,166250.0,0.0,0.0,0.0446,0.0021,false
-Daging Sapi Kualitas 2,Kalimantan Tengah,2026-11-25,155650.0,0.0,0.0,0.0163,0.001,false
-Daging Sapi Kualitas 2,Kalimantan Timur,2026-11-25,165000.0,-0.0149,0.0,0.0476,0.0115,false
-Daging Sapi Kualitas 2,Kalimantan Utara,2026-11-25,133750.0,0.0,0.0019,-0.0273,0.0583,false
-Daging Sapi Kualitas 2,Kepulauan Bangka Belitung,2026-11-25,139400.0,0.0,0.0,0.1094,0.0,false
-Daging Sapi Kualitas 2,Kepulauan Riau,2026-11-25,125000.0,0.0,0.0,0.1364,0.006,false
-Daging Sapi Kualitas 2,Lampung,2026-11-25,137500.0,0.0,0.0,0.0784,0.0,false
-Daging Sapi Kualitas 2,Maluku,2026-11-25,142500.0,0.0,-0.0172,0.0088,0.0086,false
-Daging Sapi Kualitas 2,Nusa Tenggara Barat,2026-11-25,126900.0,0.0,0.0,0.1093,0.0057,false
-Daging Sapi Kualitas 2,Nusa Tenggara Timur,2026-11-25,118350.0,0.0,0.0,0.0368,0.0,false
-Daging Sapi Kualitas 2,Papua,2026-11-25,156150.0,0.0032,-0.0032,0.054,0.0009,false
-Daging Sapi Kualitas 2,Papua Barat,2026-11-25,170000.0,0.0303,0.0303,0.1724,0.0054,false
-Daging Sapi Kualitas 2,Riau,2026-11-25,117900.0,0.0,0.0034,0.0802,0.0277,false
-Daging Sapi Kualitas 2,Semua Provinsi,2026-11-25,143650.0,0.0007,-0.0017,0.0821,0.003,false
-Daging Sapi Kualitas 2,Sulawesi Barat,2026-11-25,140000.0,0.0,0.0,0.098,0.0023,false
-Daging Sapi Kualitas 2,Sulawesi Selatan,2026-11-25,139250.0,0.0146,0.0146,0.0922,0.0031,false
-Daging Sapi Kualitas 2,Sulawesi Tengah,2026-11-25,149400.0,0.0,0.0,0.0393,0.0171,false
-Daging Sapi Kualitas 2,Sulawesi Tenggara,2026-11-25,136250.0,0.0,-0.0091,0.0093,0.0035,false
-Daging Sapi Kualitas 2,Sulawesi Utara,2026-11-25,155000.0,0.0,0.0,0.1376,0.001,false
-Daging Sapi Kualitas 2,Sumatera Barat,2026-11-25,156250.0,0.0,0.0,0.0776,0.0,false
-Daging Sapi Kualitas 2,Sumatera Selatan,2026-11-25,143750.0,0.0,0.0,0.0455,0.0022,false
-Daging Sapi Kualitas 2,Sumatera Utara,2026-11-25,133750.0,0.0,0.0,0.1263,0.0038,false
-Gula Pasir Kualitas Premium,Aceh,2026-11-25,21000.0,0.0,0.0,0.0294,0.0033,false
-Gula Pasir Kualitas Premium,Bali,2026-11-25,20150.0,0.0,0.0126,0.0633,0.0075,false
-Gula Pasir Kualitas Premium,Banten,2026-11-25,19850.0,-0.0075,-0.0246,0.0447,0.0044,false
-Gula Pasir Kualitas Premium,Bengkulu,2026-11-25,20500.0,0.0,0.025,0.0789,0.0027,false
-Gula Pasir Kualitas Premium,DI Yogyakarta,2026-11-25,18900.0,0.0,0.0,0.0356,0.001,false
-Gula Pasir Kualitas Premium,DKI Jakarta,2026-11-25,20550.0,0.0,0.0074,0.0593,0.0009,false
-Gula Pasir Kualitas Premium,Gorontalo,2026-11-25,21250.0,0.0,0.0119,0.0625,0.0239,false
-Gula Pasir Kualitas Premium,Jambi,2026-11-25,19850.0,0.0,0.0206,0.073,0.0026,false
-Gula Pasir Kualitas Premium,Jawa Barat,2026-11-25,19800.0,0.0025,0.0154,0.0394,0.0016,false
-Gula Pasir Kualitas Premium,Jawa Tengah,2026-11-25,19700.0,0.0077,0.0129,0.0507,0.0019,false
-Gula Pasir Kualitas Premium,Jawa Timur,2026-11-25,18950.0,0.0,0.0026,0.0587,0.0017,false
-Gula Pasir Kualitas Premium,Kalimantan Barat,2026-11-25,21100.0,0.0,0.0,0.0576,0.0064,false
-Gula Pasir Kualitas Premium,Kalimantan Selatan,2026-11-25,20150.0,0.0,0.0,0.0075,0.0016,false
-Gula Pasir Kualitas Premium,Kalimantan Tengah,2026-11-25,23900.0,-0.0104,0.0391,0.0694,0.0059,false
-Gula Pasir Kualitas Premium,Kalimantan Timur,2026-11-25,21000.0,0.012,0.0194,0.0687,0.0157,false
-Gula Pasir Kualitas Premium,Kalimantan Utara,2026-11-25,19600.0,0.0,0.0,0.0103,0.0097,false
-Gula Pasir Kualitas Premium,Kepulauan Bangka Belitung,2026-11-25,19650.0,0.0,0.0208,0.048,0.0042,false
-Gula Pasir Kualitas Premium,Kepulauan Riau,2026-11-25,19150.0,0.0,0.0,0.0213,0.0,false
-Gula Pasir Kualitas Premium,Lampung,2026-11-25,19750.0,0.0051,0.018,0.0618,0.0018,false
-Gula Pasir Kualitas Premium,Maluku,2026-11-25,23150.0,0.0,-0.0107,-0.0107,0.0014,false
-Gula Pasir Kualitas Premium,Maluku Utara,2026-11-25,22000.0,0.0,0.0,0.1579,0.0284,false
-Gula Pasir Kualitas Premium,Nusa Tenggara Barat,2026-11-25,19150.0,0.0,0.0079,0.0159,0.0025,false
-Gula Pasir Kualitas Premium,Nusa Tenggara Timur,2026-11-25,20650.0,0.0198,0.0198,0.0377,0.0018,false
-Gula Pasir Kualitas Premium,Papua,2026-11-25,26750.0,0.0019,-0.0037,0.0133,0.0008,false
-Gula Pasir Kualitas Premium,Papua Barat,2026-11-25,23000.0,0.0,-0.0213,0.0337,0.004,false
-Gula Pasir Kualitas Premium,Riau,2026-11-25,18350.0,0.0,0.0082,0.0309,0.001,false
-Gula Pasir Kualitas Premium,Semua Provinsi,2026-11-25,20700.0,0.0,0.0049,0.0455,0.0022,false
-Gula Pasir Kualitas Premium,Sulawesi Barat,2026-11-25,23000.0,0.0,0.0,0.0698,0.0,false
-Gula Pasir Kualitas Premium,Sulawesi Selatan,2026-11-25,20200.0,0.0075,0.0202,0.1882,0.011,false
-Gula Pasir Kualitas Premium,Sulawesi Tengah,2026-11-25,21650.0,0.0,0.0,-0.0114,0.0316,false
-Gula Pasir Kualitas Premium,Sulawesi Tenggara,2026-11-25,23750.0,0.0,0.0326,0.0626,0.003,false
-Gula Pasir Kualitas Premium,Sulawesi Utara,2026-11-25,17500.0,0.0,0.0,0.0,0.0,false
-Gula Pasir Kualitas Premium,Sumatera Barat,2026-11-25,19900.0,-0.005,-0.0124,0.0501,0.0023,false
-Gula Pasir Kualitas Premium,Sumatera Selatan,2026-11-25,19400.0,0.0,0.0078,0.043,0.004,false
-Gula Pasir Kualitas Premium,Sumatera Utara,2026-11-25,20850.0,0.0024,0.0171,0.0477,0.003,false
-Gula Pasir Lokal,Aceh,2026-11-25,19850.0,0.0,0.0051,0.0937,0.0039,false
-Gula Pasir Lokal,Bali,2026-11-25,18800.0,0.0,0.0358,0.0774,0.0028,false
-Gula Pasir Lokal,Banten,2026-11-25,18900.0,-0.0105,-0.0258,0.03,0.0049,false
-Gula Pasir Lokal,Bengkulu,2026-11-25,19250.0,0.0,0.0,0.1127,0.0028,false
-Gula Pasir Lokal,DI Yogyakarta,2026-11-25,19000.0,0.0,0.0,0.1343,0.0029,false
-Gula Pasir Lokal,DKI Jakarta,2026-11-25,19700.0,0.0,0.0077,0.0535,0.001,false
-Gula Pasir Lokal,Gorontalo,2026-11-25,21600.0,0.0,0.0286,0.1309,0.0061,false
-Gula Pasir Lokal,Jambi,2026-11-25,19600.0,0.0,0.037,0.1042,0.0034,false
-Gula Pasir Lokal,Jawa Barat,2026-11-25,19200.0,-0.0052,0.0105,0.0847,0.0021,false
-Gula Pasir Lokal,Jawa Tengah,2026-11-25,18550.0,0.0,0.0054,0.1009,0.002,false
-Gula Pasir Lokal,Jawa Timur,2026-11-25,18100.0,0.0,0.0056,0.1104,0.002,false
-Gula Pasir Lokal,Kalimantan Barat,2026-11-25,19650.0,0.0,0.0077,0.1133,0.0025,false
-Gula Pasir Lokal,Kalimantan Selatan,2026-11-25,19650.0,0.0,0.0,0.1293,0.0031,false
-Gula Pasir Lokal,Kalimantan Tengah,2026-11-25,20250.0,0.0,0.005,0.1157,0.0024,false
-Gula Pasir Lokal,Kalimantan Timur,2026-11-25,20050.0,0.0025,0.0126,0.0926,0.0066,false
-Gula Pasir Lokal,Kalimantan Utara,2026-11-25,20000.0,0.0,0.0,0.0526,0.0,false
-Gula Pasir Lokal,Kepulauan Bangka Belitung,2026-11-25,18750.0,0.0,0.0163,0.0563,0.0028,false
-Gula Pasir Lokal,Kepulauan Riau,2026-11-25,15750.0,0.0,-0.0217,0.1014,0.0057,false
-Gula Pasir Lokal,Lampung,2026-11-25,19100.0,0.0053,0.0133,0.0883,0.003,false
-Gula Pasir Lokal,Maluku,2026-11-25,20750.0,0.0,0.0375,0.137,0.0036,false
-Gula Pasir Lokal,Maluku Utara,2026-11-25,21000.0,0.0,0.0,0.0244,0.0127,false
-Gula Pasir Lokal,Nusa Tenggara Barat,2026-11-25,19400.0,0.0,-0.0051,0.1086,0.0036,false
-Gula Pasir Lokal,Nusa Tenggara Timur,2026-11-25,19750.0,0.0077,0.0077,0.0313,0.0007,false
-Gula Pasir Lokal,Papua,2026-11-25,22350.0,0.0,0.0136,0.0276,0.0012,false
-Gula Pasir Lokal,Papua Barat,2026-11-25,20500.0,0.0,0.025,0.0649,0.0046,false
-Gula Pasir Lokal,Riau,2026-11-25,19350.0,0.0052,0.0052,0.0871,0.0039,false
-Gula Pasir Lokal,Semua Provinsi,2026-11-25,19600.0,0.0,0.0077,0.0859,0.0036,false
-Gula Pasir Lokal,Sulawesi Barat,2026-11-25,19250.0,0.0,0.0349,0.0694,0.0074,false
-Gula Pasir Lokal,Sulawesi Selatan,2026-11-25,19000.0,0.0,0.0106,0.0765,0.0027,false
-Gula Pasir Lokal,Sulawesi Tengah,2026-11-25,21250.0,0.0119,0.0546,0.1243,0.0067,false
-Gula Pasir Lokal,Sulawesi Tenggara,2026-11-25,20150.0,0.0126,0.0254,0.1102,0.0035,false
-Gula Pasir Lokal,Sulawesi Utara,2026-11-25,20750.0,0.0,0.0048,0.1433,0.0029,false
-Gula Pasir Lokal,Sumatera Barat,2026-11-25,19400.0,0.0,-0.0127,0.1023,0.0025,false
-Gula Pasir Lokal,Sumatera Selatan,2026-11-25,18750.0,0.0,0.0054,0.0446,0.0058,false
-Gula Pasir Lokal,Sumatera Utara,2026-11-25,19750.0,0.0,0.0128,0.0852,0.0018,false
-Minyak Goreng Curah,Aceh,2026-11-25,19900.0,0.0076,0.0025,0.0815,0.0066,false
-Minyak Goreng Curah,Bali,2026-11-25,21800.0,-0.0023,-0.0091,0.1208,0.0015,false
-Minyak Goreng Curah,Banten,2026-11-25,18000.0,0.0,0.0084,0.0909,0.003,false
-Minyak Goreng Curah,Bengkulu,2026-11-25,20000.0,0.0,0.0,0.1494,0.0,false
-Minyak Goreng Curah,DI Yogyakarta,2026-11-25,20500.0,0.0,0.0,0.1389,0.0016,false
-Minyak Goreng Curah,DKI Jakarta,2026-11-25,21950.0,0.0,-0.0157,0.0786,0.0024,false
-Minyak Goreng Curah,Gorontalo,2026-11-25,21650.0,-0.0046,-0.0159,0.0744,0.0067,false
-Minyak Goreng Curah,Jambi,2026-11-25,20500.0,0.0,0.0,0.0847,0.0,false
-Minyak Goreng Curah,Jawa Barat,2026-11-25,21200.0,-0.0093,-0.0185,0.0789,0.0016,false
-Minyak Goreng Curah,Jawa Tengah,2026-11-25,20050.0,-0.0074,-0.0172,0.0665,0.0018,false
-Minyak Goreng Curah,Jawa Timur,2026-11-25,21050.0,0.0,-0.0047,0.0935,0.0024,false
-Minyak Goreng Curah,Kalimantan Barat,2026-11-25,19000.0,0.0,-0.0078,0.0795,0.0029,false
-Minyak Goreng Curah,Kalimantan Selatan,2026-11-25,18600.0,0.0,-0.0159,0.072,0.0181,false
-Minyak Goreng Curah,Kalimantan Tengah,2026-11-25,18950.0,0.0,0.0216,0.128,0.0022,false
-Minyak Goreng Curah,Kalimantan Timur,2026-11-25,21150.0,-0.014,-0.0047,0.1073,0.0164,false
-Minyak Goreng Curah,Kalimantan Utara,2026-11-25,19500.0,-0.025,-0.025,0.0263,0.0031,false
-Minyak Goreng Curah,Kepulauan Riau,2026-11-25,19500.0,0.0,0.0,0.0864,0.0408,false
-Minyak Goreng Curah,Lampung,2026-11-25,21200.0,-0.0047,-0.0342,0.1247,0.0022,false
-Minyak Goreng Curah,Maluku,2026-11-25,16000.0,0.0,0.0,0.0,,false
-Minyak Goreng Curah,Maluku Utara,2026-11-25,24000.0,0.0,0.0,0.0435,0.0204,false
-Minyak Goreng Curah,Nusa Tenggara Barat,2026-11-25,22850.0,0.0,0.0,0.1425,0.0007,false
-Minyak Goreng Curah,Nusa Tenggara Timur,2026-11-25,17000.0,0.0,0.0,-0.0286,0.005,false
-Minyak Goreng Curah,Papua,2026-11-25,23150.0,0.0065,0.0243,0.0619,0.0024,false
-Minyak Goreng Curah,Riau,2026-11-25,20700.0,-0.0213,-0.0119,0.0952,0.0051,false
-Minyak Goreng Curah,Semua Provinsi,2026-11-25,20250.0,-0.0025,-0.0025,0.0858,0.0021,false
-Minyak Goreng Curah,Sulawesi Barat,2026-11-25,19850.0,0.0,0.0,0.1507,0.0048,false
-Minyak Goreng Curah,Sulawesi Selatan,2026-11-25,19450.0,-0.0051,-0.0051,0.0806,0.0072,false
-Minyak Goreng Curah,Sulawesi Tengah,2026-11-25,18250.0,0.0,0.0,0.0282,0.0376,false
-Minyak Goreng Curah,Sulawesi Tenggara,2026-11-25,19000.0,0.0,0.0,0.1079,0.0105,false
-Minyak Goreng Curah,Sulawesi Utara,2026-11-25,16900.0,0.0,0.0,0.1046,0.0012,false
-Minyak Goreng Curah,Sumatera Barat,2026-11-25,20000.0,0.0,-0.0099,0.0638,0.0015,false
-Minyak Goreng Curah,Sumatera Selatan,2026-11-25,20900.0,0.0,0.0072,0.0121,0.0011,false
-Minyak Goreng Curah,Sumatera Utara,2026-11-25,20650.0,0.0,-0.0072,0.0783,0.0019,false
-Minyak Goreng Kemasan Bermerk 1,Aceh,2026-11-25,24150.0,0.0,0.0,0.0805,0.002,false
-Minyak Goreng Kemasan Bermerk 1,Bali,2026-11-25,23200.0,0.0,0.0022,0.0791,0.0025,false
-Minyak Goreng Kemasan Bermerk 1,Banten,2026-11-25,18600.0,0.0,-0.0159,0.0248,0.0062,false
-Minyak Goreng Kemasan Bermerk 1,Bengkulu,2026-11-25,24000.0,0.0,0.0,0.1456,0.0,false
-Minyak Goreng Kemasan Bermerk 1,DI Yogyakarta,2026-11-25,24000.0,0.0,0.0,0.1034,0.0,false
-Minyak Goreng Kemasan Bermerk 1,DKI Jakarta,2026-11-25,23200.0,0.0,0.0109,0.0892,0.0014,false
-Minyak Goreng Kemasan Bermerk 1,Gorontalo,2026-11-25,31450.0,0.0,0.0,0.0864,0.0037,false
-Minyak Goreng Kemasan Bermerk 1,Jambi,2026-11-25,24500.0,0.0,0.0,0.1011,0.0005,false
-Minyak Goreng Kemasan Bermerk 1,Jawa Barat,2026-11-25,23200.0,-0.0043,-0.0064,0.0691,0.0015,false
-Minyak Goreng Kemasan Bermerk 1,Jawa Tengah,2026-11-25,23100.0,0.0087,0.0087,0.1079,0.0029,false
-Minyak Goreng Kemasan Bermerk 1,Jawa Timur,2026-11-25,22800.0,-0.0065,-0.0065,0.0831,0.0019,false
-Minyak Goreng Kemasan Bermerk 1,Kalimantan Barat,2026-11-25,23950.0,0.0,-0.0021,0.0886,0.0019,false
-Minyak Goreng Kemasan Bermerk 1,Kalimantan Selatan,2026-11-25,24500.0,0.0,0.0,0.0606,0.0018,false
-Minyak Goreng Kemasan Bermerk 1,Kalimantan Tengah,2026-11-25,26650.0,0.0,0.0095,0.1104,0.0012,false
-Minyak Goreng Kemasan Bermerk 1,Kalimantan Timur,2026-11-25,25100.0,0.0351,0.0,0.1106,0.0273,false
-Minyak Goreng Kemasan Bermerk 1,Kalimantan Utara,2026-11-25,24350.0,0.0,0.0,0.1459,0.0031,false
-Minyak Goreng Kemasan Bermerk 1,Kepulauan Bangka Belitung,2026-11-25,21900.0,0.0,0.0,0.1089,0.0012,false
-Minyak Goreng Kemasan Bermerk 1,Kepulauan Riau,2026-11-25,21500.0,0.0,0.007,0.0777,0.0023,false
-Minyak Goreng Kemasan Bermerk 1,Lampung,2026-11-25,23100.0,0.0,0.0043,0.0719,0.0021,false
-Minyak Goreng Kemasan Bermerk 1,Maluku,2026-11-25,27150.0,0.0,-0.0037,0.1603,0.0021,false
-Minyak Goreng Kemasan Bermerk 1,Maluku Utara,2026-11-25,26000.0,-0.0545,-0.0545,0.04,0.0126,false
-Minyak Goreng Kemasan Bermerk 1,Nusa Tenggara Barat,2026-11-25,24950.0,0.0,0.0,0.064,0.0053,false
-Minyak Goreng Kemasan Bermerk 1,Nusa Tenggara Timur,2026-11-25,25100.0,0.008,0.0287,0.0658,0.0023,false
-Minyak Goreng Kemasan Bermerk 1,Papua,2026-11-25,30200.0,0.005,0.0067,0.0844,0.0007,false
-Minyak Goreng Kemasan Bermerk 1,Papua Barat,2026-11-25,27500.0,-0.0018,-0.0054,0.0721,0.0044,false
-Minyak Goreng Kemasan Bermerk 1,Riau,2026-11-25,22700.0,-0.0044,-0.0278,0.081,0.0047,false
-Minyak Goreng Kemasan Bermerk 1,Semua Provinsi,2026-11-25,24350.0,0.0,0.0041,0.0846,0.0027,false
-Minyak Goreng Kemasan Bermerk 1,Sulawesi Barat,2026-11-25,24500.0,0.0,0.0,0.0583,0.0031,false
-Minyak Goreng Kemasan Bermerk 1,Sulawesi Selatan,2026-11-25,23350.0,-0.0064,-0.0064,0.086,0.002,false
-Minyak Goreng Kemasan Bermerk 1,Sulawesi Tengah,2026-11-25,23750.0,0.0,0.0,0.0556,0.0257,false
-Minyak Goreng Kemasan Bermerk 1,Sulawesi Tenggara,2026-11-25,26200.0,-0.0057,-0.0057,0.0962,0.0025,false
-Minyak Goreng Kemasan Bermerk 1,Sulawesi Utara,2026-11-25,23200.0,0.0,-0.0169,0.0841,0.0022,false
-Minyak Goreng Kemasan Bermerk 1,Sumatera Barat,2026-11-25,25050.0,0.0,0.0,0.0821,0.0009,false
-Minyak Goreng Kemasan Bermerk 1,Sumatera Selatan,2026-11-25,21500.0,0.0,0.0047,0.0412,0.0037,false
-Minyak Goreng Kemasan Bermerk 1,Sumatera Utara,2026-11-25,22800.0,0.0,-0.0044,0.0704,0.0026,false
-Minyak Goreng Kemasan Bermerk 2,Aceh,2026-11-25,24400.0,0.0,0.0,0.0893,0.0055,false
-Minyak Goreng Kemasan Bermerk 2,Bali,2026-11-25,24300.0,-0.0021,-0.0021,0.1172,0.0033,false
-Minyak Goreng Kemasan Bermerk 2,Banten,2026-11-25,23650.0,0.0,0.0,0.1182,0.0018,false
-Minyak Goreng Kemasan Bermerk 2,Bengkulu,2026-11-25,23500.0,0.0,0.0108,0.1634,0.0013,false
-Minyak Goreng Kemasan Bermerk 2,DI Yogyakarta,2026-11-25,23750.0,0.0,0.0,0.131,0.0,false
-Minyak Goreng Kemasan Bermerk 2,DKI Jakarta,2026-11-25,23350.0,0.0,0.0065,0.1093,0.0008,false
-Minyak Goreng Kemasan Bermerk 2,Gorontalo,2026-11-25,31100.0,0.0,0.0,0.0471,0.0041,false
-Minyak Goreng Kemasan Bermerk 2,Jambi,2026-11-25,23000.0,0.0,0.0,0.15,0.0,false
-Minyak Goreng Kemasan Bermerk 2,Jawa Barat,2026-11-25,22450.0,-0.0066,-0.0066,0.069,0.0019,false
-Minyak Goreng Kemasan Bermerk 2,Jawa Tengah,2026-11-25,22000.0,-0.0023,-0.0112,0.1,0.0013,false
-Minyak Goreng Kemasan Bermerk 2,Jawa Timur,2026-11-25,22250.0,0.0,-0.0045,0.0775,0.0015,false
-Minyak Goreng Kemasan Bermerk 2,Kalimantan Barat,2026-11-25,23200.0,0.0,-0.0022,0.0791,0.0029,false
-Minyak Goreng Kemasan Bermerk 2,Kalimantan Selatan,2026-11-25,24350.0,0.0,0.0,0.0751,0.0011,false
-Minyak Goreng Kemasan Bermerk 2,Kalimantan Tengah,2026-11-25,24650.0,0.0,0.0102,0.1079,0.0013,false
-Minyak Goreng Kemasan Bermerk 2,Kalimantan Timur,2026-11-25,24100.0,-0.0263,-0.0082,0.1395,0.0133,false
-Minyak Goreng Kemasan Bermerk 2,Kalimantan Utara,2026-11-25,23450.0,0.0,0.0,0.0984,0.0057,false
-Minyak Goreng Kemasan Bermerk 2,Kepulauan Bangka Belitung,2026-11-25,19250.0,0.0,-0.0077,0.0815,0.0019,false
-Minyak Goreng Kemasan Bermerk 2,Kepulauan Riau,2026-11-25,20150.0,0.0,0.0,0.1071,0.0133,false
-Minyak Goreng Kemasan Bermerk 2,Lampung,2026-11-25,21350.0,0.0,0.0,0.1541,0.0017,false
-Minyak Goreng Kemasan Bermerk 2,Maluku,2026-11-25,26250.0,0.0,0.0038,0.1339,0.006,false
-Minyak Goreng Kemasan Bermerk 2,Maluku Utara,2026-11-25,21500.0,-0.0753,-0.0753,0.0,0.0117,false
-Minyak Goreng Kemasan Bermerk 2,Nusa Tenggara Barat,2026-11-25,22650.0,0.0,0.0044,0.0684,0.0057,false
-Minyak Goreng Kemasan Bermerk 2,Nusa Tenggara Timur,2026-11-25,23700.0,0.0216,0.0216,0.07,0.0028,false
-Minyak Goreng Kemasan Bermerk 2,Papua,2026-11-25,27200.0,0.0,0.0055,0.0709,0.0029,false
-Minyak Goreng Kemasan Bermerk 2,Papua Barat,2026-11-25,23750.0,0.0,0.015,0.0795,0.004,false
-Minyak Goreng Kemasan Bermerk 2,Riau,2026-11-25,22000.0,-0.0023,-0.0068,0.137,0.0048,false
-Minyak Goreng Kemasan Bermerk 2,Semua Provinsi,2026-11-25,23550.0,-0.0021,0.0043,0.0979,0.003,false
-Minyak Goreng Kemasan Bermerk 2,Sulawesi Barat,2026-11-25,25400.0,0.0,0.0,0.0972,0.0015,false
-Minyak Goreng Kemasan Bermerk 2,Sulawesi Selatan,2026-11-25,22800.0,-0.0065,-0.0044,0.1372,0.0027,false
-Minyak Goreng Kemasan Bermerk 2,Sulawesi Tengah,2026-11-25,24900.0,0.0,0.0101,0.1318,0.0024,false
-Minyak Goreng Kemasan Bermerk 2,Sulawesi Tenggara,2026-11-25,25150.0,0.0,0.0,0.1253,0.0018,false
-Minyak Goreng Kemasan Bermerk 2,Sulawesi Utara,2026-11-25,23250.0,0.0,0.0065,0.1259,0.0018,false
-Minyak Goreng Kemasan Bermerk 2,Sumatera Barat,2026-11-25,23250.0,0.0,0.0,0.1397,0.0008,false
-Minyak Goreng Kemasan Bermerk 2,Sumatera Selatan,2026-11-25,21650.0,0.0,0.007,0.0117,0.0086,false
-Minyak Goreng Kemasan Bermerk 2,Sumatera Utara,2026-11-25,23150.0,0.0,-0.0043,0.0644,0.0018,false
-Telur Ayam Ras Segar,Aceh,2026-11-25,27950.0,-0.0071,-0.0193,-0.1197,0.0043,false
-Telur Ayam Ras Segar,Bali,2026-11-25,28650.0,0.0,-0.0052,-0.0607,0.0037,false
-Telur Ayam Ras Segar,Banten,2026-11-25,25600.0,0.0281,-0.0285,-0.1278,0.0089,false
-Telur Ayam Ras Segar,Bengkulu,2026-11-25,26400.0,0.0,-0.0365,-0.099,0.005,false
-Telur Ayam Ras Segar,DI Yogyakarta,2026-11-25,24900.0,0.0163,-0.004,-0.1263,0.0052,false
-Telur Ayam Ras Segar,DKI Jakarta,2026-11-25,24550.0,-0.0061,-0.0447,-0.1817,0.0064,false
-Telur Ayam Ras Segar,Gorontalo,2026-11-25,32500.0,0.0,0.0,-0.1793,0.0063,false
-Telur Ayam Ras Segar,Jambi,2026-11-25,25850.0,0.0,0.0157,-0.0479,0.0033,false
-Telur Ayam Ras Segar,Jawa Barat,2026-11-25,24750.0,0.0,-0.0294,-0.1639,0.0049,false
-Telur Ayam Ras Segar,Jawa Tengah,2026-11-25,24200.0,0.0126,0.0041,-0.1449,0.0043,false
-Telur Ayam Ras Segar,Jawa Timur,2026-11-25,23300.0,0.0,-0.0251,-0.1796,0.0052,false
-Telur Ayam Ras Segar,Kalimantan Barat,2026-11-25,31000.0,0.0131,-0.0064,-0.0975,0.0048,false
-Telur Ayam Ras Segar,Kalimantan Selatan,2026-11-25,28600.0,0.0,-0.0138,-0.109,0.0051,false
-Telur Ayam Ras Segar,Kalimantan Tengah,2026-11-25,31800.0,0.0,-0.0245,-0.0422,0.0062,false
-Telur Ayam Ras Segar,Kalimantan Timur,2026-11-25,29400.0,-0.0345,-0.0151,-0.0769,0.0289,false
-Telur Ayam Ras Segar,Kalimantan Utara,2026-11-25,29200.0,-0.0017,-0.0168,-0.1057,0.0059,false
-Telur Ayam Ras Segar,Kepulauan Bangka Belitung,2026-11-25,31950.0,0.0,-0.0405,-0.0491,0.0043,false
-Telur Ayam Ras Segar,Kepulauan Riau,2026-11-25,30000.0,0.0,0.0084,-0.018,0.0096,false
-Telur Ayam Ras Segar,Lampung,2026-11-25,25200.0,-0.0098,-0.027,-0.134,0.0041,false
-Telur Ayam Ras Segar,Maluku,2026-11-25,35200.0,0.0,0.0,-0.033,0.0021,false
-Telur Ayam Ras Segar,Maluku Utara,2026-11-25,40200.0,0.0,-0.0255,0.0374,0.014,false
-Telur Ayam Ras Segar,Nusa Tenggara Barat,2026-11-25,28400.0,0.0,-0.0207,-0.0549,0.0058,false
-Telur Ayam Ras Segar,Nusa Tenggara Timur,2026-11-25,30750.0,-0.0065,-0.0097,-0.0996,0.0021,false
-Telur Ayam Ras Segar,Papua,2026-11-25,37600.0,-0.0105,-0.0157,-0.0493,0.0023,false
-Telur Ayam Ras Segar,Papua Barat,2026-11-25,33750.0,0.0,-0.0343,-0.0964,0.0045,false
-Telur Ayam Ras Segar,Riau,2026-11-25,27250.0,-0.0091,-0.0794,-0.1431,0.0047,false
-Telur Ayam Ras Segar,Semua Provinsi,2026-11-25,28850.0,-0.0052,-0.0204,-0.0913,0.0019,false
-Telur Ayam Ras Segar,Sulawesi Barat,2026-11-25,25200.0,-0.0903,-0.1142,-0.0803,0.0103,false
-Telur Ayam Ras Segar,Sulawesi Selatan,2026-11-25,24000.0,0.0042,-0.0204,-0.1193,0.0057,false
-Telur Ayam Ras Segar,Sulawesi Tengah,2026-11-25,29950.0,0.0,-0.0066,-0.0641,0.0086,false
-Telur Ayam Ras Segar,Sulawesi Tenggara,2026-11-25,28350.0,-0.0087,-0.0406,-0.1099,0.006,false
-Telur Ayam Ras Segar,Sulawesi Utara,2026-11-25,30550.0,-0.0049,0.0,-0.024,0.003,false
-Telur Ayam Ras Segar,Sumatera Barat,2026-11-25,28600.0,0.0,-0.0069,-0.0561,0.0019,false
-Telur Ayam Ras Segar,Sumatera Selatan,2026-11-25,27550.0,0.0,-0.0213,-0.0613,0.0062,false
-Telur Ayam Ras Segar,Sumatera Utara,2026-11-25,30100.0,0.0017,-0.0115,-0.0638,0.0037,false
+Bawang Merah Ukuran Sedang,Aceh,2026-11-26,33750.0,0.012,0.1698,-0.1095,0.0145,false
+Bawang Merah Ukuran Sedang,Bali,2026-11-26,32000.0,-0.0139,0.0978,-0.2417,0.0096,false
+Bawang Merah Ukuran Sedang,Banten,2026-11-26,39500.0,-0.0162,0.1158,-0.1023,0.0109,false
+Bawang Merah Ukuran Sedang,Bengkulu,2026-11-26,43750.0,0.0294,0.0606,-0.0256,0.0129,false
+Bawang Merah Ukuran Sedang,DI Yogyakarta,2026-11-26,40000.0,0.0191,0.0667,-0.0476,0.0053,false
+Bawang Merah Ukuran Sedang,DKI Jakarta,2026-11-26,43450.0,0.1042,0.1271,-0.0814,0.0148,true
+Bawang Merah Ukuran Sedang,Gorontalo,2026-11-26,43000.0,0.0263,0.0299,-0.1107,0.0205,false
+Bawang Merah Ukuran Sedang,Jambi,2026-11-26,35900.0,0.0184,0.2422,-0.0946,0.0158,false
+Bawang Merah Ukuran Sedang,Jawa Barat,2026-11-26,37750.0,-0.0118,0.1286,-0.1507,0.0135,false
+Bawang Merah Ukuran Sedang,Jawa Tengah,2026-11-26,34850.0,0.0175,0.1426,-0.179,0.0069,false
+Bawang Merah Ukuran Sedang,Jawa Timur,2026-11-26,32150.0,0.0223,0.0771,-0.229,0.0077,false
+Bawang Merah Ukuran Sedang,Kalimantan Barat,2026-11-26,42000.0,-0.0175,0.0448,-0.0036,0.0142,false
+Bawang Merah Ukuran Sedang,Kalimantan Selatan,2026-11-26,33750.0,-0.0103,-0.0044,-0.1594,0.0084,false
+Bawang Merah Ukuran Sedang,Kalimantan Tengah,2026-11-26,40500.0,0.015,0.1096,-0.0504,0.0091,false
+Bawang Merah Ukuran Sedang,Kalimantan Timur,2026-11-26,38250.0,-0.0437,0.0,-0.1385,0.0261,false
+Bawang Merah Ukuran Sedang,Kalimantan Utara,2026-11-26,44250.0,0.0057,0.0599,-0.0714,0.0108,false
+Bawang Merah Ukuran Sedang,Kepulauan Bangka Belitung,2026-11-26,40400.0,-0.0086,0.0228,-0.1627,0.0132,false
+Bawang Merah Ukuran Sedang,Kepulauan Riau,2026-11-26,45500.0,-0.0183,0.149,0.2281,0.0281,false
+Bawang Merah Ukuran Sedang,Lampung,2026-11-26,32400.0,0.0078,0.0237,-0.1797,0.0107,false
+Bawang Merah Ukuran Sedang,Maluku,2026-11-26,40650.0,0.0163,0.0,-0.0634,0.0066,false
+Bawang Merah Ukuran Sedang,Maluku Utara,2026-11-26,57500.0,0.0,0.0,-0.0417,0.0378,false
+Bawang Merah Ukuran Sedang,Nusa Tenggara Barat,2026-11-26,27400.0,0.0,0.0682,-0.2605,0.0224,false
+Bawang Merah Ukuran Sedang,Nusa Tenggara Timur,2026-11-26,30000.0,-0.0521,0.0,-0.1724,0.0168,false
+Bawang Merah Ukuran Sedang,Papua,2026-11-26,61650.0,0.0082,0.0098,-0.0136,0.0046,false
+Bawang Merah Ukuran Sedang,Papua Barat,2026-11-26,52500.0,0.0,0.0,-0.087,0.0085,false
+Bawang Merah Ukuran Sedang,Riau,2026-11-26,35200.0,0.043,0.1373,-0.055,0.0176,false
+Bawang Merah Ukuran Sedang,Semua Provinsi,2026-11-26,39300.0,0.0129,0.0579,-0.0986,0.0043,false
+Bawang Merah Ukuran Sedang,Sulawesi Barat,2026-11-26,37500.0,0.0,-0.082,-0.0718,0.0086,false
+Bawang Merah Ukuran Sedang,Sulawesi Selatan,2026-11-26,34250.0,0.0224,-0.0144,-0.1138,0.011,false
+Bawang Merah Ukuran Sedang,Sulawesi Tengah,2026-11-26,40400.0,0.0,0.0293,-0.0818,0.0262,false
+Bawang Merah Ukuran Sedang,Sulawesi Tenggara,2026-11-26,39400.0,0.0,0.0,-0.1076,0.0107,false
+Bawang Merah Ukuran Sedang,Sulawesi Utara,2026-11-26,40000.0,0.0152,0.0,-0.1351,0.0134,false
+Bawang Merah Ukuran Sedang,Sumatera Barat,2026-11-26,34750.0,0.0029,0.2024,-0.118,0.0182,false
+Bawang Merah Ukuran Sedang,Sumatera Selatan,2026-11-26,35000.0,0.037,0.0853,-0.1411,0.0123,false
+Bawang Merah Ukuran Sedang,Sumatera Utara,2026-11-26,36100.0,0.0056,0.1211,-0.0732,0.0091,false
+Bawang Putih Ukuran Sedang,Aceh,2026-11-26,34250.0,-0.0072,0.0118,-0.0325,0.0251,false
+Bawang Putih Ukuran Sedang,Bali,2026-11-26,31500.0,0.0161,0.0161,-0.0352,0.0047,false
+Bawang Putih Ukuran Sedang,Banten,2026-11-26,35150.0,0.0,-0.0652,-0.0538,0.0078,false
+Bawang Putih Ukuran Sedang,Bengkulu,2026-11-26,37500.0,0.0,-0.0323,-0.0854,0.0065,false
+Bawang Putih Ukuran Sedang,DI Yogyakarta,2026-11-26,43250.0,0.0,0.0,0.0949,0.0015,false
+Bawang Putih Ukuran Sedang,DKI Jakarta,2026-11-26,43950.0,0.0,0.0,0.0138,0.0,false
+Bawang Putih Ukuran Sedang,Gorontalo,2026-11-26,38150.0,-0.0155,-0.0317,-0.0807,0.0084,false
+Bawang Putih Ukuran Sedang,Jambi,2026-11-26,33150.0,0.0,-0.0075,0.0441,0.0032,false
+Bawang Putih Ukuran Sedang,Jawa Barat,2026-11-26,37700.0,0.0027,-0.0092,-0.0258,0.0137,false
+Bawang Putih Ukuran Sedang,Jawa Tengah,2026-11-26,36800.0,-0.0027,-0.0081,0.056,0.0028,false
+Bawang Putih Ukuran Sedang,Jawa Timur,2026-11-26,28200.0,-0.0105,-0.0242,-0.0769,0.0075,false
+Bawang Putih Ukuran Sedang,Kalimantan Barat,2026-11-26,35500.0,-0.0287,-0.0139,0.0457,0.0097,false
+Bawang Putih Ukuran Sedang,Kalimantan Selatan,2026-11-26,34150.0,0.0,0.0044,-0.0407,0.0065,false
+Bawang Putih Ukuran Sedang,Kalimantan Tengah,2026-11-26,38750.0,0.0157,0.0646,0.0224,0.0072,false
+Bawang Putih Ukuran Sedang,Kalimantan Timur,2026-11-26,36900.0,-0.0775,-0.0477,-0.0623,0.0378,false
+Bawang Putih Ukuran Sedang,Kalimantan Utara,2026-11-26,42000.0,0.0207,0.0282,-0.0345,0.0038,false
+Bawang Putih Ukuran Sedang,Kepulauan Bangka Belitung,2026-11-26,34900.0,-0.0306,-0.021,-0.0911,0.0091,false
+Bawang Putih Ukuran Sedang,Kepulauan Riau,2026-11-26,29000.0,-0.0169,-0.0085,-0.0675,0.0229,false
+Bawang Putih Ukuran Sedang,Lampung,2026-11-26,34650.0,-0.0142,-0.0212,0.0043,0.0053,false
+Bawang Putih Ukuran Sedang,Maluku,2026-11-26,41250.0,0.0,0.0148,-0.0294,0.0057,false
+Bawang Putih Ukuran Sedang,Maluku Utara,2026-11-26,56250.0,0.0,0.0,0.0465,0.0429,false
+Bawang Putih Ukuran Sedang,Nusa Tenggara Barat,2026-11-26,33250.0,0.0,-0.0075,-0.0581,0.0051,false
+Bawang Putih Ukuran Sedang,Nusa Tenggara Timur,2026-11-26,41250.0,-0.0385,-0.0385,-0.0484,0.0084,false
+Bawang Putih Ukuran Sedang,Papua,2026-11-26,54250.0,0.0018,-0.0091,0.0207,0.005,false
+Bawang Putih Ukuran Sedang,Papua Barat,2026-11-26,50000.0,0.0,0.0,-0.0244,0.0087,false
+Bawang Putih Ukuran Sedang,Riau,2026-11-26,32800.0,-0.0046,-0.0339,-0.0939,0.0082,false
+Bawang Putih Ukuran Sedang,Semua Provinsi,2026-11-26,38000.0,-0.013,-0.0078,-0.0231,0.0053,false
+Bawang Putih Ukuran Sedang,Sulawesi Barat,2026-11-26,38400.0,-0.009,-0.0192,-0.0364,0.0031,false
+Bawang Putih Ukuran Sedang,Sulawesi Selatan,2026-11-26,35800.0,-0.0042,-0.0205,0.0014,0.0117,false
+Bawang Putih Ukuran Sedang,Sulawesi Tengah,2026-11-26,40150.0,0.0,0.0,-0.0207,0.0252,false
+Bawang Putih Ukuran Sedang,Sulawesi Tenggara,2026-11-26,45400.0,0.0,-0.0055,0.0225,0.006,false
+Bawang Putih Ukuran Sedang,Sulawesi Utara,2026-11-26,36900.0,-0.0328,-0.0328,-0.1108,0.0077,false
+Bawang Putih Ukuran Sedang,Sumatera Barat,2026-11-26,33150.0,0.0,0.0076,0.02,0.0063,false
+Bawang Putih Ukuran Sedang,Sumatera Selatan,2026-11-26,33250.0,0.0,0.031,-0.0828,0.0092,false
+Bawang Putih Ukuran Sedang,Sumatera Utara,2026-11-26,34250.0,0.0103,0.0118,-0.0366,0.0048,false
+Beras Kualitas Bawah I,Aceh,2026-11-26,15100.0,-0.0033,-0.0033,0.0559,0.0012,false
+Beras Kualitas Bawah I,Bali,2026-11-26,13150.0,0.0,0.0,0.0958,0.0014,false
+Beras Kualitas Bawah I,Banten,2026-11-26,15350.0,0.0,0.0,0.1083,0.0,false
+Beras Kualitas Bawah I,Bengkulu,2026-11-26,15750.0,0.0,0.0064,0.1092,0.0014,false
+Beras Kualitas Bawah I,DI Yogyakarta,2026-11-26,13750.0,0.0,0.0,0.0456,0.0017,false
+Beras Kualitas Bawah I,DKI Jakarta,2026-11-26,15050.0,0.0,0.0033,0.0203,0.0004,false
+Beras Kualitas Bawah I,Jambi,2026-11-26,13350.0,0.0,0.0191,0.0191,0.0024,false
+Beras Kualitas Bawah I,Jawa Barat,2026-11-26,14700.0,0.0,0.0034,0.0652,0.0013,false
+Beras Kualitas Bawah I,Jawa Tengah,2026-11-26,14500.0,-0.0203,-0.0068,0.0394,0.0065,false
+Beras Kualitas Bawah I,Jawa Timur,2026-11-26,14450.0,0.0,0.0,0.0586,0.0053,false
+Beras Kualitas Bawah I,Kalimantan Barat,2026-11-26,15450.0,-0.0064,-0.0032,0.03,0.0014,false
+Beras Kualitas Bawah I,Kalimantan Selatan,2026-11-26,16750.0,0.0,0.0,0.1056,0.0113,false
+Beras Kualitas Bawah I,Kalimantan Tengah,2026-11-26,18750.0,0.0,0.0274,0.1194,0.0034,false
+Beras Kualitas Bawah I,Kalimantan Timur,2026-11-26,15550.0,0.0989,-0.0576,-0.0064,0.0317,false
+Beras Kualitas Bawah I,Kalimantan Utara,2026-11-26,16550.0,0.0091,0.0,-0.0207,0.0151,false
+Beras Kualitas Bawah I,Kepulauan Bangka Belitung,2026-11-26,12650.0,0.008,0.008,0.004,0.0016,false
+Beras Kualitas Bawah I,Kepulauan Riau,2026-11-26,13650.0,-0.0144,-0.0421,0.0149,0.0077,false
+Beras Kualitas Bawah I,Lampung,2026-11-26,15400.0,0.0,0.0098,0.0883,0.0013,false
+Beras Kualitas Bawah I,Maluku,2026-11-26,15750.0,0.0,0.0,0.0227,0.0017,false
+Beras Kualitas Bawah I,Maluku Utara,2026-11-26,17500.0,0.0,0.1111,0.129,0.0466,false
+Beras Kualitas Bawah I,Nusa Tenggara Barat,2026-11-26,13500.0,0.0,0.0,-0.0182,0.0053,false
+Beras Kualitas Bawah I,Nusa Tenggara Timur,2026-11-26,13000.0,0.0,0.0,-0.0189,0.0,false
+Beras Kualitas Bawah I,Papua,2026-11-26,17800.0,0.0,0.0,0.023,0.0004,false
+Beras Kualitas Bawah I,Papua Barat,2026-11-26,12950.0,0.0,0.0039,-0.0443,0.0007,false
+Beras Kualitas Bawah I,Riau,2026-11-26,16850.0,-0.0059,0.0274,0.0942,0.0037,false
+Beras Kualitas Bawah I,Semua Provinsi,2026-11-26,15000.0,0.0,0.0033,0.049,0.0023,false
+Beras Kualitas Bawah I,Sulawesi Barat,2026-11-26,13700.0,0.0,0.0,0.0186,0.0,false
+Beras Kualitas Bawah I,Sulawesi Selatan,2026-11-26,13450.0,0.0,-0.0147,0.0386,0.0033,false
+Beras Kualitas Bawah I,Sulawesi Tengah,2026-11-26,15500.0,0.0,-0.0064,0.0653,0.0066,false
+Beras Kualitas Bawah I,Sulawesi Tenggara,2026-11-26,15150.0,-0.0033,0.0066,0.0306,0.0016,false
+Beras Kualitas Bawah I,Sulawesi Utara,2026-11-26,14650.0,0.0,-0.0034,0.0655,0.0017,false
+Beras Kualitas Bawah I,Sumatera Barat,2026-11-26,16700.0,0.0,0.003,0.0536,0.0005,false
+Beras Kualitas Bawah I,Sumatera Selatan,2026-11-26,14450.0,0.0,0.0,0.0509,0.0011,false
+Beras Kualitas Bawah I,Sumatera Utara,2026-11-26,13500.0,0.0037,0.0037,0.0465,0.002,false
+Beras Kualitas Bawah II,Aceh,2026-11-26,15000.0,-0.0033,-0.0033,0.0601,0.0029,false
+Beras Kualitas Bawah II,Bali,2026-11-26,15500.0,0.0,0.0,0.0333,0.0,false
+Beras Kualitas Bawah II,Banten,2026-11-26,14850.0,0.0,0.0,0.1124,0.0,false
+Beras Kualitas Bawah II,Bengkulu,2026-11-26,13250.0,0.0,-0.0112,-0.134,0.0057,false
+Beras Kualitas Bawah II,DI Yogyakarta,2026-11-26,12400.0,0.0,0.0,0.0206,0.0018,false
+Beras Kualitas Bawah II,DKI Jakarta,2026-11-26,14350.0,0.0,0.0035,0.0324,0.0004,false
+Beras Kualitas Bawah II,Jambi,2026-11-26,12450.0,0.0,0.0,0.0289,0.0026,false
+Beras Kualitas Bawah II,Jawa Barat,2026-11-26,14150.0,0.0,0.0035,0.0679,0.0021,false
+Beras Kualitas Bawah II,Jawa Tengah,2026-11-26,14100.0,0.0071,0.0,0.0368,0.0028,false
+Beras Kualitas Bawah II,Jawa Timur,2026-11-26,14200.0,0.0,-0.0035,0.0558,0.0088,false
+Beras Kualitas Bawah II,Kalimantan Barat,2026-11-26,14750.0,-0.0067,0.0,0.0137,0.0021,false
+Beras Kualitas Bawah II,Kalimantan Selatan,2026-11-26,18100.0,0.0,0.0,0.1456,0.0165,false
+Beras Kualitas Bawah II,Kalimantan Tengah,2026-11-26,15650.0,0.0,0.0262,0.0433,0.0024,false
+Beras Kualitas Bawah II,Kalimantan Timur,2026-11-26,14800.0,0.0034,0.0102,0.0,0.0054,false
+Beras Kualitas Bawah II,Kalimantan Utara,2026-11-26,16150.0,0.0,0.0,-0.0212,0.0068,false
+Beras Kualitas Bawah II,Kepulauan Bangka Belitung,2026-11-26,15600.0,0.0196,0.0196,0.0163,0.0048,false
+Beras Kualitas Bawah II,Kepulauan Riau,2026-11-26,13500.0,0.0037,-0.0146,0.0112,0.0059,false
+Beras Kualitas Bawah II,Lampung,2026-11-26,15100.0,0.0134,0.0168,0.0982,0.002,false
+Beras Kualitas Bawah II,Maluku,2026-11-26,13350.0,0.0,-0.0074,-0.0037,0.0019,false
+Beras Kualitas Bawah II,Maluku Utara,2026-11-26,17500.0,0.0,0.0,0.0,0.0,false
+Beras Kualitas Bawah II,Nusa Tenggara Barat,2026-11-26,12500.0,0.0,0.0,-0.0196,0.0084,false
+Beras Kualitas Bawah II,Nusa Tenggara Timur,2026-11-26,13500.0,0.0189,0.0189,0.0189,0.0024,false
+Beras Kualitas Bawah II,Papua,2026-11-26,17200.0,-0.0199,-0.0227,0.0058,0.0025,false
+Beras Kualitas Bawah II,Papua Barat,2026-11-26,17350.0,0.0,0.0,0.0547,0.0015,false
+Beras Kualitas Bawah II,Riau,2026-11-26,16100.0,0.019,0.0592,0.2015,0.0352,false
+Beras Kualitas Bawah II,Semua Provinsi,2026-11-26,14800.0,-0.0034,0.0,0.035,0.002,false
+Beras Kualitas Bawah II,Sulawesi Barat,2026-11-26,13700.0,0.0,0.0,0.0148,0.0,false
+Beras Kualitas Bawah II,Sulawesi Selatan,2026-11-26,13450.0,0.0,-0.0147,0.0632,0.0032,false
+Beras Kualitas Bawah II,Sulawesi Tengah,2026-11-26,15800.0,0.0,0.0,0.0712,0.003,false
+Beras Kualitas Bawah II,Sulawesi Tenggara,2026-11-26,14900.0,-0.0033,0.0068,0.0311,0.0015,false
+Beras Kualitas Bawah II,Sulawesi Utara,2026-11-26,13750.0,-0.0179,-0.0179,0.03,0.0029,false
+Beras Kualitas Bawah II,Sumatera Barat,2026-11-26,16650.0,0.0,0.003,0.0605,0.0008,false
+Beras Kualitas Bawah II,Sumatera Selatan,2026-11-26,15000.0,0.0,0.0,0.0417,0.003,false
+Beras Kualitas Bawah II,Sumatera Utara,2026-11-26,14150.0,0.0,0.0035,0.0639,0.002,false
+Beras Kualitas Medium I,Aceh,2026-11-26,15500.0,-0.0159,-0.0159,0.0877,0.0023,false
+Beras Kualitas Medium I,Bali,2026-11-26,15750.0,-0.0063,0.0,0.0396,0.0024,false
+Beras Kualitas Medium I,Banten,2026-11-26,16400.0,0.0,0.0031,0.1044,0.0004,false
+Beras Kualitas Medium I,Bengkulu,2026-11-26,16750.0,0.006,0.0213,0.0877,0.0016,false
+Beras Kualitas Medium I,DI Yogyakarta,2026-11-26,15400.0,0.0,0.0,0.0336,0.0015,false
+Beras Kualitas Medium I,DKI Jakarta,2026-11-26,17050.0,0.0,0.0,0.0271,0.0,false
+Beras Kualitas Medium I,Gorontalo,2026-11-26,16250.0,0.0,0.0,0.0621,0.002,false
+Beras Kualitas Medium I,Jambi,2026-11-26,17750.0,0.0,0.0503,0.0823,0.004,false
+Beras Kualitas Medium I,Jawa Barat,2026-11-26,15850.0,0.0,0.0,0.0497,0.0015,false
+Beras Kualitas Medium I,Jawa Tengah,2026-11-26,16100.0,0.0,0.0031,0.0387,0.0014,false
+Beras Kualitas Medium I,Jawa Timur,2026-11-26,15250.0,0.0,0.0,0.0517,0.0012,false
+Beras Kualitas Medium I,Kalimantan Barat,2026-11-26,17350.0,-0.0029,0.0,0.0236,0.0064,false
+Beras Kualitas Medium I,Kalimantan Selatan,2026-11-26,20450.0,0.0,0.0,0.2702,0.0115,false
+Beras Kualitas Medium I,Kalimantan Tengah,2026-11-26,20200.0,0.0,0.01,0.0831,0.0011,false
+Beras Kualitas Medium I,Kalimantan Timur,2026-11-26,17400.0,0.0235,0.0,0.0146,0.0148,false
+Beras Kualitas Medium I,Kalimantan Utara,2026-11-26,17300.0,0.0206,0.0,0.0176,0.0064,false
+Beras Kualitas Medium I,Kepulauan Bangka Belitung,2026-11-26,16800.0,0.006,0.0151,0.0667,0.0029,false
+Beras Kualitas Medium I,Kepulauan Riau,2026-11-26,15150.0,-0.0033,-0.0162,-0.0066,0.0085,false
+Beras Kualitas Medium I,Lampung,2026-11-26,16350.0,0.0,0.0093,0.0973,0.0014,false
+Beras Kualitas Medium I,Maluku,2026-11-26,17500.0,0.0,0.0,0.0145,0.0,false
+Beras Kualitas Medium I,Maluku Utara,2026-11-26,18000.0,0.0,0.0,0.0141,0.0136,false
+Beras Kualitas Medium I,Nusa Tenggara Barat,2026-11-26,14150.0,0.0,0.0366,0.0366,0.0079,false
+Beras Kualitas Medium I,Nusa Tenggara Timur,2026-11-26,15150.0,0.0168,0.0168,0.0271,0.0031,false
+Beras Kualitas Medium I,Papua,2026-11-26,19750.0,0.0,0.0,0.0313,0.0018,false
+Beras Kualitas Medium I,Papua Barat,2026-11-26,17850.0,0.0,-0.0083,0.0113,0.0015,false
+Beras Kualitas Medium I,Riau,2026-11-26,17750.0,0.0057,0.035,0.0693,0.0032,false
+Beras Kualitas Medium I,Semua Provinsi,2026-11-26,16700.0,-0.003,0.003,0.0536,0.0018,false
+Beras Kualitas Medium I,Sulawesi Barat,2026-11-26,14650.0,0.0,0.0,0.0353,0.0,false
+Beras Kualitas Medium I,Sulawesi Selatan,2026-11-26,14950.0,0.0,-0.0033,0.024,0.0024,false
+Beras Kualitas Medium I,Sulawesi Tengah,2026-11-26,16000.0,0.0,0.0,0.0561,0.001,false
+Beras Kualitas Medium I,Sulawesi Tenggara,2026-11-26,16050.0,0.0,0.0,0.0158,0.0017,false
+Beras Kualitas Medium I,Sulawesi Utara,2026-11-26,16850.0,-0.003,-0.003,0.1309,0.0014,false
+Beras Kualitas Medium I,Sumatera Barat,2026-11-26,18600.0,0.0,-0.0027,0.0629,0.0013,false
+Beras Kualitas Medium I,Sumatera Selatan,2026-11-26,16650.0,0.0,0.0,0.0639,0.0039,false
+Beras Kualitas Medium I,Sumatera Utara,2026-11-26,15600.0,0.0,0.0032,0.0759,0.0013,false
+Beras Kualitas Medium II,Aceh,2026-11-26,15350.0,0.0132,0.0132,0.0697,0.0128,false
+Beras Kualitas Medium II,Bali,2026-11-26,16150.0,-0.0092,0.0,0.0319,0.0032,false
+Beras Kualitas Medium II,Banten,2026-11-26,15850.0,0.0,0.0,0.1045,0.0,false
+Beras Kualitas Medium II,Bengkulu,2026-11-26,16850.0,0.006,0.0151,0.0597,0.0015,false
+Beras Kualitas Medium II,DI Yogyakarta,2026-11-26,14500.0,0.0,0.0,0.0247,0.002,false
+Beras Kualitas Medium II,DKI Jakarta,2026-11-26,16200.0,0.0,0.0,0.0385,0.0,false
+Beras Kualitas Medium II,Jambi,2026-11-26,17000.0,0.0,0.0303,0.0794,0.0029,false
+Beras Kualitas Medium II,Jawa Barat,2026-11-26,15250.0,0.0,0.0033,0.0554,0.0012,false
+Beras Kualitas Medium II,Jawa Tengah,2026-11-26,15200.0,-0.0098,-0.0033,0.0447,0.0034,false
+Beras Kualitas Medium II,Jawa Timur,2026-11-26,14750.0,0.0,0.0,0.0573,0.0021,false
+Beras Kualitas Medium II,Kalimantan Barat,2026-11-26,17000.0,-0.0058,0.0,0.0149,0.0027,false
+Beras Kualitas Medium II,Kalimantan Selatan,2026-11-26,23350.0,0.0,0.0,0.2622,0.0081,false
+Beras Kualitas Medium II,Kalimantan Tengah,2026-11-26,19200.0,0.0,0.0,0.0756,0.0007,false
+Beras Kualitas Medium II,Kalimantan Timur,2026-11-26,16700.0,-0.0176,0.003,0.0309,0.0111,false
+Beras Kualitas Medium II,Kalimantan Utara,2026-11-26,18150.0,0.0168,0.0,0.0371,0.0067,false
+Beras Kualitas Medium II,Kepulauan Bangka Belitung,2026-11-26,15700.0,-0.0126,-0.0032,-0.0157,0.0021,false
+Beras Kualitas Medium II,Kepulauan Riau,2026-11-26,15900.0,0.0032,0.0032,0.0565,0.0055,false
+Beras Kualitas Medium II,Lampung,2026-11-26,16150.0,0.0094,0.0222,0.0875,0.0023,false
+Beras Kualitas Medium II,Maluku,2026-11-26,16750.0,0.0,0.0,0.003,0.0004,false
+Beras Kualitas Medium II,Maluku Utara,2026-11-26,17500.0,0.0,0.0448,0.0294,0.0094,false
+Beras Kualitas Medium II,Nusa Tenggara Barat,2026-11-26,13000.0,0.0,0.04,0.0484,0.005,false
+Beras Kualitas Medium II,Nusa Tenggara Timur,2026-11-26,15250.0,0.0066,0.0066,0.0167,0.0015,false
+Beras Kualitas Medium II,Papua,2026-11-26,19450.0,0.0,0.0,0.0291,0.0014,false
+Beras Kualitas Medium II,Papua Barat,2026-11-26,17300.0,0.0,0.0,0.0298,0.0,false
+Beras Kualitas Medium II,Riau,2026-11-26,17600.0,0.0,-0.0085,0.0667,0.0083,false
+Beras Kualitas Medium II,Semua Provinsi,2026-11-26,16550.0,0.0,0.0061,0.0541,0.0017,false
+Beras Kualitas Medium II,Sulawesi Barat,2026-11-26,14600.0,0.0,0.0,0.0318,0.0004,false
+Beras Kualitas Medium II,Sulawesi Selatan,2026-11-26,14700.0,0.0,-0.0034,0.028,0.0026,false
+Beras Kualitas Medium II,Sulawesi Tengah,2026-11-26,16250.0,0.0,0.0,0.0484,0.0109,false
+Beras Kualitas Medium II,Sulawesi Tenggara,2026-11-26,15850.0,0.0,0.0,0.0193,0.0012,false
+Beras Kualitas Medium II,Sulawesi Utara,2026-11-26,17150.0,0.0029,0.0029,0.132,0.0014,false
+Beras Kualitas Medium II,Sumatera Barat,2026-11-26,18450.0,0.0,0.0,0.0634,0.0015,false
+Beras Kualitas Medium II,Sumatera Selatan,2026-11-26,16900.0,0.0,0.0,0.0464,0.0048,false
+Beras Kualitas Medium II,Sumatera Utara,2026-11-26,15900.0,0.0,0.0,0.0671,0.0008,false
+Beras Kualitas Super I,Aceh,2026-11-26,16400.0,0.0,0.0,0.0754,0.0102,false
+Beras Kualitas Super I,Bali,2026-11-26,16650.0,-0.006,-0.003,0.0538,0.0018,false
+Beras Kualitas Super I,Banten,2026-11-26,18350.0,0.0,0.0027,0.0731,0.0013,false
+Beras Kualitas Super I,Bengkulu,2026-11-26,18100.0,0.0056,0.0112,0.1384,0.0012,false
+Beras Kualitas Super I,DI Yogyakarta,2026-11-26,16900.0,0.0,0.0,0.0562,0.0013,false
+Beras Kualitas Super I,DKI Jakarta,2026-11-26,21500.0,0.0,0.007,0.1054,0.0009,false
+Beras Kualitas Super I,Gorontalo,2026-11-26,17150.0,0.0,0.0,0.0752,0.0033,false
+Beras Kualitas Super I,Jambi,2026-11-26,18650.0,0.0,0.0136,0.0537,0.0023,false
+Beras Kualitas Super I,Jawa Barat,2026-11-26,17450.0,0.0,0.0,0.0544,0.0022,false
+Beras Kualitas Super I,Jawa Tengah,2026-11-26,17650.0,-0.0084,-0.0028,0.0475,0.0034,false
+Beras Kualitas Super I,Jawa Timur,2026-11-26,16450.0,0.0,0.003,0.0511,0.0014,false
+Beras Kualitas Super I,Kalimantan Barat,2026-11-26,18700.0,0.0,0.0,0.0247,0.0014,false
+Beras Kualitas Super I,Kalimantan Selatan,2026-11-26,19700.0,0.0,0.0,0.0,0.0037,false
+Beras Kualitas Super I,Kalimantan Tengah,2026-11-26,27150.0,0.0,0.0343,0.3575,0.005,false
+Beras Kualitas Super I,Kalimantan Timur,2026-11-26,18000.0,-0.04,0.0,0.0435,0.0243,false
+Beras Kualitas Super I,Kalimantan Utara,2026-11-26,17500.0,0.0,-0.0278,-0.0223,0.0054,false
+Beras Kualitas Super I,Kepulauan Bangka Belitung,2026-11-26,17500.0,0.0116,0.0116,0.0938,0.0035,false
+Beras Kualitas Super I,Kepulauan Riau,2026-11-26,16900.0,0.015,0.009,-0.0029,0.0113,false
+Beras Kualitas Super I,Lampung,2026-11-26,16850.0,0.0,0.0151,0.1049,0.0027,false
+Beras Kualitas Super I,Maluku,2026-11-26,19000.0,0.0,0.0026,0.0326,0.0033,false
+Beras Kualitas Super I,Maluku Utara,2026-11-26,19750.0,0.0,0.0,0.0533,0.0045,false
+Beras Kualitas Super I,Nusa Tenggara Barat,2026-11-26,15950.0,0.0,0.0159,0.0459,0.0024,false
+Beras Kualitas Super I,Nusa Tenggara Timur,2026-11-26,17000.0,0.0429,0.0429,0.0494,0.0043,false
+Beras Kualitas Super I,Papua,2026-11-26,20950.0,0.0,-0.0024,0.0096,0.0011,false
+Beras Kualitas Super I,Papua Barat,2026-11-26,19200.0,0.0105,0.0159,0.0186,0.0015,false
+Beras Kualitas Super I,Riau,2026-11-26,18800.0,0.0,0.0245,0.0416,0.0042,false
+Beras Kualitas Super I,Semua Provinsi,2026-11-26,18100.0,0.0,0.0056,0.0616,0.002,false
+Beras Kualitas Super I,Sulawesi Barat,2026-11-26,15550.0,0.0,0.0,0.013,0.0,false
+Beras Kualitas Super I,Sulawesi Selatan,2026-11-26,15500.0,0.0,0.0032,0.0231,0.0034,false
+Beras Kualitas Super I,Sulawesi Tengah,2026-11-26,17000.0,0.0,-0.0029,0.0303,0.004,false
+Beras Kualitas Super I,Sulawesi Tenggara,2026-11-26,16750.0,0.0,0.0,0.009,0.0005,false
+Beras Kualitas Super I,Sulawesi Utara,2026-11-26,17900.0,0.0,0.0,0.1293,0.002,false
+Beras Kualitas Super I,Sumatera Barat,2026-11-26,19150.0,0.0,-0.0026,0.058,0.0005,false
+Beras Kualitas Super I,Sumatera Selatan,2026-11-26,18000.0,0.0,0.0,0.0778,0.004,false
+Beras Kualitas Super I,Sumatera Utara,2026-11-26,16600.0,0.003,0.003,0.0641,0.001,false
+Beras Kualitas Super II,Aceh,2026-11-26,15850.0,-0.0063,-0.0063,0.0602,0.0022,false
+Beras Kualitas Super II,Bali,2026-11-26,16500.0,-0.006,-0.003,0.0714,0.0113,false
+Beras Kualitas Super II,Banten,2026-11-26,17650.0,0.0,0.0086,0.0862,0.0013,false
+Beras Kualitas Super II,Bengkulu,2026-11-26,17650.0,0.0144,0.0232,0.0963,0.0019,false
+Beras Kualitas Super II,DI Yogyakarta,2026-11-26,15750.0,0.0,0.0,0.05,0.0014,false
+Beras Kualitas Super II,DKI Jakarta,2026-11-26,17850.0,0.0,0.0028,0.02,0.0004,false
+Beras Kualitas Super II,Jambi,2026-11-26,18500.0,0.0054,0.0249,0.0725,0.0033,false
+Beras Kualitas Super II,Jawa Barat,2026-11-26,16500.0,0.003,0.003,0.051,0.0019,false
+Beras Kualitas Super II,Jawa Tengah,2026-11-26,16550.0,-0.003,0.0,0.0541,0.0019,false
+Beras Kualitas Super II,Jawa Timur,2026-11-26,16100.0,0.0,0.0031,0.0455,0.0014,false
+Beras Kualitas Super II,Kalimantan Barat,2026-11-26,18400.0,0.0,0.0,0.0308,0.0018,false
+Beras Kualitas Super II,Kalimantan Selatan,2026-11-26,20050.0,0.0,0.0,0.0,0.005,false
+Beras Kualitas Super II,Kalimantan Tengah,2026-11-26,22500.0,0.0,0.0112,0.312,0.0015,false
+Beras Kualitas Super II,Kalimantan Timur,2026-11-26,17400.0,-0.0333,0.0,0.0545,0.0158,false
+Beras Kualitas Super II,Kalimantan Utara,2026-11-26,17650.0,0.0086,0.0,0.0086,0.0044,false
+Beras Kualitas Super II,Kepulauan Bangka Belitung,2026-11-26,17300.0,0.0058,0.0058,0.0745,0.0022,false
+Beras Kualitas Super II,Kepulauan Riau,2026-11-26,16400.0,0.0,-0.0061,0.0446,0.0061,false
+Beras Kualitas Super II,Lampung,2026-11-26,16900.0,0.006,0.015,0.0974,0.0017,false
+Beras Kualitas Super II,Maluku,2026-11-26,19950.0,0.0,0.0,0.0556,0.0031,false
+Beras Kualitas Super II,Maluku Utara,2026-11-26,18750.0,0.0,0.0,0.0274,0.0041,false
+Beras Kualitas Super II,Nusa Tenggara Barat,2026-11-26,14650.0,0.0,0.0281,0.0502,0.0027,false
+Beras Kualitas Super II,Nusa Tenggara Timur,2026-11-26,16900.0,0.053,0.053,0.0596,0.0047,false
+Beras Kualitas Super II,Papua,2026-11-26,20450.0,0.0025,0.0025,0.0302,0.0013,false
+Beras Kualitas Super II,Papua Barat,2026-11-26,18750.0,0.0,0.0054,0.0504,0.0007,false
+Beras Kualitas Super II,Riau,2026-11-26,18500.0,0.0054,-0.008,0.0787,0.0134,false
+Beras Kualitas Super II,Semua Provinsi,2026-11-26,17550.0,0.0,0.0057,0.0604,0.0016,false
+Beras Kualitas Super II,Sulawesi Barat,2026-11-26,15600.0,0.0,0.0,0.013,0.0,false
+Beras Kualitas Super II,Sulawesi Selatan,2026-11-26,15450.0,0.0,0.0,0.0334,0.0013,false
+Beras Kualitas Super II,Sulawesi Tengah,2026-11-26,17150.0,0.0,0.0,0.0239,0.0066,false
+Beras Kualitas Super II,Sulawesi Tenggara,2026-11-26,16500.0,0.0,0.0,0.0154,0.0012,false
+Beras Kualitas Super II,Sulawesi Utara,2026-11-26,17600.0,0.0,0.0028,0.1104,0.002,false
+Beras Kualitas Super II,Sumatera Barat,2026-11-26,18850.0,0.0027,-0.0026,0.0531,0.0007,false
+Beras Kualitas Super II,Sumatera Selatan,2026-11-26,16900.0,0.0,0.0,0.0464,0.0042,false
+Beras Kualitas Super II,Sumatera Utara,2026-11-26,16900.0,0.0,0.003,0.0596,0.0012,false
+Cabai Merah Besar,Aceh,2026-11-26,42000.0,0.0,0.0,0.05,0.0,false
+Cabai Merah Besar,Bali,2026-11-26,37650.0,-0.0334,-0.1815,-0.153,0.0404,false
+Cabai Merah Besar,Banten,2026-11-26,52650.0,0.0029,-0.0514,-0.2574,0.0226,false
+Cabai Merah Besar,Bengkulu,2026-11-26,68750.0,-0.0772,0.1458,0.0827,0.052,false
+Cabai Merah Besar,DI Yogyakarta,2026-11-26,50500.0,0.01,-0.1217,-0.2231,0.042,false
+Cabai Merah Besar,DKI Jakarta,2026-11-26,64700.0,0.0563,-0.0623,-0.1774,0.0342,false
+Cabai Merah Besar,Jambi,2026-11-26,62900.0,-0.0172,0.044,-0.0506,0.0608,false
+Cabai Merah Besar,Jawa Barat,2026-11-26,53100.0,0.0815,-0.031,-0.1463,0.0318,false
+Cabai Merah Besar,Jawa Tengah,2026-11-26,45650.0,-0.0339,-0.0806,-0.1927,0.0218,false
+Cabai Merah Besar,Jawa Timur,2026-11-26,34350.0,-0.0143,-0.0115,-0.3238,0.0375,false
+Cabai Merah Besar,Kalimantan Barat,2026-11-26,68450.0,-0.0165,-0.3226,0.2423,0.0379,false
+Cabai Merah Besar,Kalimantan Selatan,2026-11-26,62900.0,-0.0563,-0.1065,-0.1471,0.0325,false
+Cabai Merah Besar,Kalimantan Tengah,2026-11-26,88750.0,-0.0658,-0.1499,-0.1647,0.0239,false
+Cabai Merah Besar,Kalimantan Timur,2026-11-26,70400.0,0.0057,-0.1508,0.1113,0.0671,false
+Cabai Merah Besar,Kalimantan Utara,2026-11-26,79150.0,-0.1521,-0.1742,0.2664,0.0324,true
+Cabai Merah Besar,Kepulauan Bangka Belitung,2026-11-26,50000.0,0.0,0.0,0.0,,false
+Cabai Merah Besar,Lampung,2026-11-26,64650.0,-0.0092,-0.0479,-0.0849,0.0302,false
+Cabai Merah Besar,Maluku,2026-11-26,45000.0,0.0,0.0,0.125,,false
+Cabai Merah Besar,Maluku Utara,2026-11-26,135000.0,-0.069,-0.1563,3.1538,0.0332,false
+Cabai Merah Besar,Nusa Tenggara Barat,2026-11-26,39700.0,-0.0063,-0.0137,-0.0884,0.0314,false
+Cabai Merah Besar,Nusa Tenggara Timur,2026-11-26,48750.0,-0.0784,-0.0862,0.093,0.0318,false
+Cabai Merah Besar,Papua,2026-11-26,107150.0,0.0557,0.0878,0.3027,0.0198,false
+Cabai Merah Besar,Papua Barat,2026-11-26,75000.0,0.0,-0.2857,0.1321,0.071,false
+Cabai Merah Besar,Riau,2026-11-26,82250.0,0.0086,0.1025,0.1894,0.0586,false
+Cabai Merah Besar,Semua Provinsi,2026-11-26,64150.0,-0.0236,-0.1182,0.1041,0.0162,false
+Cabai Merah Besar,Sulawesi Barat,2026-11-26,49600.0,-0.1006,-0.3039,0.3227,0.0343,true
+Cabai Merah Besar,Sulawesi Selatan,2026-11-26,38200.0,-0.1838,-0.3898,0.0053,0.044,true
+Cabai Merah Besar,Sulawesi Tengah,2026-11-26,67450.0,-0.144,-0.2616,1.1045,0.0689,true
+Cabai Merah Besar,Sulawesi Tenggara,2026-11-26,51250.0,-0.0579,-0.4016,-0.0357,0.0341,false
+Cabai Merah Besar,Sulawesi Utara,2026-11-26,30000.0,0.0,0.0,0.0,,false
+Cabai Merah Besar,Sumatera Selatan,2026-11-26,68750.0,0.0088,-0.0129,0.1853,0.0445,false
+Cabai Merah Keriting,Aceh,2026-11-26,73400.0,0.018,0.0508,0.2515,0.04,false
+Cabai Merah Keriting,Bali,2026-11-26,49250.0,-0.0061,-0.1134,-0.0829,0.0255,false
+Cabai Merah Keriting,Banten,2026-11-26,63250.0,-0.0344,-0.0984,-0.038,0.0263,false
+Cabai Merah Keriting,Bengkulu,2026-11-26,76250.0,-0.0469,0.0777,0.123,0.0457,false
+Cabai Merah Keriting,DI Yogyakarta,2026-11-26,51750.0,-0.1154,-0.0591,-0.0591,0.054,true
+Cabai Merah Keriting,DKI Jakarta,2026-11-26,65950.0,0.0138,-0.0672,-0.0796,0.0399,false
+Cabai Merah Keriting,Gorontalo,2026-11-26,100000.0,-0.1579,-0.1753,1.448,0.0419,true
+Cabai Merah Keriting,Jambi,2026-11-26,60900.0,-0.0372,0.0296,-0.0595,0.0583,false
+Cabai Merah Keriting,Jawa Barat,2026-11-26,68550.0,0.0096,-0.027,0.0628,0.029,false
+Cabai Merah Keriting,Jawa Tengah,2026-11-26,55500.0,0.0036,-0.0272,0.0156,0.0333,false
+Cabai Merah Keriting,Jawa Timur,2026-11-26,50950.0,-0.001,0.0441,-0.0221,0.0325,false
+Cabai Merah Keriting,Kalimantan Barat,2026-11-26,93950.0,-0.2088,-0.2703,0.7414,0.0787,true
+Cabai Merah Keriting,Kalimantan Selatan,2026-11-26,87900.0,-0.0456,-0.014,0.2946,0.0314,false
+Cabai Merah Keriting,Kalimantan Tengah,2026-11-26,95000.0,-0.0321,-0.1264,-0.013,0.0296,false
+Cabai Merah Keriting,Kalimantan Timur,2026-11-26,87500.0,0.0606,-0.0627,0.8325,0.0674,false
+Cabai Merah Keriting,Kalimantan Utara,2026-11-26,92100.0,-0.1089,-0.0939,0.535,0.0267,true
+Cabai Merah Keriting,Kepulauan Bangka Belitung,2026-11-26,83500.0,-0.0176,-0.0644,0.1719,0.0418,false
+Cabai Merah Keriting,Kepulauan Riau,2026-11-26,93100.0,0.031,0.0299,0.2178,0.0371,false
+Cabai Merah Keriting,Lampung,2026-11-26,63150.0,-0.0489,0.0161,0.0161,0.0454,false
+Cabai Merah Keriting,Maluku,2026-11-26,112500.0,0.0465,-0.1509,0.875,0.0336,false
+Cabai Merah Keriting,Maluku Utara,2026-11-26,170000.0,0.0,0.7,1.2667,0.1035,false
+Cabai Merah Keriting,Nusa Tenggara Barat,2026-11-26,51250.0,0.0209,0.0513,0.1608,0.0305,false
+Cabai Merah Keriting,Nusa Tenggara Timur,2026-11-26,57500.0,-0.0146,0.1036,0.2665,0.0295,false
+Cabai Merah Keriting,Papua,2026-11-26,122750.0,-0.0822,-0.0421,0.4332,0.02,false
+Cabai Merah Keriting,Papua Barat,2026-11-26,72500.0,-0.0333,-0.4912,0.381,0.0498,false
+Cabai Merah Keriting,Riau,2026-11-26,92950.0,0.0214,0.0444,0.0527,0.0442,false
+Cabai Merah Keriting,Semua Provinsi,2026-11-26,79700.0,-0.0415,-0.0635,0.3372,0.021,false
+Cabai Merah Keriting,Sulawesi Barat,2026-11-26,73750.0,-0.0533,-0.1288,1.0014,0.031,false
+Cabai Merah Keriting,Sulawesi Selatan,2026-11-26,68250.0,-0.0319,-0.1333,0.8546,0.0387,false
+Cabai Merah Keriting,Sulawesi Tengah,2026-11-26,71900.0,-0.2331,-0.2767,1.3194,0.0435,true
+Cabai Merah Keriting,Sulawesi Tenggara,2026-11-26,75000.0,-0.0403,-0.1667,0.5789,0.0328,false
+Cabai Merah Keriting,Sulawesi Utara,2026-11-26,104400.0,-0.072,-0.0922,2.5692,0.0337,false
+Cabai Merah Keriting,Sumatera Barat,2026-11-26,81900.0,-0.0162,0.0513,0.04,0.0354,false
+Cabai Merah Keriting,Sumatera Selatan,2026-11-26,72150.0,-0.0399,-0.0412,0.0307,0.044,false
+Cabai Merah Keriting,Sumatera Utara,2026-11-26,71450.0,-0.0409,0.0523,0.1978,0.0502,false
+Cabai Rawit Hijau,Aceh,2026-11-26,61350.0,-0.0474,-0.1579,0.5731,0.0282,false
+Cabai Rawit Hijau,Bali,2026-11-26,53250.0,0.0143,0.028,0.4431,0.0168,false
+Cabai Rawit Hijau,Banten,2026-11-26,54850.0,-0.0352,-0.0881,0.1344,0.0148,false
+Cabai Rawit Hijau,Bengkulu,2026-11-26,61250.0,0.0208,-0.1404,0.6161,0.0342,false
+Cabai Rawit Hijau,DI Yogyakarta,2026-11-26,57250.0,0.0088,0.0315,0.4224,0.0276,false
+Cabai Rawit Hijau,DKI Jakarta,2026-11-26,55300.0,-0.029,-0.1728,0.0994,0.0245,false
+Cabai Rawit Hijau,Gorontalo,2026-11-26,35000.0,0.0,0.0,0.0,,false
+Cabai Rawit Hijau,Jambi,2026-11-26,51900.0,-0.0564,-0.1696,0.4122,0.046,false
+Cabai Rawit Hijau,Jawa Barat,2026-11-26,53450.0,-0.0065,-0.1358,0.1734,0.0152,false
+Cabai Rawit Hijau,Jawa Tengah,2026-11-26,53700.0,-0.0316,0.0113,0.615,0.012,false
+Cabai Rawit Hijau,Jawa Timur,2026-11-26,41550.0,-0.0631,-0.0337,0.522,0.0206,false
+Cabai Rawit Hijau,Kalimantan Barat,2026-11-26,77900.0,-0.1082,-0.3152,0.6229,0.0374,true
+Cabai Rawit Hijau,Kalimantan Selatan,2026-11-26,48350.0,-0.0163,-0.0639,0.7055,0.0466,false
+Cabai Rawit Hijau,Kalimantan Tengah,2026-11-26,75000.0,-0.0164,-0.0323,0.9036,0.0255,false
+Cabai Rawit Hijau,Kalimantan Timur,2026-11-26,78350.0,0.011,-0.1753,0.7088,0.0398,false
+Cabai Rawit Hijau,Kalimantan Utara,2026-11-26,78350.0,-0.0309,-0.2448,-0.0357,0.0397,false
+Cabai Rawit Hijau,Kepulauan Bangka Belitung,2026-11-26,67650.0,-0.0181,-0.0287,0.2135,0.0141,false
+Cabai Rawit Hijau,Kepulauan Riau,2026-11-26,73350.0,0.0195,0.0138,0.3521,0.0241,false
+Cabai Rawit Hijau,Lampung,2026-11-26,56900.0,-0.0298,-0.0748,0.3233,0.0265,false
+Cabai Rawit Hijau,Maluku,2026-11-26,85000.0,-0.0556,0.0,1.0,0.0454,false
+Cabai Rawit Hijau,Maluku Utara,2026-11-26,135000.0,-0.069,-0.129,1.4545,0.0283,false
+Cabai Rawit Hijau,Nusa Tenggara Barat,2026-11-26,34150.0,-0.0312,-0.0579,0.5629,0.0213,false
+Cabai Rawit Hijau,Nusa Tenggara Timur,2026-11-26,55000.0,0.0,0.2941,0.4667,0.0267,false
+Cabai Rawit Hijau,Papua,2026-11-26,83400.0,-0.091,-0.0441,0.4281,0.0291,false
+Cabai Rawit Hijau,Papua Barat,2026-11-26,50000.0,0.0,0.0,0.1111,,false
+Cabai Rawit Hijau,Riau,2026-11-26,62050.0,-0.1033,-0.2141,0.5246,0.0262,true
+Cabai Rawit Hijau,Semua Provinsi,2026-11-26,71450.0,-0.0351,-0.1035,0.6694,0.0111,false
+Cabai Rawit Hijau,Sulawesi Barat,2026-11-26,78350.0,-0.0101,-0.1451,1.7252,0.0412,false
+Cabai Rawit Hijau,Sulawesi Selatan,2026-11-26,48150.0,-0.0072,-0.0855,1.2037,0.0241,false
+Cabai Rawit Hijau,Sulawesi Tengah,2026-11-26,155650.0,-0.0158,-0.0311,2.4096,0.0364,false
+Cabai Rawit Hijau,Sulawesi Tenggara,2026-11-26,117500.0,-0.0309,-0.0159,0.9184,0.0287,false
+Cabai Rawit Hijau,Sulawesi Utara,2026-11-26,150000.0,0.0,-0.1429,2.2432,0.0582,false
+Cabai Rawit Hijau,Sumatera Barat,2026-11-26,57900.0,-0.0903,-0.1816,0.7156,0.0263,false
+Cabai Rawit Hijau,Sumatera Selatan,2026-11-26,70650.0,-0.0342,-0.1564,0.5476,0.0427,false
+Cabai Rawit Hijau,Sumatera Utara,2026-11-26,53200.0,-0.1228,-0.2211,0.3747,0.0298,true
+Cabai Rawit Merah,Aceh,2026-11-26,45000.0,0.0,0.0,0.0,,false
+Cabai Rawit Merah,Bali,2026-11-26,59950.0,-0.0727,-0.0156,0.3845,0.0319,false
+Cabai Rawit Merah,Banten,2026-11-26,72150.0,-0.0884,-0.0425,0.3035,0.0219,false
+Cabai Rawit Merah,Bengkulu,2026-11-26,71250.0,-0.0656,-0.1149,1.1889,0.0271,false
+Cabai Rawit Merah,DI Yogyakarta,2026-11-26,65000.0,-0.0299,0.0,0.4444,0.02,false
+Cabai Rawit Merah,DKI Jakarta,2026-11-26,72400.0,-0.0554,-0.0759,0.1659,0.0273,false
+Cabai Rawit Merah,Gorontalo,2026-11-26,129400.0,-0.1039,-0.1975,2.3394,0.0609,true
+Cabai Rawit Merah,Jambi,2026-11-26,66150.0,-0.1679,-0.1492,0.1973,0.036,true
+Cabai Rawit Merah,Jawa Barat,2026-11-26,73250.0,-0.0266,-0.0387,0.3379,0.0174,false
+Cabai Rawit Merah,Jawa Tengah,2026-11-26,62750.0,-0.0745,-0.0279,0.328,0.0246,false
+Cabai Rawit Merah,Jawa Timur,2026-11-26,56550.0,-0.128,0.0027,0.3776,0.0348,true
+Cabai Rawit Merah,Kalimantan Barat,2026-11-26,88700.0,-0.1076,-0.3156,0.5825,0.035,true
+Cabai Rawit Merah,Kalimantan Selatan,2026-11-26,95850.0,-0.0496,0.0504,1.035,0.0326,false
+Cabai Rawit Merah,Kalimantan Tengah,2026-11-26,102500.0,-0.012,-0.0989,0.4643,0.0506,false
+Cabai Rawit Merah,Kalimantan Timur,2026-11-26,86850.0,-0.0858,-0.0939,0.9806,0.0355,false
+Cabai Rawit Merah,Kalimantan Utara,2026-11-26,103350.0,-0.0386,-0.253,0.378,0.0291,false
+Cabai Rawit Merah,Kepulauan Bangka Belitung,2026-11-26,91250.0,-0.0027,-0.1239,0.6977,0.0372,false
+Cabai Rawit Merah,Kepulauan Riau,2026-11-26,83350.0,0.0183,0.0,,0.0278,false
+Cabai Rawit Merah,Lampung,2026-11-26,65650.0,-0.0416,-0.0641,0.5447,0.0233,false
+Cabai Rawit Merah,Maluku,2026-11-26,111250.0,-0.1604,-0.2645,0.3485,0.047,true
+Cabai Rawit Merah,Maluku Utara,2026-11-26,200000.0,0.0,0.2903,1.6667,0.0784,false
+Cabai Rawit Merah,Nusa Tenggara Barat,2026-11-26,52400.0,-0.0668,-0.0412,0.8849,0.0252,false
+Cabai Rawit Merah,Nusa Tenggara Timur,2026-11-26,69100.0,0.0368,-0.0774,0.4812,0.0205,false
+Cabai Rawit Merah,Papua,2026-11-26,140650.0,-0.1084,-0.0554,0.45,0.0325,true
+Cabai Rawit Merah,Papua Barat,2026-11-26,97500.0,-0.1429,-0.3607,0.1304,0.073,true
+Cabai Rawit Merah,Riau,2026-11-26,67050.0,-0.0261,-0.1838,0.485,0.0223,false
+Cabai Rawit Merah,Semua Provinsi,2026-11-26,89450.0,-0.0668,-0.1086,0.7218,0.0196,false
+Cabai Rawit Merah,Sulawesi Barat,2026-11-26,91650.0,0.0044,-0.1132,2.0148,0.0346,false
+Cabai Rawit Merah,Sulawesi Selatan,2026-11-26,79500.0,-0.0215,-0.1543,1.9174,0.037,false
+Cabai Rawit Merah,Sulawesi Tengah,2026-11-26,143150.0,-0.0172,-0.0613,2.1358,0.0363,false
+Cabai Rawit Merah,Sulawesi Tenggara,2026-11-26,133750.0,-0.0093,-0.0855,1.5165,0.0287,false
+Cabai Rawit Merah,Sulawesi Utara,2026-11-26,116250.0,-0.0839,-0.0882,2.1292,0.1167,false
+Cabai Rawit Merah,Sumatera Selatan,2026-11-26,69500.0,-0.1383,-0.123,0.397,0.0326,true
+Cabai Rawit Merah,Sumatera Utara,2026-11-26,44500.0,-0.1667,-0.3298,0.0313,0.0619,true
+Daging Ayam Ras Segar,Aceh,2026-11-26,33850.0,0.015,-0.0726,-0.1139,0.0146,false
+Daging Ayam Ras Segar,Bali,2026-11-26,40250.0,-0.0074,-0.0518,-0.0348,0.005,false
+Daging Ayam Ras Segar,Banten,2026-11-26,37750.0,-0.0382,-0.0345,-0.0936,0.01,false
+Daging Ayam Ras Segar,Bengkulu,2026-11-26,32500.0,-0.058,-0.0647,-0.2243,0.0104,false
+Daging Ayam Ras Segar,DI Yogyakarta,2026-11-26,33750.0,-0.0493,-0.0625,-0.0753,0.0158,false
+Daging Ayam Ras Segar,DKI Jakarta,2026-11-26,37350.0,-0.0261,-0.0386,-0.0544,0.0068,false
+Daging Ayam Ras Segar,Gorontalo,2026-11-26,33550.0,-0.0732,-0.0576,-0.0796,0.0218,false
+Daging Ayam Ras Segar,Jambi,2026-11-26,34650.0,-0.0267,-0.0086,-0.1569,0.0125,false
+Daging Ayam Ras Segar,Jawa Barat,2026-11-26,35200.0,-0.0195,-0.0638,-0.1066,0.0091,false
+Daging Ayam Ras Segar,Jawa Tengah,2026-11-26,35250.0,-0.014,-0.06,-0.0724,0.011,false
+Daging Ayam Ras Segar,Jawa Timur,2026-11-26,32100.0,-0.0736,-0.0932,-0.1383,0.0151,false
+Daging Ayam Ras Segar,Kalimantan Barat,2026-11-26,36650.0,0.0195,-0.0418,-0.0121,0.0088,false
+Daging Ayam Ras Segar,Kalimantan Selatan,2026-11-26,44100.0,0.0115,-0.0254,0.0796,0.0106,false
+Daging Ayam Ras Segar,Kalimantan Tengah,2026-11-26,38750.0,-0.0064,-0.0349,0.1183,0.0152,false
+Daging Ayam Ras Segar,Kalimantan Timur,2026-11-26,36600.0,-0.0227,0.0686,-0.0135,0.0388,false
+Daging Ayam Ras Segar,Kalimantan Utara,2026-11-26,47250.0,0.0183,0.0654,0.0465,0.008,false
+Daging Ayam Ras Segar,Kepulauan Bangka Belitung,2026-11-26,42150.0,0.0369,0.0835,0.0472,0.0184,false
+Daging Ayam Ras Segar,Kepulauan Riau,2026-11-26,41750.0,-0.0048,0.0858,0.022,0.0153,false
+Daging Ayam Ras Segar,Lampung,2026-11-26,32350.0,-0.0415,-0.0887,-0.09,0.0097,false
+Daging Ayam Ras Segar,Maluku,2026-11-26,47650.0,-0.0135,-0.0135,0.1305,0.0065,false
+Daging Ayam Ras Segar,Maluku Utara,2026-11-26,45000.0,0.0,0.0,0.0112,0.0029,false
+Daging Ayam Ras Segar,Nusa Tenggara Barat,2026-11-26,37650.0,-0.0321,-0.0383,-0.0873,0.0116,false
+Daging Ayam Ras Segar,Nusa Tenggara Timur,2026-11-26,49650.0,-0.006,-0.0226,0.0174,0.0201,false
+Daging Ayam Ras Segar,Papua,2026-11-26,50400.0,-0.0185,-0.0242,0.1163,0.0028,false
+Daging Ayam Ras Segar,Papua Barat,2026-11-26,51450.0,0.0586,0.0352,-0.0481,0.0273,false
+Daging Ayam Ras Segar,Riau,2026-11-26,27750.0,-0.0314,-0.0931,-0.1667,0.0162,false
+Daging Ayam Ras Segar,Semua Provinsi,2026-11-26,38300.0,-0.0103,-0.0304,-0.0437,0.0037,false
+Daging Ayam Ras Segar,Sulawesi Barat,2026-11-26,30200.0,-0.0397,-0.0876,0.0709,0.011,false
+Daging Ayam Ras Segar,Sulawesi Selatan,2026-11-26,27800.0,-0.0124,-0.1216,-0.123,0.0146,false
+Daging Ayam Ras Segar,Sulawesi Tengah,2026-11-26,32300.0,-0.0031,-0.0678,-0.1621,0.0226,false
+Daging Ayam Ras Segar,Sulawesi Tenggara,2026-11-26,34000.0,0.021,-0.0848,-0.0556,0.0198,false
+Daging Ayam Ras Segar,Sulawesi Utara,2026-11-26,40650.0,-0.0061,-0.0169,-0.0557,0.0074,false
+Daging Ayam Ras Segar,Sumatera Barat,2026-11-26,48900.0,-0.0031,-0.021,-0.0587,0.0064,false
+Daging Ayam Ras Segar,Sumatera Selatan,2026-11-26,31900.0,-0.059,-0.095,-0.1583,0.0203,false
+Daging Ayam Ras Segar,Sumatera Utara,2026-11-26,41000.0,0.0086,-0.012,-0.0097,0.0085,false
+Daging Sapi Kualitas 1,Aceh,2026-11-26,170000.0,0.0,0.0,0.1086,0.0659,false
+Daging Sapi Kualitas 1,Bali,2026-11-26,147950.0,0.026,0.0172,0.0568,0.0041,false
+Daging Sapi Kualitas 1,Banten,2026-11-26,151650.0,0.0,0.011,0.1163,0.0044,false
+Daging Sapi Kualitas 1,Bengkulu,2026-11-26,160000.0,0.0,0.0,0.1852,0.0,false
+Daging Sapi Kualitas 1,DI Yogyakarta,2026-11-26,162500.0,0.0,0.0,0.1207,0.0,false
+Daging Sapi Kualitas 1,DKI Jakarta,2026-11-26,155950.0,0.0,0.0107,0.1207,0.0013,false
+Daging Sapi Kualitas 1,Gorontalo,2026-11-26,152500.0,0.0167,-0.0161,0.1091,0.0084,false
+Daging Sapi Kualitas 1,Jambi,2026-11-26,156250.0,0.0,0.0081,0.1364,0.001,false
+Daging Sapi Kualitas 1,Jawa Barat,2026-11-26,157650.0,0.0,0.0,0.1021,0.0046,false
+Daging Sapi Kualitas 1,Jawa Tengah,2026-11-26,152100.0,0.0056,0.0007,0.1462,0.0021,false
+Daging Sapi Kualitas 1,Jawa Timur,2026-11-26,147000.0,0.0,-0.0003,0.1356,0.0031,false
+Daging Sapi Kualitas 1,Kalimantan Barat,2026-11-26,161100.0,0.0016,0.0016,0.0229,0.0006,false
+Daging Sapi Kualitas 1,Kalimantan Selatan,2026-11-26,172900.0,0.0,0.0,0.0375,0.0029,false
+Daging Sapi Kualitas 1,Kalimantan Tengah,2026-11-26,160000.0,0.0,0.0,0.0159,0.001,false
+Daging Sapi Kualitas 1,Kalimantan Timur,2026-11-26,167900.0,-0.0124,0.0,0.0387,0.007,false
+Daging Sapi Kualitas 1,Kalimantan Utara,2026-11-26,159150.0,0.0882,0.0,0.061,0.0289,false
+Daging Sapi Kualitas 1,Kepulauan Bangka Belitung,2026-11-26,150000.0,-0.0625,-0.0625,0.0619,0.008,false
+Daging Sapi Kualitas 1,Kepulauan Riau,2026-11-26,129400.0,-0.0096,-0.0096,0.1189,0.01,false
+Daging Sapi Kualitas 1,Lampung,2026-11-26,144400.0,0.0,0.0,0.1002,0.0,false
+Daging Sapi Kualitas 1,Maluku,2026-11-26,142500.0,0.0,-0.0172,0.0088,0.0086,false
+Daging Sapi Kualitas 1,Maluku Utara,2026-11-26,150000.0,0.0,0.0,0.0345,0.0,false
+Daging Sapi Kualitas 1,Nusa Tenggara Barat,2026-11-26,136250.0,0.0,-0.0091,0.0737,0.0024,false
+Daging Sapi Kualitas 1,Nusa Tenggara Timur,2026-11-26,121650.0,0.0,0.0,0.0353,0.0,false
+Daging Sapi Kualitas 1,Papua,2026-11-26,163650.0,0.0046,0.0031,0.0531,0.0009,false
+Daging Sapi Kualitas 1,Papua Barat,2026-11-26,175000.0,0.0294,0.0294,0.1667,0.0052,false
+Daging Sapi Kualitas 1,Riau,2026-11-26,151650.0,0.0,0.0222,0.0736,0.0064,false
+Daging Sapi Kualitas 1,Semua Provinsi,2026-11-26,152600.0,-0.0013,0.0003,0.0838,0.0032,false
+Daging Sapi Kualitas 1,Sulawesi Barat,2026-11-26,141650.0,0.0,0.0,0.1036,0.0015,false
+Daging Sapi Kualitas 1,Sulawesi Selatan,2026-11-26,139250.0,0.0146,0.0146,0.0922,0.0031,false
+Daging Sapi Kualitas 1,Sulawesi Tengah,2026-11-26,149400.0,0.0,0.0,0.0393,0.0173,false
+Daging Sapi Kualitas 1,Sulawesi Tenggara,2026-11-26,141250.0,0.0,0.0,0.018,0.0016,false
+Daging Sapi Kualitas 1,Sulawesi Utara,2026-11-26,155000.0,0.0,0.0,0.1376,0.001,false
+Daging Sapi Kualitas 1,Sumatera Barat,2026-11-26,160000.0,0.0,0.0,0.0847,0.0,false
+Daging Sapi Kualitas 1,Sumatera Selatan,2026-11-26,151250.0,0.0,0.0,0.0614,0.0015,false
+Daging Sapi Kualitas 1,Sumatera Utara,2026-11-26,150950.0,0.0,0.0,0.1181,0.0024,false
+Daging Sapi Kualitas 2,Aceh,2026-11-26,130000.0,-0.037,-0.037,0.0833,0.0088,false
+Daging Sapi Kualitas 2,Bali,2026-11-26,135750.0,0.0308,0.0188,0.0466,0.0044,false
+Daging Sapi Kualitas 2,Banten,2026-11-26,145000.0,0.0,0.0115,0.1188,0.0032,false
+Daging Sapi Kualitas 2,Bengkulu,2026-11-26,150000.0,0.0,0.0,0.1161,0.0,false
+Daging Sapi Kualitas 2,DI Yogyakarta,2026-11-26,156250.0,0.0,0.0,0.1364,0.0,false
+Daging Sapi Kualitas 2,DKI Jakarta,2026-11-26,146800.0,0.0,0.0058,0.1151,0.0007,false
+Daging Sapi Kualitas 2,Gorontalo,2026-11-26,150000.0,0.0,0.0,0.1111,0.0175,false
+Daging Sapi Kualitas 2,Jawa Barat,2026-11-26,148450.0,0.0,0.0,0.1066,0.0044,false
+Daging Sapi Kualitas 2,Jawa Tengah,2026-11-26,144150.0,0.0077,0.0,0.172,0.0026,false
+Daging Sapi Kualitas 2,Jawa Timur,2026-11-26,134100.0,0.0,0.0,0.1437,0.0022,false
+Daging Sapi Kualitas 2,Kalimantan Barat,2026-11-26,147800.0,0.002,0.002,0.0434,0.0006,false
+Daging Sapi Kualitas 2,Kalimantan Selatan,2026-11-26,166250.0,0.0,0.0,0.0446,0.0021,false
+Daging Sapi Kualitas 2,Kalimantan Tengah,2026-11-26,155650.0,0.0,0.0,0.0163,0.001,false
+Daging Sapi Kualitas 2,Kalimantan Timur,2026-11-26,165000.0,-0.0149,0.0,0.0476,0.0115,false
+Daging Sapi Kualitas 2,Kalimantan Utara,2026-11-26,133750.0,0.2367,0.0,-0.0273,0.0583,true
+Daging Sapi Kualitas 2,Kepulauan Bangka Belitung,2026-11-26,128750.0,-0.0764,-0.0764,0.0247,0.0095,false
+Daging Sapi Kualitas 2,Kepulauan Riau,2026-11-26,125000.0,0.0,0.0,0.1364,0.006,false
+Daging Sapi Kualitas 2,Lampung,2026-11-26,137500.0,0.0,0.0,0.0784,0.0,false
+Daging Sapi Kualitas 2,Maluku,2026-11-26,142500.0,0.0,-0.0172,0.0088,0.0086,false
+Daging Sapi Kualitas 2,Nusa Tenggara Barat,2026-11-26,126900.0,0.0,0.0,0.1093,0.0057,false
+Daging Sapi Kualitas 2,Nusa Tenggara Timur,2026-11-26,118350.0,0.0,0.0,0.0368,0.0,false
+Daging Sapi Kualitas 2,Papua,2026-11-26,156150.0,0.0032,-0.0032,0.054,0.0009,false
+Daging Sapi Kualitas 2,Papua Barat,2026-11-26,170000.0,0.0303,0.0303,0.1724,0.0054,false
+Daging Sapi Kualitas 2,Riau,2026-11-26,117900.0,0.0,0.0034,0.0802,0.0277,false
+Daging Sapi Kualitas 2,Semua Provinsi,2026-11-26,143300.0,0.0003,-0.0017,0.0795,0.003,false
+Daging Sapi Kualitas 2,Sulawesi Barat,2026-11-26,140000.0,0.0,0.0,0.098,0.0023,false
+Daging Sapi Kualitas 2,Sulawesi Selatan,2026-11-26,139250.0,0.0146,0.0146,0.0922,0.0031,false
+Daging Sapi Kualitas 2,Sulawesi Tengah,2026-11-26,149400.0,0.0,0.0,0.0393,0.0171,false
+Daging Sapi Kualitas 2,Sulawesi Tenggara,2026-11-26,136250.0,0.0,-0.0091,0.0093,0.0035,false
+Daging Sapi Kualitas 2,Sulawesi Utara,2026-11-26,155000.0,0.0,0.0,0.1376,0.001,false
+Daging Sapi Kualitas 2,Sumatera Barat,2026-11-26,156250.0,0.0,0.0,0.0776,0.0,false
+Daging Sapi Kualitas 2,Sumatera Selatan,2026-11-26,143750.0,0.0,0.0,0.0455,0.0022,false
+Daging Sapi Kualitas 2,Sumatera Utara,2026-11-26,133750.0,0.0,0.0,0.1263,0.0038,false
+Gula Pasir Kualitas Premium,Aceh,2026-11-26,21000.0,0.0,0.0,0.0294,0.0033,false
+Gula Pasir Kualitas Premium,Bali,2026-11-26,20150.0,0.0333,0.0126,0.0633,0.0075,false
+Gula Pasir Kualitas Premium,Banten,2026-11-26,19850.0,-0.0075,-0.0246,0.0447,0.0044,false
+Gula Pasir Kualitas Premium,Bengkulu,2026-11-26,20500.0,0.0,0.0123,0.0789,0.0027,false
+Gula Pasir Kualitas Premium,DI Yogyakarta,2026-11-26,18900.0,0.0,0.0,0.0356,0.001,false
+Gula Pasir Kualitas Premium,DKI Jakarta,2026-11-26,20550.0,0.0,0.0074,0.0593,0.0009,false
+Gula Pasir Kualitas Premium,Gorontalo,2026-11-26,21250.0,0.0,0.0119,0.0625,0.0239,false
+Gula Pasir Kualitas Premium,Jambi,2026-11-26,19850.0,0.0,0.0206,0.073,0.0026,false
+Gula Pasir Kualitas Premium,Jawa Barat,2026-11-26,19800.0,0.0025,0.0128,0.0394,0.0016,false
+Gula Pasir Kualitas Premium,Jawa Tengah,2026-11-26,19600.0,-0.0025,0.0077,0.0453,0.0021,false
+Gula Pasir Kualitas Premium,Jawa Timur,2026-11-26,18950.0,0.0,0.0026,0.0587,0.0017,false
+Gula Pasir Kualitas Premium,Kalimantan Barat,2026-11-26,21000.0,-0.0047,-0.0047,0.0526,0.0065,false
+Gula Pasir Kualitas Premium,Kalimantan Selatan,2026-11-26,20150.0,0.0,0.0,0.0075,0.0016,false
+Gula Pasir Kualitas Premium,Kalimantan Tengah,2026-11-26,23900.0,-0.0104,0.0391,0.0694,0.0059,false
+Gula Pasir Kualitas Premium,Kalimantan Timur,2026-11-26,21000.0,0.012,0.0194,0.0687,0.0157,false
+Gula Pasir Kualitas Premium,Kalimantan Utara,2026-11-26,19600.0,0.0103,0.0,0.0103,0.0097,false
+Gula Pasir Kualitas Premium,Kepulauan Bangka Belitung,2026-11-26,20000.0,0.0178,0.039,0.0667,0.0047,false
+Gula Pasir Kualitas Premium,Kepulauan Riau,2026-11-26,19150.0,0.0,0.0,0.0213,0.0,false
+Gula Pasir Kualitas Premium,Lampung,2026-11-26,19750.0,0.0,0.0128,0.0618,0.0018,false
+Gula Pasir Kualitas Premium,Maluku,2026-11-26,23150.0,0.0,0.0,-0.0107,0.0014,false
+Gula Pasir Kualitas Premium,Maluku Utara,2026-11-26,22000.0,0.0,0.0,0.1579,0.0279,false
+Gula Pasir Kualitas Premium,Nusa Tenggara Barat,2026-11-26,19150.0,0.0,0.0079,0.0159,0.0025,false
+Gula Pasir Kualitas Premium,Nusa Tenggara Timur,2026-11-26,20650.0,0.0073,0.0198,0.0377,0.0018,false
+Gula Pasir Kualitas Premium,Papua,2026-11-26,26750.0,0.0019,-0.0037,0.0133,0.0008,false
+Gula Pasir Kualitas Premium,Papua Barat,2026-11-26,23000.0,0.0,-0.0213,0.0337,0.004,false
+Gula Pasir Kualitas Premium,Riau,2026-11-26,18350.0,0.0,0.0,0.0309,0.001,false
+Gula Pasir Kualitas Premium,Semua Provinsi,2026-11-26,20700.0,0.0,0.0049,0.0455,0.0022,false
+Gula Pasir Kualitas Premium,Sulawesi Barat,2026-11-26,23000.0,0.0,0.0,0.0698,0.0,false
+Gula Pasir Kualitas Premium,Sulawesi Selatan,2026-11-26,20200.0,0.0075,0.0202,0.1882,0.011,false
+Gula Pasir Kualitas Premium,Sulawesi Tengah,2026-11-26,21650.0,0.0,0.0,-0.0114,0.0316,false
+Gula Pasir Kualitas Premium,Sulawesi Tenggara,2026-11-26,23750.0,0.0,0.0326,0.0626,0.003,false
+Gula Pasir Kualitas Premium,Sulawesi Utara,2026-11-26,17500.0,0.0,0.0,0.0,0.0,false
+Gula Pasir Kualitas Premium,Sumatera Barat,2026-11-26,19900.0,-0.005,-0.0124,0.0501,0.0023,false
+Gula Pasir Kualitas Premium,Sumatera Selatan,2026-11-26,19400.0,0.0,0.0,0.043,0.0037,false
+Gula Pasir Kualitas Premium,Sumatera Utara,2026-11-26,20850.0,0.0024,0.0048,0.0477,0.003,false
+Gula Pasir Lokal,Aceh,2026-11-26,19650.0,-0.0101,-0.0101,0.0826,0.0041,false
+Gula Pasir Lokal,Bali,2026-11-26,18800.0,0.0027,0.0358,0.0774,0.0028,false
+Gula Pasir Lokal,Banten,2026-11-26,18900.0,-0.0105,-0.0258,0.03,0.0049,false
+Gula Pasir Lokal,Bengkulu,2026-11-26,19250.0,0.0,0.0,0.1127,0.0023,false
+Gula Pasir Lokal,DI Yogyakarta,2026-11-26,19000.0,0.0,0.0,0.1343,0.0029,false
+Gula Pasir Lokal,DKI Jakarta,2026-11-26,19700.0,0.0,0.0077,0.0535,0.001,false
+Gula Pasir Lokal,Gorontalo,2026-11-26,21600.0,0.0,0.0286,0.1309,0.0061,false
+Gula Pasir Lokal,Jambi,2026-11-26,19600.0,0.0,0.037,0.1042,0.0034,false
+Gula Pasir Lokal,Jawa Barat,2026-11-26,19350.0,0.0026,0.0157,0.0932,0.0023,false
+Gula Pasir Lokal,Jawa Tengah,2026-11-26,18600.0,0.0027,0.0081,0.1039,0.0019,false
+Gula Pasir Lokal,Jawa Timur,2026-11-26,18100.0,-0.0028,0.0084,0.1104,0.002,false
+Gula Pasir Lokal,Kalimantan Barat,2026-11-26,19650.0,0.0,0.0077,0.1133,0.0025,false
+Gula Pasir Lokal,Kalimantan Selatan,2026-11-26,19650.0,0.0,0.0,0.1293,0.0031,false
+Gula Pasir Lokal,Kalimantan Tengah,2026-11-26,20250.0,0.0,0.005,0.1157,0.0024,false
+Gula Pasir Lokal,Kalimantan Timur,2026-11-26,20050.0,0.0025,0.0126,0.0926,0.0066,false
+Gula Pasir Lokal,Kalimantan Utara,2026-11-26,20000.0,0.0,0.0,0.0526,0.0,false
+Gula Pasir Lokal,Kepulauan Bangka Belitung,2026-11-26,18900.0,0.008,0.0244,0.0648,0.003,false
+Gula Pasir Lokal,Kepulauan Riau,2026-11-26,15700.0,-0.0032,-0.0248,0.0979,0.0057,false
+Gula Pasir Lokal,Lampung,2026-11-26,19100.0,0.0,0.0106,0.0883,0.003,false
+Gula Pasir Lokal,Maluku,2026-11-26,20750.0,0.0,0.0375,0.137,0.0036,false
+Gula Pasir Lokal,Maluku Utara,2026-11-26,21000.0,0.0,0.0,0.0244,0.0127,false
+Gula Pasir Lokal,Nusa Tenggara Barat,2026-11-26,19400.0,0.0,-0.0051,0.1086,0.0036,false
+Gula Pasir Lokal,Nusa Tenggara Timur,2026-11-26,19750.0,0.0051,0.0077,0.0313,0.0007,false
+Gula Pasir Lokal,Papua,2026-11-26,22350.0,0.0,0.0136,0.0276,0.0012,false
+Gula Pasir Lokal,Papua Barat,2026-11-26,20500.0,0.0,0.025,0.0649,0.0046,false
+Gula Pasir Lokal,Riau,2026-11-26,19400.0,0.0052,0.0052,0.093,0.0039,false
+Gula Pasir Lokal,Semua Provinsi,2026-11-26,19650.0,-0.0051,0.0129,0.0886,0.0036,false
+Gula Pasir Lokal,Sulawesi Barat,2026-11-26,19250.0,0.0,0.0349,0.0694,0.0074,false
+Gula Pasir Lokal,Sulawesi Selatan,2026-11-26,19000.0,0.0,0.0106,0.0765,0.0027,false
+Gula Pasir Lokal,Sulawesi Tengah,2026-11-26,21250.0,0.0119,0.0546,0.1243,0.0067,false
+Gula Pasir Lokal,Sulawesi Tenggara,2026-11-26,20150.0,0.0126,0.0254,0.1102,0.0035,false
+Gula Pasir Lokal,Sulawesi Utara,2026-11-26,20750.0,0.0,0.0048,0.1433,0.0029,false
+Gula Pasir Lokal,Sumatera Barat,2026-11-26,19400.0,0.0,-0.0127,0.1023,0.0025,false
+Gula Pasir Lokal,Sumatera Selatan,2026-11-26,18750.0,0.0,0.0,0.0446,0.0056,false
+Gula Pasir Lokal,Sumatera Utara,2026-11-26,19750.0,0.0,0.0128,0.0852,0.0018,false
+Minyak Goreng Curah,Aceh,2026-11-26,19500.0,-0.0127,-0.0176,0.0598,0.0071,false
+Minyak Goreng Curah,Bali,2026-11-26,21700.0,-0.0069,-0.0136,0.1157,0.0016,false
+Minyak Goreng Curah,Banten,2026-11-26,17650.0,-0.0194,-0.0112,0.0697,0.0039,false
+Minyak Goreng Curah,Bengkulu,2026-11-26,20000.0,0.0,0.0,0.1429,0.0,false
+Minyak Goreng Curah,DI Yogyakarta,2026-11-26,20500.0,0.0,0.0,0.1389,0.0016,false
+Minyak Goreng Curah,DKI Jakarta,2026-11-26,21950.0,0.0,-0.0157,0.0786,0.0024,false
+Minyak Goreng Curah,Gorontalo,2026-11-26,21650.0,-0.0046,-0.0159,0.0744,0.0016,false
+Minyak Goreng Curah,Jambi,2026-11-26,20500.0,0.0,0.0,0.0847,0.0,false
+Minyak Goreng Curah,Jawa Barat,2026-11-26,21350.0,-0.0023,-0.0116,0.0865,0.0019,false
+Minyak Goreng Curah,Jawa Tengah,2026-11-26,20100.0,-0.0025,-0.0147,0.0691,0.0018,false
+Minyak Goreng Curah,Jawa Timur,2026-11-26,21050.0,0.0,-0.0047,0.0964,0.0024,false
+Minyak Goreng Curah,Kalimantan Barat,2026-11-26,19000.0,0.0,-0.0078,0.0795,0.0029,false
+Minyak Goreng Curah,Kalimantan Selatan,2026-11-26,18600.0,0.0,-0.0159,0.072,0.0181,false
+Minyak Goreng Curah,Kalimantan Tengah,2026-11-26,18950.0,0.0,0.0134,0.128,0.0022,false
+Minyak Goreng Curah,Kalimantan Timur,2026-11-26,21150.0,-0.014,-0.0047,0.1073,0.0164,false
+Minyak Goreng Curah,Kalimantan Utara,2026-11-26,19500.0,-0.025,-0.025,0.0263,0.0031,false
+Minyak Goreng Curah,Kepulauan Riau,2026-11-26,19650.0,0.0077,0.0077,0.0947,0.0408,false
+Minyak Goreng Curah,Lampung,2026-11-26,21200.0,-0.0047,-0.0342,0.1247,0.0022,false
+Minyak Goreng Curah,Maluku,2026-11-26,16000.0,0.0,0.0,0.0,,false
+Minyak Goreng Curah,Maluku Utara,2026-11-26,24000.0,0.0,0.0,0.0435,0.0204,false
+Minyak Goreng Curah,Nusa Tenggara Barat,2026-11-26,22700.0,-0.0066,-0.0066,0.135,0.0011,false
+Minyak Goreng Curah,Nusa Tenggara Timur,2026-11-26,17000.0,0.0,0.0,-0.0286,0.005,false
+Minyak Goreng Curah,Papua,2026-11-26,23150.0,0.0022,0.0243,0.0595,0.0024,false
+Minyak Goreng Curah,Riau,2026-11-26,20700.0,-0.0048,-0.0119,0.0923,0.0051,false
+Minyak Goreng Curah,Semua Provinsi,2026-11-26,20200.0,-0.0049,-0.0074,0.0831,0.0021,false
+Minyak Goreng Curah,Sulawesi Barat,2026-11-26,19850.0,0.0,0.0,0.1507,0.0048,false
+Minyak Goreng Curah,Sulawesi Selatan,2026-11-26,19450.0,-0.0051,-0.0051,0.0806,0.0072,false
+Minyak Goreng Curah,Sulawesi Tengah,2026-11-26,18250.0,0.0,0.0,0.0282,0.0376,false
+Minyak Goreng Curah,Sulawesi Tenggara,2026-11-26,19000.0,0.0,0.0,0.1079,0.0105,false
+Minyak Goreng Curah,Sulawesi Utara,2026-11-26,16900.0,0.0,0.0,0.1046,0.0012,false
+Minyak Goreng Curah,Sumatera Barat,2026-11-26,20000.0,0.0,-0.0099,0.0638,0.0015,false
+Minyak Goreng Curah,Sumatera Selatan,2026-11-26,20750.0,-0.0072,-0.0072,0.0048,0.0014,false
+Minyak Goreng Curah,Sumatera Utara,2026-11-26,20650.0,0.0,-0.0072,0.0783,0.0019,false
+Minyak Goreng Kemasan Bermerk 1,Aceh,2026-11-26,23900.0,-0.0104,-0.0104,0.0694,0.0024,false
+Minyak Goreng Kemasan Bermerk 1,Bali,2026-11-26,23200.0,0.0087,0.0022,0.0791,0.0025,false
+Minyak Goreng Kemasan Bermerk 1,Banten,2026-11-26,18600.0,0.0,-0.0159,0.0248,0.0046,false
+Minyak Goreng Kemasan Bermerk 1,Bengkulu,2026-11-26,24000.0,0.0,0.0,0.1456,0.0,false
+Minyak Goreng Kemasan Bermerk 1,DI Yogyakarta,2026-11-26,24000.0,0.0,0.0,0.1034,0.0,false
+Minyak Goreng Kemasan Bermerk 1,DKI Jakarta,2026-11-26,23200.0,0.0,0.0109,0.0892,0.0014,false
+Minyak Goreng Kemasan Bermerk 1,Gorontalo,2026-11-26,31450.0,0.0,0.0,0.0864,0.0037,false
+Minyak Goreng Kemasan Bermerk 1,Jambi,2026-11-26,24500.0,0.0,0.0,0.1011,0.0005,false
+Minyak Goreng Kemasan Bermerk 1,Jawa Barat,2026-11-26,23350.0,0.0021,0.0,0.076,0.0017,false
+Minyak Goreng Kemasan Bermerk 1,Jawa Tengah,2026-11-26,22900.0,-0.0108,0.0,0.0983,0.0031,false
+Minyak Goreng Kemasan Bermerk 1,Jawa Timur,2026-11-26,22800.0,0.0,-0.0065,0.0831,0.0019,false
+Minyak Goreng Kemasan Bermerk 1,Kalimantan Barat,2026-11-26,23950.0,0.0,-0.0021,0.0886,0.0019,false
+Minyak Goreng Kemasan Bermerk 1,Kalimantan Selatan,2026-11-26,24500.0,0.0,0.0,0.0606,0.0018,false
+Minyak Goreng Kemasan Bermerk 1,Kalimantan Tengah,2026-11-26,26650.0,0.0,0.0,0.1104,0.0012,false
+Minyak Goreng Kemasan Bermerk 1,Kalimantan Timur,2026-11-26,25100.0,0.0351,0.0,0.1106,0.0273,false
+Minyak Goreng Kemasan Bermerk 1,Kalimantan Utara,2026-11-26,24350.0,-0.0061,0.0,0.1459,0.0031,false
+Minyak Goreng Kemasan Bermerk 1,Kepulauan Bangka Belitung,2026-11-26,22000.0,0.0046,0.0046,0.1139,0.0014,false
+Minyak Goreng Kemasan Bermerk 1,Kepulauan Riau,2026-11-26,21500.0,0.0,0.007,0.0777,0.0023,false
+Minyak Goreng Kemasan Bermerk 1,Lampung,2026-11-26,23100.0,0.0,0.0022,0.0719,0.0021,false
+Minyak Goreng Kemasan Bermerk 1,Maluku,2026-11-26,27150.0,0.0,0.0,0.1603,0.0021,false
+Minyak Goreng Kemasan Bermerk 1,Maluku Utara,2026-11-26,26000.0,-0.0545,-0.0545,0.04,0.0126,false
+Minyak Goreng Kemasan Bermerk 1,Nusa Tenggara Barat,2026-11-26,24950.0,0.0,0.0,0.064,0.0053,false
+Minyak Goreng Kemasan Bermerk 1,Nusa Tenggara Timur,2026-11-26,24900.0,0.0,0.0205,0.0573,0.0025,false
+Minyak Goreng Kemasan Bermerk 1,Papua,2026-11-26,30200.0,0.0033,0.0067,0.0844,0.0007,false
+Minyak Goreng Kemasan Bermerk 1,Papua Barat,2026-11-26,27500.0,0.0,-0.0054,0.0721,0.0044,false
+Minyak Goreng Kemasan Bermerk 1,Riau,2026-11-26,22700.0,-0.0044,-0.0278,0.081,0.0047,false
+Minyak Goreng Kemasan Bermerk 1,Semua Provinsi,2026-11-26,24300.0,-0.0061,-0.0041,0.0824,0.0027,false
+Minyak Goreng Kemasan Bermerk 1,Sulawesi Barat,2026-11-26,24500.0,0.0,0.0,0.0583,0.0031,false
+Minyak Goreng Kemasan Bermerk 1,Sulawesi Selatan,2026-11-26,23450.0,-0.0021,-0.0021,0.0907,0.0021,false
+Minyak Goreng Kemasan Bermerk 1,Sulawesi Tengah,2026-11-26,23750.0,0.0,0.0,0.0556,0.0257,false
+Minyak Goreng Kemasan Bermerk 1,Sulawesi Tenggara,2026-11-26,26200.0,-0.0057,-0.0057,0.0962,0.0025,false
+Minyak Goreng Kemasan Bermerk 1,Sulawesi Utara,2026-11-26,23200.0,0.0,-0.0169,0.0841,0.0022,false
+Minyak Goreng Kemasan Bermerk 1,Sumatera Barat,2026-11-26,25050.0,0.0,0.0,0.0821,0.0009,false
+Minyak Goreng Kemasan Bermerk 1,Sumatera Selatan,2026-11-26,21400.0,-0.0047,-0.0047,0.0363,0.0038,false
+Minyak Goreng Kemasan Bermerk 1,Sumatera Utara,2026-11-26,22800.0,0.0,0.0044,0.0704,0.0026,false
+Minyak Goreng Kemasan Bermerk 2,Aceh,2026-11-26,24150.0,-0.0102,-0.0102,0.0781,0.0056,false
+Minyak Goreng Kemasan Bermerk 2,Bali,2026-11-26,24300.0,-0.0122,-0.0021,0.1172,0.0033,false
+Minyak Goreng Kemasan Bermerk 2,Banten,2026-11-26,23400.0,-0.0106,-0.0106,0.1064,0.0013,false
+Minyak Goreng Kemasan Bermerk 2,Bengkulu,2026-11-26,23500.0,0.0,0.0108,0.1634,0.0013,false
+Minyak Goreng Kemasan Bermerk 2,DI Yogyakarta,2026-11-26,23750.0,0.0,0.0,0.131,0.0,false
+Minyak Goreng Kemasan Bermerk 2,DKI Jakarta,2026-11-26,23350.0,0.0,0.0065,0.1093,0.0008,false
+Minyak Goreng Kemasan Bermerk 2,Gorontalo,2026-11-26,31100.0,0.0,0.0,0.0471,0.0041,false
+Minyak Goreng Kemasan Bermerk 2,Jambi,2026-11-26,23000.0,0.0,0.0,0.15,0.0,false
+Minyak Goreng Kemasan Bermerk 2,Jawa Barat,2026-11-26,22650.0,0.0022,0.0022,0.0786,0.0022,false
+Minyak Goreng Kemasan Bermerk 2,Jawa Tengah,2026-11-26,22050.0,0.0023,-0.009,0.1025,0.0013,false
+Minyak Goreng Kemasan Bermerk 2,Jawa Timur,2026-11-26,22250.0,0.0,-0.0045,0.0775,0.0015,false
+Minyak Goreng Kemasan Bermerk 2,Kalimantan Barat,2026-11-26,23150.0,-0.0022,-0.0043,0.0767,0.0029,false
+Minyak Goreng Kemasan Bermerk 2,Kalimantan Selatan,2026-11-26,24350.0,0.0,0.0,0.0751,0.0011,false
+Minyak Goreng Kemasan Bermerk 2,Kalimantan Tengah,2026-11-26,24650.0,0.0,0.0,0.1079,0.0013,false
+Minyak Goreng Kemasan Bermerk 2,Kalimantan Timur,2026-11-26,24100.0,-0.0263,-0.0082,0.1395,0.0133,false
+Minyak Goreng Kemasan Bermerk 2,Kalimantan Utara,2026-11-26,23450.0,-0.0209,0.0,0.0984,0.0057,false
+Minyak Goreng Kemasan Bermerk 2,Kepulauan Bangka Belitung,2026-11-26,19500.0,0.013,0.0052,0.0955,0.0025,false
+Minyak Goreng Kemasan Bermerk 2,Kepulauan Riau,2026-11-26,20650.0,0.0248,0.0248,0.1346,0.0138,false
+Minyak Goreng Kemasan Bermerk 2,Lampung,2026-11-26,21350.0,0.0,0.0071,0.1541,0.0017,false
+Minyak Goreng Kemasan Bermerk 2,Maluku,2026-11-26,26250.0,0.0,0.0038,0.1339,0.006,false
+Minyak Goreng Kemasan Bermerk 2,Maluku Utara,2026-11-26,21500.0,-0.0753,-0.0753,0.0,0.0117,false
+Minyak Goreng Kemasan Bermerk 2,Nusa Tenggara Barat,2026-11-26,22650.0,0.0,0.0044,0.051,0.0057,false
+Minyak Goreng Kemasan Bermerk 2,Nusa Tenggara Timur,2026-11-26,23700.0,0.0,0.0216,0.07,0.0028,false
+Minyak Goreng Kemasan Bermerk 2,Papua,2026-11-26,27200.0,0.0,0.0055,0.0709,0.0029,false
+Minyak Goreng Kemasan Bermerk 2,Papua Barat,2026-11-26,23750.0,0.0,0.015,0.0795,0.004,false
+Minyak Goreng Kemasan Bermerk 2,Riau,2026-11-26,22000.0,-0.0023,-0.0068,0.137,0.0048,false
+Minyak Goreng Kemasan Bermerk 2,Semua Provinsi,2026-11-26,23550.0,-0.0084,-0.0021,0.0979,0.0029,false
+Minyak Goreng Kemasan Bermerk 2,Sulawesi Barat,2026-11-26,25400.0,0.0,0.0,0.0972,0.0015,false
+Minyak Goreng Kemasan Bermerk 2,Sulawesi Selatan,2026-11-26,22800.0,-0.0065,-0.0065,0.1372,0.0027,false
+Minyak Goreng Kemasan Bermerk 2,Sulawesi Tengah,2026-11-26,24900.0,0.0,0.0101,0.1318,0.0024,false
+Minyak Goreng Kemasan Bermerk 2,Sulawesi Tenggara,2026-11-26,25150.0,0.0,0.0,0.1253,0.0018,false
+Minyak Goreng Kemasan Bermerk 2,Sulawesi Utara,2026-11-26,23250.0,0.0,0.0065,0.1259,0.0018,false
+Minyak Goreng Kemasan Bermerk 2,Sumatera Barat,2026-11-26,23250.0,0.0,0.0,0.1397,0.0008,false
+Minyak Goreng Kemasan Bermerk 2,Sumatera Selatan,2026-11-26,21500.0,-0.0069,-0.0069,0.0047,0.0086,false
+Minyak Goreng Kemasan Bermerk 2,Sumatera Utara,2026-11-26,23150.0,0.0022,-0.0043,0.0644,0.0018,false
+Telur Ayam Ras Segar,Aceh,2026-11-26,27900.0,-0.0089,-0.0211,-0.1213,0.0043,false
+Telur Ayam Ras Segar,Bali,2026-11-26,28650.0,0.0124,-0.0052,-0.0607,0.0037,false
+Telur Ayam Ras Segar,Banten,2026-11-26,25900.0,0.0402,-0.0171,-0.1175,0.0088,false
+Telur Ayam Ras Segar,Bengkulu,2026-11-26,26400.0,0.0,-0.0365,-0.099,0.0046,false
+Telur Ayam Ras Segar,DI Yogyakarta,2026-11-26,24900.0,0.0163,-0.004,-0.1263,0.0052,false
+Telur Ayam Ras Segar,DKI Jakarta,2026-11-26,24700.0,0.0,-0.0389,-0.1767,0.0061,false
+Telur Ayam Ras Segar,Gorontalo,2026-11-26,32500.0,0.0,0.0,-0.1855,0.0063,false
+Telur Ayam Ras Segar,Jambi,2026-11-26,25850.0,0.0,0.0157,-0.0479,0.0033,false
+Telur Ayam Ras Segar,Jawa Barat,2026-11-26,24750.0,-0.004,-0.0275,-0.1624,0.0045,false
+Telur Ayam Ras Segar,Jawa Tengah,2026-11-26,24550.0,0.0294,0.0229,-0.1325,0.0047,false
+Telur Ayam Ras Segar,Jawa Timur,2026-11-26,23350.0,-0.0021,-0.0189,-0.1778,0.0052,false
+Telur Ayam Ras Segar,Kalimantan Barat,2026-11-26,30850.0,0.0,-0.0032,-0.1019,0.0049,false
+Telur Ayam Ras Segar,Kalimantan Selatan,2026-11-26,28600.0,0.0,-0.0138,-0.109,0.0051,false
+Telur Ayam Ras Segar,Kalimantan Tengah,2026-11-26,31800.0,0.0,-0.0245,-0.0422,0.0062,false
+Telur Ayam Ras Segar,Kalimantan Timur,2026-11-26,29400.0,-0.0345,-0.0134,-0.0755,0.0289,false
+Telur Ayam Ras Segar,Kalimantan Utara,2026-11-26,29200.0,-0.0085,-0.0168,-0.1057,0.0059,false
+Telur Ayam Ras Segar,Kepulauan Bangka Belitung,2026-11-26,33250.0,0.0407,-0.0015,-0.0104,0.0067,false
+Telur Ayam Ras Segar,Kepulauan Riau,2026-11-26,29750.0,-0.0083,0.0,-0.0262,0.0097,false
+Telur Ayam Ras Segar,Lampung,2026-11-26,25200.0,0.0,-0.027,-0.134,0.0041,false
+Telur Ayam Ras Segar,Maluku,2026-11-26,35200.0,0.0,0.0,-0.033,0.0021,false
+Telur Ayam Ras Segar,Maluku Utara,2026-11-26,40200.0,0.0,-0.0255,0.0374,0.014,false
+Telur Ayam Ras Segar,Nusa Tenggara Barat,2026-11-26,28400.0,0.0,-0.0207,-0.0549,0.0057,false
+Telur Ayam Ras Segar,Nusa Tenggara Timur,2026-11-26,30750.0,-0.0032,-0.0128,-0.0996,0.0021,false
+Telur Ayam Ras Segar,Papua,2026-11-26,37600.0,-0.0105,-0.0157,-0.0493,0.0023,false
+Telur Ayam Ras Segar,Papua Barat,2026-11-26,33750.0,0.0,-0.033,-0.1118,0.0045,false
+Telur Ayam Ras Segar,Riau,2026-11-26,27250.0,-0.0055,-0.0794,-0.1431,0.0047,false
+Telur Ayam Ras Segar,Semua Provinsi,2026-11-26,28950.0,-0.0017,-0.0186,-0.0911,0.0019,false
+Telur Ayam Ras Segar,Sulawesi Barat,2026-11-26,25200.0,-0.0803,-0.1142,-0.0803,0.0103,false
+Telur Ayam Ras Segar,Sulawesi Selatan,2026-11-26,24050.0,0.0063,-0.0184,-0.1174,0.0057,false
+Telur Ayam Ras Segar,Sulawesi Tengah,2026-11-26,29950.0,0.0,0.0,-0.0641,0.0086,false
+Telur Ayam Ras Segar,Sulawesi Tenggara,2026-11-26,28350.0,-0.0087,-0.0406,-0.1127,0.006,false
+Telur Ayam Ras Segar,Sulawesi Utara,2026-11-26,30550.0,-0.0049,-0.0049,-0.0348,0.003,false
+Telur Ayam Ras Segar,Sumatera Barat,2026-11-26,28600.0,0.0,-0.0069,-0.0561,0.0019,false
+Telur Ayam Ras Segar,Sumatera Selatan,2026-11-26,27550.0,0.0,0.0092,-0.0645,0.0061,false
+Telur Ayam Ras Segar,Sumatera Utara,2026-11-26,30100.0,0.0,-0.0115,-0.1134,0.0037,false
